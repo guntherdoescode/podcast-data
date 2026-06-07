@@ -1,58 +1,1934 @@
 [
   {
-    "title": "The Daily",
-    "rss": "https://feeds.simplecast.com/54nAGcIl"
+    "title": "13: A Taylor Swift Fan Podcast",
+    "rss": "https://rss.art19.com/13-a-taylor-swift-fan-podcast"
   },
   {
-    "title": "Stuff You Should Know",
-    "rss": "https://omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/A91018A4-EA4F-4130-BF55-AE270180C327/44710ECC-10BB-48D1-93C7-AE270180C33E/podcast.rss"
+    "title": "1A",
+    "rss": "https://feeds.npr.org/510316/podcast.xml"
   },
   {
-    "title": "The Joe Rogan Experience",
-    "rss": "https://feeds.megaphone.fm/GLT1412515089"
+    "title": "2 Bears, 1 Cave with Tom Segura & Bert Kreischer",
+    "rss": "https://feeds.megaphone.fm/YMH8516456556"
   },
   {
-    "title": "TED Talks Daily",
-    "rss": "https://feeds.acast.com/public/shows/67587e77c705e441797aff96"
+    "title": "20/20",
+    "rss": "https://feeds.megaphone.fm/ESP3456903052"
   },
   {
-    "title": "My Favorite Murder",
-    "rss": "https://omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/bdde8bb3-169d-43b1-91d3-b24c0047969c/f450d41f-16bc-4ecd-8f6c-b24c004796e2/podcast.rss"
+    "title": "3 Body Podcast",
+    "rss": "https://feeds.megaphone.fm/NETFLIX8295742740"
   },
   {
-    "title": "Wait Wait... Don't Tell Me!",
-    "rss": "https://feeds.npr.org/344098539/podcast.xml"
+    "title": "30 for 30 Podcasts",
+    "rss": "https://feeds.megaphone.fm/ESP5765452710"
+  },
+  {
+    "title": "32 Thoughts: The Podcast",
+    "rss": "https://feeds.simplecast.com/fYqFr5h_"
+  },
+  {
+    "title": "60 Songs That Explain the '90s",
+    "rss": "https://feeds.megaphone.fm/60-songs"
+  },
+  {
+    "title": "A Twist of History",
+    "rss": "https://feeds.simplecast.com/ONmLf8_c"
+  },
+  {
+    "title": "ABC News Update",
+    "rss": "https://feeds.megaphone.fm/ESP9792844572"
+  },
+  {
+    "title": "Absolutely Not",
+    "rss": "https://rss.art19.com/absolutely-not"
+  },
+  {
+    "title": "Actions Detrimental with Denny Hamlin",
+    "rss": "https://feeds.simplecast.com/WhTGFBFO"
+  },
+  {
+    "title": "Advisory Opinions",
+    "rss": "https://feeds.megaphone.fm/DISPME4573820108"
+  },
+  {
+    "title": "After School Snack with Sam Salem",
+    "rss": "https://feeds.megaphone.fm/IMP4703770741"
+  },
+  {
+    "title": "After the Edit with Daryn Carp",
+    "rss": "https://feeds.acast.com/public/shows/69cf705ef44b357ce97106aa"
+  },
+  {
+    "title": "AI Business Daily",
+    "rss": "https://feeds.simplecast.com/KH15z61n"
+  },
+  {
+    "title": "Alexi Lalas\u2019 State of the Union Podcast",
+    "rss": "https://feeds.megaphone.fm/alexi-lalas-sou"
+  },
+  {
+    "title": "Alien Encounters",
+    "rss": "https://feeds.acast.com/public/shows/64e689c55dfc5d0011072273"
+  },
+  {
+    "title": "All Songs Considered",
+    "rss": "https://feeds.npr.org/g-s1-111189/podcast.xml"
+  },
+  {
+    "title": "All There Is with Anderson Cooper",
+    "rss": "https://feeds.megaphone.fm/WMHY6497875466"
+  },
+  {
+    "title": "American History Tellers",
+    "rss": "https://rss.art19.com/american-history-tellers"
+  },
+  {
+    "title": "American Scandal",
+    "rss": "https://rss.art19.com/american-scandal"
+  },
+  {
+    "title": "Anatomy of Murder",
+    "rss": "https://feeds.simplecast.com/GdzgJRQH"
+  },
+  {
+    "title": "Ancient Aliens",
+    "rss": "https://rss.art19.com/ancient-aliens"
+  },
+  {
+    "title": "Ancient Civilisations",
+    "rss": "https://feeds.megaphone.fm/ancientcivilisations"
+  },
+  {
+    "title": "Anderson Cooper 360",
+    "rss": "https://feeds.megaphone.fm/WMHY1640189360"
+  },
+  {
+    "title": "Andy & Ari On3",
+    "rss": "https://feeds.simplecast.com/6Vtat3Ig"
+  },
+  {
+    "title": "Andy Cohen\u2019s Daddy Diaries Podcast",
+    "rss": "https://feeds.simplecast.com/A1EGvXFD"
+  },
+  {
+    "title": "Are You Garbage? Comedy Podcast",
+    "rss": "https://feeds.megaphone.fm/TPC7413106767"
+  },
+  {
+    "title": "Ark News Daily",
+    "rss": "https://feeds.simplecast.com/lmVOA_2Z"
+  },
+  {
+    "title": "Armchair Expert with Dax Shepard",
+    "rss": "https://rss.art19.com/armchair-expert"
+  },
+  {
+    "title": "Artist Friendly with Joel Madden",
+    "rss": "https://feeds.megaphone.fm/artistfriendly"
+  },
+  {
+    "title": "Baby, this is Keke Palmer",
+    "rss": "https://rss.art19.com/baby-this-is-keke-palmer"
+  },
+  {
+    "title": "Bad Dates",
+    "rss": "https://feeds.simplecast.com/PVIkIQNo"
+  },
+  {
+    "title": "Bandsplain",
+    "rss": "https://feeds.megaphone.fm/GLT3365274141"
+  },
+  {
+    "title": "Baseball Tonight with Buster Olney",
+    "rss": "https://feeds.megaphone.fm/ESP1723897648"
+  },
+  {
+    "title": "Bear Brook",
+    "rss": "https://feeds.megaphone.fm/TPG7540613670"
+  },
+  {
+    "title": "Bertcast",
+    "rss": "https://feeds.megaphone.fm/YMH9011606005"
+  },
+  {
+    "title": "Big Brains",
+    "rss": "https://feeds.simplecast.com/4FF7CAnQ"
+  },
+  {
+    "title": "Big Bro with Kid Cudi",
+    "rss": "https://feeds.megaphone.fm/BSN5208876044"
+  },
+  {
+    "title": "Bill O\u2019Reilly\u2019s No Spin News and Analysis",
+    "rss": "https://feeds.megaphone.fm/RSV2429196838"
+  },
+  {
+    "title": "Bitch Bible",
+    "rss": "https://rss.art19.com/bitch-bible-pod"
+  },
+  {
+    "title": "Blocks w/ Neal Brennan",
+    "rss": "https://feeds.megaphone.fm/TPC1688414199"
+  },
+  {
+    "title": "Brains On! Science podcast for kids",
+    "rss": "https://feeds.megaphone.fm/LEME2532531912"
+  },
+  {
+    "title": "Bravo Breaking News",
+    "rss": "https://feeds.simplecast.com/FNMmbebJ"
+  },
+  {
+    "title": "Bravo's Most Wanted with Jami Rice and Katie Ginella",
+    "rss": "https://feeds.megaphone.fm/CTL7698157859"
+  },
+  {
+    "title": "Breaking News from Pod Save America",
+    "rss": "https://feeds.megaphone.fm/CROOKEDMEDIAINC9307272170"
+  },
+  {
+    "title": "Brian Entin Investigates",
+    "rss": "https://feeds.megaphone.fm/brianentininvestigates"
+  },
+  {
+    "title": "Brian Windhorst & The Hoop Collective",
+    "rss": "https://feeds.megaphone.fm/ESP4033296397"
+  },
+  {
+    "title": "Bridgerton: The Official Podcast",
+    "rss": "https://feeds.megaphone.fm/NETFLIX6060926861"
+  },
+  {
+    "title": "Bunker 8",
+    "rss": "https://feeds.acast.com/public/shows/67c5960c2d83ccdeece1b1f5"
+  },
+  {
+    "title": "Call Her Daddy",
+    "rss": "https://feeds.simplecast.com/mKn_QmLS"
+  },
+  {
+    "title": "Casefile True Crime",
+    "rss": "https://feeds.acast.com/public/shows/679acff465f74095106abfaa"
+  },
+  {
+    "title": "Casuals with Katie Nolan",
+    "rss": "https://feeds.simplecast.com/jC9NVTN3"
+  },
+  {
+    "title": "Change Your Mind with New Scientist",
+    "rss": "https://feeds.megaphone.fm/ARML7523345494"
+  },
+  {
+    "title": "Charlene: Somebody Knows Something",
+    "rss": "https://feeds.acast.com/public/shows/6855868f4dd392b0fb00f659"
+  },
+  {
+    "title": "Chasing Life",
+    "rss": "https://feeds.megaphone.fm/WMHY6124370245"
+  },
+  {
+    "title": "CHGO Chicago Bears Podcast",
+    "rss": "https://feeds.simplecast.com/oSbdDATR"
+  },
+  {
+    "title": "Classical Music Happy Hour",
+    "rss": "https://feeds.simplecast.com/ErCmj16D"
+  },
+  {
+    "title": "Claude AI",
+    "rss": "https://rss.art19.com/infamous-ai"
+  },
+  {
+    "title": "Clear+Vivid with Alan Alda",
+    "rss": "https://feeds.simplecast.com/z1QZGf6d"
+  },
+  {
+    "title": "CNN 5 Things",
+    "rss": "https://feeds.megaphone.fm/WMHY2007701094"
+  },
+  {
+    "title": "CNN Inside Politics",
+    "rss": "https://feeds.megaphone.fm/WMHY2364873047"
+  },
+  {
+    "title": "CNN NewsNight with Abby Phillip",
+    "rss": "https://feeds.megaphone.fm/WMHY6221692713"
+  },
+  {
+    "title": "CNN This Morning",
+    "rss": "https://feeds.megaphone.fm/WMHY6944338691"
+  },
+  {
+    "title": "Comedy Bang Bang: The Podcast",
+    "rss": "https://feeds.simplecast.com/byb4nhvN"
+  },
+  {
+    "title": "Conan O\u2019Brien Needs A Friend",
+    "rss": "https://feeds.simplecast.com/dHoohVNH"
+  },
+  {
+    "title": "Confessions of an Elite Athlete with Midge Purce",
+    "rss": "https://feeds.megaphone.fm/VMP3428885028"
+  },
+  {
+    "title": "Consider This from NPR",
+    "rss": "https://feeds.npr.org/510355/podcast.xml"
+  },
+  {
+    "title": "Crash Course Pods: The Universe",
+    "rss": "https://rss.art19.com/crash-course-the-universe"
+  },
+  {
+    "title": "Crash Dummies Podcast with Pat and Mike",
+    "rss": "https://feeds.megaphone.fm/TMGP2270700721"
   },
   {
     "title": "Crime Junkie",
     "rss": "https://feeds.simplecast.com/qm_9xx0g"
   },
   {
-    "title": "Planet Money",
-    "rss": "https://feeds.npr.org/510289/podcast.xml"
+    "title": "Crime, Conspiracy, Cults and Murder",
+    "rss": "https://feeds.megaphone.fm/QCD5880453128"
   },
   {
-    "title": "Radiolab",
-    "rss": "https://feeds.simplecast.com/EmVW7VGp"
+    "title": "Criminal",
+    "rss": "https://feeds.megaphone.fm/VMP7924981569"
+  },
+  {
+    "title": "Daily Dose of Dana",
+    "rss": "https://feeds.simplecast.com/zD93SYt1"
   },
   {
     "title": "Dan Carlin's Hardcore History",
     "rss": "http://feeds.feedburner.com/dancarlin/history?format=xml"
   },
   {
-    "title": "The Tim Ferriss Show",
-    "rss": "https://rss.art19.com/tim-ferriss-show" 
+    "title": "Dark Downeast",
+    "rss": "https://feeds.simplecast.com/LqfhW4oK"
   },
   {
     "title": "Darknet Diaries",
     "rss": "https://feeds.megaphone.fm/darknetdiaries"
   },
   {
-    "title": "This American Life",
-    "rss": "https://www.thisamericanlife.org/podcast/rss.xml" 
+    "title": "Dave & Chuck the Freak: Full Show",
+    "rss": "https://rss.art19.com/dave-and-chuck-the-freak-full-show"
+  },
+  {
+    "title": "Deadly Nightmares",
+    "rss": "https://feeds.acast.com/public/shows/62feb861554c65001398100c"
+  },
+  {
+    "title": "Decoder Ring",
+    "rss": "https://feeds.acast.com/public/shows/696572d375c092ac4e159c27"
+  },
+  {
+    "title": "Desert Skies",
+    "rss": "https://feeds.megaphone.fm/desertskies"
+  },
+  {
+    "title": "Diggin' Deep Shows",
+    "rss": "https://feeds.simplecast.com/PxJCIwE3"
+  },
+  {
+    "title": "Dissect",
+    "rss": "https://feeds.megaphone.fm/dissectwide"
+  },
+  {
+    "title": "DK Pittsburgh Sports: Daily podcasts on Steelers, Penguins, Pirates!",
+    "rss": "https://feeds.simplecast.com/OkvCKc09"
+  },
+  {
+    "title": "Dolly Parton's America",
+    "rss": "https://feeds.simplecast.com/kZ0W9vjc"
+  },
+  {
+    "title": "Door Bumper Clear",
+    "rss": "https://feeds.simplecast.com/jxOmnKXW"
+  },
+  {
+    "title": "Dumb Blonde",
+    "rss": "https://rss.art19.com/dumb-blonde"
+  },
+  {
+    "title": "Dunc'd On Basketball NBA Podcast",
+    "rss": "https://feeds.simplecast.com/JGGpY1xu"
+  },
+  {
+    "title": "DUST",
+    "rss": "https://feeds.acast.com/public/shows/32a7db3f-bb92-510a-ad6a-94d579b7d794"
+  },
+  {
+    "title": "Dynasty Nerds Podcast | Dynasty Fantasy Football",
+    "rss": "https://feeds.megaphone.fm/dynastynerdspodcast"
+  },
+  {
+    "title": "Eagle Eye: A Philadelphia Eagles Podcast",
+    "rss": "https://feeds.simplecast.com/_ENNUG3a"
+  },
+  {
+    "title": "El Maestro Doggy El Podcast",
+    "rss": "https://feeds.simplecast.com/9Cu7_2Le"
+  },
+  {
+    "title": "Empire: World History",
+    "rss": "https://feeds.megaphone.fm/empirepodcast"
+  },
+  {
+    "title": "Engagement Party",
+    "rss": "https://feeds.megaphone.fm/WMHY7631189553"
+  },
+  {
+    "title": "Erazno y La Chokolata El Podcast",
+    "rss": "https://feeds.simplecast.com/WDug2Tly"
+  },
+  {
+    "title": "ESPN Daily",
+    "rss": "https://feeds.megaphone.fm/ESP8348692127"
+  },
+  {
+    "title": "Every Single Album",
+    "rss": "https://feeds.megaphone.fm/every-single-album"
+  },
+  {
+    "title": "Fantasy Focus Football",
+    "rss": "https://feeds.megaphone.fm/ESP7699980268"
+  },
+  {
+    "title": "Fantasy Football with Josh & Hayden",
+    "rss": "https://feeds.megaphone.fm/BVLLC5943241697"
+  },
+  {
+    "title": "Fantasy Footballers - Fantasy Football Podcast",
+    "rss": "https://feeds.simplecast.com/sw7PGWfw"
+  },
+  {
+    "title": "Fantasy Footballers Dynasty - Fantasy Football Podcast",
+    "rss": "https://feeds.simplecast.com/jBmUnkXF"
+  },
+  {
+    "title": "Fareed Zakaria GPS",
+    "rss": "https://feeds.megaphone.fm/WMHY7703459968"
+  },
+  {
+    "title": "Fear Thy Neighbor",
+    "rss": "https://feeds.acast.com/public/shows/62d8a1f077aecf0014da26d8"
+  },
+  {
+    "title": "Fear&",
+    "rss": "https://feeds.megaphone.fm/QCD3550222091"
+  },
+  {
+    "title": "Fearless with Jason Whitlock",
+    "rss": "https://feeds.megaphone.fm/fearlesswithjasonwhitlock"
+  },
+  {
+    "title": "Felger & Massarotti",
+    "rss": "https://rss.art19.com/felger-and-massarotti"
+  },
+  {
+    "title": "First Draft",
+    "rss": "https://feeds.megaphone.fm/ESP5707918440"
+  },
+  {
+    "title": "First Take",
+    "rss": "https://feeds.megaphone.fm/ESP1539938155"
+  },
+  {
+    "title": "First Things First",
+    "rss": "https://feeds.megaphone.fm/first-things-first"
+  },
+  {
+    "title": "Five Miles From Home",
+    "rss": "https://feeds.simplecast.com/2RbGSoKZ"
+  },
+  {
+    "title": "Flagrant",
+    "rss": "https://feeds.megaphone.fm/APPI6857213837"
+  },
+  {
+    "title": "Fly on the Wall with Dana Carvey and David Spade",
+    "rss": "https://feeds.megaphone.fm/fly-on-the-wall"
+  },
+  {
+    "title": "For The Love With Jen Hatmaker Podcast",
+    "rss": "https://feeds.megaphone.fm/for-the-love"
+  },
+  {
+    "title": "Fox News Hourly Update",
+    "rss": "https://feeds.megaphone.fm/FOXM2252206613"
+  },
+  {
+    "title": "Freakonomics, M.D.",
+    "rss": "https://feeds.simplecast.com/Bx9_hnJH"
+  },
+  {
+    "title": "FT News Briefing",
+    "rss": "https://feeds.acast.com/public/shows/73fe3ede-5c5c-4850-96a8-30db8dbae8bf"
+  },
+  {
+    "title": "Funny You Ask with Ike Barinholtz",
+    "rss": "https://feeds.megaphone.fm/UNDERSCORETALENTMANAGEMENT2466455927"
+  },
+  {
+    "title": "Garage Logic",
+    "rss": "https://rss.art19.com/garage-logic"
+  },
+  {
+    "title": "Get Up",
+    "rss": "https://feeds.megaphone.fm/ESP2870920494"
+  },
+  {
+    "title": "Giggly Squad",
+    "rss": "https://feeds.acast.com/public/shows/780a3042-864b-40fa-ae09-4557aec621c3"
+  },
+  {
+    "title": "Girls Gotta Eat",
+    "rss": "https://feeds.megaphone.fm/DEARMEDIALLC6497520465"
+  },
+  {
+    "title": "God's Country",
+    "rss": "https://feeds.megaphone.fm/tbhnetwork"
+  },
+  {
+    "title": "Going West: True Crime",
+    "rss": "https://feeds.simplecast.com/Z2Ui5wFW"
+  },
+  {
+    "title": "Good For You with Whitney Cummings",
+    "rss": "https://feeds.megaphone.fm/TPC4385245503"
+  },
+  {
+    "title": "Good Hang with Amy Poehler",
+    "rss": "https://feeds.megaphone.fm/good-hang-with-amy-poehler"
+  },
+  {
+    "title": "GOOD OL' GRATEFUL DEADCAST",
+    "rss": "https://rss.art19.com/good-ol-grateful-dead-cast"
+  },
+  {
+    "title": "Greg Bedard Patriots Podcast with Nick Cattles",
+    "rss": "https://feeds.megaphone.fm/NSM9491972175"
+  },
+  {
+    "title": "Growth Mindset Psychology: The Science of Self-Improvement",
+    "rss": "https://feeds.megaphone.fm/NSR1382158191"
+  },
+  {
+    "title": "Guy Benson Show",
+    "rss": "https://feeds.megaphone.fm/FOXM5038087669"
+  },
+  {
+    "title": "Hacks Podcast",
+    "rss": "https://feeds.megaphone.fm/WMHY4343566529"
+  },
+  {
+    "title": "Handsome",
+    "rss": "https://rss.art19.com/handsome"
+  },
+  {
+    "title": "Here's the Scoop",
+    "rss": "https://feeds.simplecast.com/u8MC4WkR"
+  },
+  {
+    "title": "Hidden Brain",
+    "rss": "https://feeds.simplecast.com/kwWc0lhf"
+  },
+  {
+    "title": "History Channel Podcast",
+    "rss": "https://feeds.megaphone.fm/historypodcastit"
+  },
+  {
+    "title": "History For Weirdos",
+    "rss": "https://feeds.megaphone.fm/historyforweirdos"
+  },
+  {
+    "title": "History Uncovered",
+    "rss": "https://feeds.megaphone.fm/PBH9965924039"
+  },
+  {
+    "title": "Hoge & Jahns: a show about the Chicago Bears",
+    "rss": "https://feeds.simplecast.com/DxWJevnw"
+  },
+  {
+    "title": "Houston We Have a Podcast",
+    "rss": "https://feeds.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION1776343825"
+  },
+  {
+    "title": "How Did This Get Made?",
+    "rss": "https://feeds.simplecast.com/Ao0C24M8"
+  },
+  {
+    "title": "How To Do Everything",
+    "rss": "https://feeds.npr.org/510384/podcast.xml"
+  },
+  {
+    "title": "Huberman Lab",
+    "rss": "https://feeds.megaphone.fm/hubermanlab"
+  },
+  {
+    "title": "IHIP News",
+    "rss": "https://rss.art19.com/ihip-news"
+  },
+  {
+    "title": "Imagination Amplified",
+    "rss": "https://rss.art19.com/imagination-amplified"
+  },
+  {
+    "title": "Inhuman: A True Crime Podcast",
+    "rss": "https://feeds.megaphone.fm/GBLL3785923321"
+  },
+  {
+    "title": "Inside Trump's Head",
+    "rss": "https://feeds.megaphone.fm/QCD8589611489"
+  },
+  {
+    "title": "Interesting Times with Ross Douthat",
+    "rss": "https://feeds.simplecast.com/bS1LZG8m"
+  },
+  {
+    "title": "Into The Dark",
+    "rss": "https://feeds.megaphone.fm/ADL9211854799"
+  },
+  {
+    "title": "IT IS WHAT IT IS",
+    "rss": "https://feeds.megaphone.fm/BLU7984721871"
+  },
+  {
+    "title": "jackass the podcast with johnny knoxville and jeff tremaine",
+    "rss": "https://rss.art19.com/jackass-the-podcast-with-johnny-knoxville-and-jeff-tremaine"
+  },
+  {
+    "title": "Joel Osteen Podcast",
+    "rss": "https://feeds.simplecast.com/_IGBdGdB"
+  },
+  {
+    "title": "Kill List",
+    "rss": "https://rss.art19.com/kill-list"
+  },
+  {
+    "title": "KILL TONY",
+    "rss": "https://feeds.simplecast.com/JZSQrle9"
+  },
+  {
+    "title": "Killer Stories with Harvey Guill\u00e9n",
+    "rss": "https://feeds.megaphone.fm/END1032105222"
+  },
+  {
+    "title": "Kinda Funny Games Daily: Video Games News Podcast",
+    "rss": "https://feeds.megaphone.fm/ROOSTER8838278962"
+  },
+  {
+    "title": "kPod - The Kidd Kraddick Morning Show",
+    "rss": "https://rss.art19.com/kpod"
+  },
+  {
+    "title": "Last Podcast On The Left",
+    "rss": "https://feeds.simplecast.com/dCXMIpJz"
+  },
+  {
+    "title": "Last Resort",
+    "rss": "https://feeds.megaphone.fm/lastresort"
+  },
+  {
+    "title": "Late Night with Seth Meyers Podcast",
+    "rss": "https://rss.art19.com/late-night-with-seth-meyers-podcast"
+  },
+  {
+    "title": "Law&Crime Sidebar",
+    "rss": "https://rss.art19.com/law-crime-sidebar"
+  },
+  {
+    "title": "Learn French with daily podcasts",
+    "rss": "https://feeds.acast.com/public/shows/66068dc22d276f001657edb1"
+  },
+  {
+    "title": "Let's Learn Everything!",
+    "rss": "https://feeds.simplecast.com/2pvdZXa_"
+  },
+  {
+    "title": "Little Miss Recap: Reality TV Through a Gen X Lens",
+    "rss": "https://feeds.acast.com/public/shows/69b30e05bffd975a45d0ebd2"
+  },
+  {
+    "title": "Locked On Braves - Daily Podcast On The Atlanta Braves",
+    "rss": "https://feeds.simplecast.com/A8cRG01Y"
+  },
+  {
+    "title": "Love & Justice",
+    "rss": "https://feeds.acast.com/public/shows/64d56903dd4d910011cdfa1e"
+  },
+  {
+    "title": "MANslaughter",
+    "rss": "https://rss.art19.com/man-slaughter"
+  },
+  {
+    "title": "Mark Levin Podcast",
+    "rss": "https://feeds.megaphone.fm/mark-levin-podcast"
+  },
+  {
+    "title": "Mention It All",
+    "rss": "https://feeds.megaphone.fm/BMLLC8471039145"
+  },
+  {
+    "title": "Mike Birbiglia's Working It Out",
+    "rss": "https://feeds.simplecast.com/MTW0B2El"
+  },
+  {
+    "title": "Mind the Game",
+    "rss": "https://rss.art19.com/mind-the-game"
+  },
+  {
+    "title": "Mo News",
+    "rss": "https://feeds.megaphone.fm/ADV8678235965"
+  },
+  {
+    "title": "Moms and Mysteries: A True Crime Podcast",
+    "rss": "https://feeds.megaphone.fm/SBP1996393365"
+  },
+  {
+    "title": "Monday Morning Podcast",
+    "rss": "https://rss.art19.com/monday-morning"
+  },
+  {
+    "title": "Morally Corrupt",
+    "rss": "https://feeds.megaphone.fm/ringer-reality-tv"
+  },
+  {
+    "title": "Morbid",
+    "rss": "https://feeds.simplecast.com/ohmVlJZQ"
+  },
+  {
+    "title": "Morning Announcements",
+    "rss": "https://feeds.megaphone.fm/BMLLC2929394709"
+  },
+  {
+    "title": "Morning Brew Daily",
+    "rss": "https://feeds.megaphone.fm/MOBI8777994188"
+  },
+  {
+    "title": "Morning Joe",
+    "rss": "https://feeds.simplecast.com/5EFCkAYb"
+  },
+  {
+    "title": "MrBallen Podcast: Strange, Dark & Mysterious Stories",
+    "rss": "https://feeds.simplecast.com/dloY8UYJ"
+  },
+  {
+    "title": "MrBallen\u2019s Medical Mysteries",
+    "rss": "https://rss.art19.com/mrballens-medical-mysteries"
+  },
+  {
+    "title": "Murder In America",
+    "rss": "https://feeds.megaphone.fm/BDA3927678471"
+  },
+  {
+    "title": "Murder Sheet",
+    "rss": "https://rss.art19.com/murder-sheet"
+  },
+  {
+    "title": "Murder With My Husband",
+    "rss": "https://feeds.megaphone.fm/HSW2364749129"
+  },
+  {
+    "title": "Murder, She Told",
+    "rss": "https://feeds.megaphone.fm/CTL3944216911"
+  },
+  {
+    "title": "Murdered By Mistake",
+    "rss": "https://feeds.megaphone.fm/murderedbymistake"
+  },
+  {
+    "title": "Music Person",
+    "rss": "https://feeds.megaphone.fm/music-person"
+  },
+  {
+    "title": "My Favorite Murder",
+    "rss": "https://omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/bdde8bb3-169d-43b1-91d3-b24c0047969c/f450d41f-16bc-4ecd-8f6c-b24c004796e2/podcast.rss"
+  },
+  {
+    "title": "Mystery Boys w/ Kurt Metzger & Duncan Trussell",
+    "rss": "https://feeds.megaphone.fm/YMH4929221439"
+  },
+  {
+    "title": "NASA's Curious Universe",
+    "rss": "https://feeds.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION8162188566"
+  },
+  {
+    "title": "Nature Podcast",
+    "rss": "https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f"
+  },
+  {
+    "title": "Netflix Is A Daily Joke",
+    "rss": "https://feeds.megaphone.fm/NETFLIX2608127680"
+  },
+  {
+    "title": "New Heights with Jason & Travis Kelce",
+    "rss": "https://rss.art19.com/new-heights"
+  },
+  {
+    "title": "NFL Live",
+    "rss": "https://feeds.megaphone.fm/ESP5241991352"
+  },
+  {
+    "title": "No Jumper",
+    "rss": "https://feeds.megaphone.fm/NJP4856622419"
+  },
+  {
+    "title": "Not Gonna Lie with Kylie Kelce",
+    "rss": "https://feeds.megaphone.fm/BSN1511786771"
+  },
+  {
+    "title": "Not What You Thought You Knew",
+    "rss": "https://feeds.acast.com/public/shows/7db8dbf2-4b79-4d64-892a-d0d87f255834"
+  },
+  {
+    "title": "Nothing Is Real - A Beatles Podcast",
+    "rss": "https://feeds.acast.com/public/shows/aca9e457-8a66-5073-a0ac-f3f7c3b1f11c"
+  },
+  {
+    "title": "NPR Music",
+    "rss": "https://feeds.npr.org/510019/podcast.xml"
+  },
+  {
+    "title": "NPR News Now",
+    "rss": "https://feeds.npr.org/500005/podcast.xml"
+  },
+  {
+    "title": "NPR's Newsmakers",
+    "rss": "https://feeds.npr.org/g-s1-114952/podcast.xml"
+  },
+  {
+    "title": "Office Ladies",
+    "rss": "https://feeds.megaphone.fm/office-ladies"
+  },
+  {
+    "title": "Old Gods of Appalachia",
+    "rss": "https://feeds.acast.com/public/shows/61ba0a431a8cbeb6ea3cf11a"
+  },
+  {
+    "title": "Ologies with Alie Ward",
+    "rss": "https://feeds.simplecast.com/FO6kxYGj"
+  },
+  {
+    "title": "On the Media",
+    "rss": "https://feeds.simplecast.com/o4jAFXaw"
+  },
+  {
+    "title": "One Song",
+    "rss": "https://feeds.megaphone.fm/IMP6296096176"
+  },
+  {
+    "title": "Our Fake History",
+    "rss": "https://rss.art19.com/our-fake-history"
+  },
+  {
+    "title": "Our Wars Have Ended",
+    "rss": "https://feeds.acast.com/public/shows/69de45367beb0a1735923f8e"
+  },
+  {
+    "title": "Over My Dead Body",
+    "rss": "https://rss.art19.com/over-my-dead-body"
+  },
+  {
+    "title": "Overheard at National Geographic",
+    "rss": "https://feeds.megaphone.fm/ESP6921732651"
+  },
+  {
+    "title": "Oysters Clams & Cockles: Euphoria",
+    "rss": "https://feeds.megaphone.fm/BVLLC3341252081"
+  },
+  {
+    "title": "Pablo Torre Finds Out",
+    "rss": "https://feeds.acast.com/public/shows/68b1d0ea993d10acb9c3fe4f"
+  },
+  {
+    "title": "Park Predators",
+    "rss": "https://feeds.simplecast.com/T0BOyX6l"
+  },
+  {
+    "title": "Part Of The Problem",
+    "rss": "https://rss.art19.com/part-of-the-problem"
+  },
+  {
+    "title": "Phenomena Podcast: The Science & Stories of Energy Healing",
+    "rss": "https://feeds.simplecast.com/DPcObb3q"
+  },
+  {
+    "title": "Piers Morgan Uncensored",
+    "rss": "https://feeds.megaphone.fm/RSV2152356740"
+  },
+  {
+    "title": "Pivot",
+    "rss": "https://feeds.megaphone.fm/pivot"
+  },
+  {
+    "title": "Plain English with Derek Thompson",
+    "rss": "https://feeds.megaphone.fm/plain-english"
+  },
+  {
+    "title": "Planet Money",
+    "rss": "https://feeds.npr.org/510289/podcast.xml"
+  },
+  {
+    "title": "Play Me or Fade Me Sports Betting Picks Podcast",
+    "rss": "https://feeds.megaphone.fm/playmeorfademe"
+  },
+  {
+    "title": "Podcast: The Ride",
+    "rss": "https://rss.art19.com/podcasttheride"
+  },
+  {
+    "title": "Popcast",
+    "rss": "https://feeds.simplecast.com/TzbxCT1l"
+  },
+  {
+    "title": "PRISMATIC",
+    "rss": "https://feeds.acast.com/public/shows/593eded1acfa040562f3480b"
+  },
+  {
+    "title": "Professor Brian Cox Live Q and A Podcast",
+    "rss": "https://feeds.feedburner.com/ProfessorBrianCoxLiveQAndAPodcast"
+  },
+  {
+    "title": "ProPublica Narrated",
+    "rss": "https://feeds.megaphone.fm/propublica-narrated"
+  },
+  {
+    "title": "Psychopedia: True Crime & Criminal Psychology",
+    "rss": "https://feeds.megaphone.fm/psychopedia"
+  },
+  {
+    "title": "PTI",
+    "rss": "https://feeds.megaphone.fm/ESP7239282233"
+  },
+  {
+    "title": "Radiolab",
+    "rss": "https://feeds.simplecast.com/EmVW7VGp"
+  },
+  {
+    "title": "Real Moms of Bravo",
+    "rss": "https://feeds.megaphone.fm/CTL2355338082"
+  },
+  {
+    "title": "Real Time with Bill Maher",
+    "rss": "https://feeds.megaphone.fm/WMHY1886903044"
+  },
+  {
+    "title": "Reality Gays with Mattie and Poodle",
+    "rss": "https://feeds.megaphone.fm/reality-gays"
   },
   {
     "title": "Reply All",
     "rss": "https://feeds.megaphone.fm/replyall"
+  },
+  {
+    "title": "Reuters World News",
+    "rss": "https://feeds.megaphone.fm/reutersworldnews"
+  },
+  {
+    "title": "Rolling Stone All Access",
+    "rss": "https://feeds.megaphone.fm/rollingstonemusicnow"
+  },
+  {
+    "title": "Rotten Mango",
+    "rss": "https://feeds.simplecast.com/6Qp23t6h"
+  },
+  {
+    "title": "Scamanda",
+    "rss": "https://feeds.acast.com/public/shows/66d9aa05d740de0852b686a8"
+  },
+  {
+    "title": "Science Friday",
+    "rss": "https://feeds.simplecast.com/h18ZIZD_"
+  },
+  {
+    "title": "Science Magazine Podcast",
+    "rss": "https://feeds.megaphone.fm/AAAS8717073854"
+  },
+  {
+    "title": "Science Rules! with Bill Nye",
+    "rss": "https://feeds.simplecast.com/K0NWGFwM"
+  },
+  {
+    "title": "Science Vs",
+    "rss": "https://feeds.megaphone.fm/sciencevs"
+  },
+  {
+    "title": "SciShow Tangents",
+    "rss": "https://rss.art19.com/scishow-tangents-"
+  },
+  {
+    "title": "Shane Gillis - Biography Flash",
+    "rss": "https://feeds.megaphone.fm/NPTNI6962883530"
+  },
+  {
+    "title": "She's All Bach",
+    "rss": "https://feeds.simplecast.com/GrBPP7XN"
+  },
+  {
+    "title": "Short History Of...",
+    "rss": "https://feeds.megaphone.fm/NSR8236478683"
+  },
+  {
+    "title": "Short Wave",
+    "rss": "https://feeds.npr.org/510351/podcast.xml"
+  },
+  {
+    "title": "Show Me The Money",
+    "rss": "https://rss.art19.com/show-me-the-money"
+  },
+  {
+    "title": "Sidebar: A Suits Watch Podcast",
+    "rss": "https://feeds.simplecast.com/Ch9N4eTz"
+  },
+  {
+    "title": "Six Feet Under with The Undertaker",
+    "rss": "https://rss.art19.com/six-feet-under"
+  },
+  {
+    "title": "Six Minutes",
+    "rss": "https://rss.art19.com/sixminutes"
+  },
+  {
+    "title": "Six Questions with Steven Beschloss",
+    "rss": "https://feeds.megaphone.fm/PNEAU7570731973"
+  },
+  {
+    "title": "Sleep Magic: Sleep Hypnosis & Meditation for Sleep Podcast",
+    "rss": "https://feeds.megaphone.fm/sleepmagic"
+  },
+  {
+    "title": "Sleepy History",
+    "rss": "https://feeds.megaphone.fm/sleepyhistory"
+  },
+  {
+    "title": "Slow Burn",
+    "rss": "https://feeds.acast.com/public/shows/6965759d79fe7d554545528a"
+  },
+  {
+    "title": "SmartLess",
+    "rss": "https://feeds.simplecast.com/hNaFxXpO"
+  },
+  {
+    "title": "Snapped: Women Who Murder",
+    "rss": "https://rss.art19.com/snapped-women-who-murder"
+  },
+  {
+    "title": "So True with Caleb Hearon",
+    "rss": "https://feeds.megaphone.fm/BSN9169489914"
+  },
+  {
+    "title": "Something About Cari",
+    "rss": "https://feeds.simplecast.com/xZ7ozPd7"
+  },
+  {
+    "title": "Something About the Beatles",
+    "rss": "https://feeds.megaphone.fm/somethingabout-thebeatles"
+  },
+  {
+    "title": "Sound Opinions",
+    "rss": "https://rss.art19.com/sound-opinions"
+  },
+  {
+    "title": "Speaking of Psychology",
+    "rss": "https://feeds.megaphone.fm/AMERICANPSYCHOLOGICALASSOCIATION9933181801"
+  },
+  {
+    "title": "Spitballers Comedy Podcast",
+    "rss": "https://feeds.simplecast.com/_WcvqO41"
+  },
+  {
+    "title": "Sports Cards Live",
+    "rss": "https://feeds.megaphone.fm/CTL5331149807"
+  },
+  {
+    "title": "Sports Cards Nonsense",
+    "rss": "https://feeds.megaphone.fm/sports-cards-nonsense"
+  },
+  {
+    "title": "Sports Gambling Podcast",
+    "rss": "https://feeds.simplecast.com/MqvHchJZ"
+  },
+  {
+    "title": "Squawk on the Street",
+    "rss": "https://feeds.simplecast.com/GcylmXl7"
+  },
+  {
+    "title": "Stand-Up w/ Tom Thakkar",
+    "rss": "https://feeds.megaphone.fm/standup"
+  },
+  {
+    "title": "Start Here",
+    "rss": "https://feeds.megaphone.fm/ESP8447327256"
+  },
+  {
+    "title": "StarTalk Radio",
+    "rss": "https://feeds.simplecast.com/4T39_jAj"
+  },
+  {
+    "title": "Stateside with Kai and Carter",
+    "rss": "https://feeds.acast.com/public/shows/69f1f631d7e73f5a692d1d3c"
+  },
+  {
+    "title": "Story Warz",
+    "rss": "https://rss.art19.com/story-warz"
+  },
+  {
+    "title": "Stuff You Should Know",
+    "rss": "https://omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/A91018A4-EA4F-4130-BF55-AE270180C327/44710ECC-10BB-48D1-93C7-AE270180C33E/podcast.rss"
+  },
+  {
+    "title": "Style of Play with Julie Ertz & Kealia Watt",
+    "rss": "https://feeds.megaphone.fm/SINCL8917098150"
+  },
+  {
+    "title": "Switched on Pop",
+    "rss": "https://feeds.megaphone.fm/switchedonpop"
+  },
+  {
+    "title": "Taking Time",
+    "rss": "https://feeds.megaphone.fm/takingtime"
+  },
+  {
+    "title": "Talk Ville",
+    "rss": "https://feeds.megaphone.fm/WWO4962799290"
+  },
+  {
+    "title": "TED Talks Daily",
+    "rss": "https://feeds.acast.com/public/shows/67587e77c705e441797aff96"
+  },
+  {
+    "title": "That's So Criminal",
+    "rss": "https://feeds.megaphone.fm/BVDWV7570906776"
+  },
+  {
+    "title": "The Adam Friedland Show",
+    "rss": "https://rss.art19.com/the-adam-friedland-show"
+  },
+  {
+    "title": "The Adam Schefter Podcast",
+    "rss": "https://feeds.megaphone.fm/ESP3620980398"
+  },
+  {
+    "title": "The Adventure Zone",
+    "rss": "https://feeds.simplecast.com/cYQVc__c"
+  },
+  {
+    "title": "The Album Years",
+    "rss": "https://feeds.megaphone.fm/WIZD5362178070"
+  },
+  {
+    "title": "The Andrew Klavan Show",
+    "rss": "https://feeds.megaphone.fm/BVDWV4977994734"
+  },
+  {
+    "title": "The Athletic FC Podcast",
+    "rss": "https://feeds.acast.com/public/shows/6818be7d1d28d62313ac8ef3"
+  },
+  {
+    "title": "The Athletic FC: Daily Cup",
+    "rss": "https://feeds.acast.com/public/shows/6a213d9be25fe33c7c33e378"
+  },
+  {
+    "title": "The Athletic Football Show: A show about the NFL",
+    "rss": "https://feeds.acast.com/public/shows/681cc905bdc60241406b737f"
+  },
+  {
+    "title": "The Athletic NBA Daily",
+    "rss": "https://feeds.acast.com/public/shows/6818c192eb737caf8cadd833"
+  },
+  {
+    "title": "The Atlas Obscura Podcast",
+    "rss": "https://feeds.simplecast.com/xKJ93w_w"
+  },
+  {
+    "title": "The Bakersfield Three",
+    "rss": "https://feeds.acast.com/public/shows/65381572bc6f900012280fbf"
+  },
+  {
+    "title": "The Bald and the Beautiful with Trixie and Katya",
+    "rss": "https://feeds.megaphone.fm/STU6959689584"
+  },
+  {
+    "title": "The Best of Car Talk",
+    "rss": "https://feeds.npr.org/510208/podcast.xml"
+  },
+  {
+    "title": "The Big Fib",
+    "rss": "https://rss.art19.com/big-fib"
+  },
+  {
+    "title": "The Big Picture",
+    "rss": "https://feeds.megaphone.fm/the-big-picture"
+  },
+  {
+    "title": "The Bill Simmons Podcast",
+    "rss": "https://feeds.megaphone.fm/the-bill-simmons-podcast"
+  },
+  {
+    "title": "The Book Review",
+    "rss": "https://feeds.simplecast.com/zyaxg_KL"
+  },
+  {
+    "title": "The Bret Baier Podcast",
+    "rss": "https://feeds.megaphone.fm/FOXM4144806612"
+  },
+  {
+    "title": "The Briefing with Jen Psaki",
+    "rss": "https://feeds.simplecast.com/vA1gc2kQ"
+  },
+  {
+    "title": "The Chronically Online Podcast",
+    "rss": "https://feeds.acast.com/public/shows/6a18e5fc69630795d8d870f6"
+  },
+  {
+    "title": "The Comedy Cellar: Live from the Table",
+    "rss": "https://feeds.megaphone.fm/CELLARP4703085957"
+  },
+  {
+    "title": "The Commentary Magazine Podcast",
+    "rss": "https://feeds.megaphone.fm/GEMINIMEDIA2783214431"
+  },
+  {
+    "title": "The Compound and Friends",
+    "rss": "https://feeds.megaphone.fm/TCP4771071679"
+  },
+  {
+    "title": "The Curiosity Shop with Bren\u00e9 Brown and Adam Grant",
+    "rss": "https://feeds.megaphone.fm/daretolead"
+  },
+  {
+    "title": "The Daily",
+    "rss": "https://feeds.simplecast.com/54nAGcIl"
+  },
+  {
+    "title": "The Daily Beans",
+    "rss": "https://feeds.simplecast.com/bOogzwqU"
+  },
+  {
+    "title": "The Daily Beast Podcast",
+    "rss": "https://feeds.megaphone.fm/QCD5580850161"
+  },
+  {
+    "title": "THE DAILY BLAST with Greg Sargent",
+    "rss": "https://feeds.megaphone.fm/dailyblast2024"
+  },
+  {
+    "title": "The Daily Show: Ears Edition",
+    "rss": "https://feeds.megaphone.fm/QCD2422844292"
+  },
+  {
+    "title": "The Daily Signal",
+    "rss": "https://feeds.megaphone.fm/thedailysignal"
+  },
+  {
+    "title": "The Daily Stoic",
+    "rss": "https://rss.art19.com/the-daily-stoic"
+  },
+  {
+    "title": "The Dale Jr. Download",
+    "rss": "https://feeds.simplecast.com/xHwJAwNo"
+  },
+  {
+    "title": "The Dan Bongino Show",
+    "rss": "https://feeds.megaphone.fm/WWO3519750118"
+  },
+  {
+    "title": "The Dan Le Batard Show with Stugotz",
+    "rss": "https://feeds.megaphone.fm/ESP2298543312"
+  },
+  {
+    "title": "The David Frum Show",
+    "rss": "https://feeds.megaphone.fm/thedavidfrumshow"
+  },
+  {
+    "title": "The David Pakman Show",
+    "rss": "https://feeds.megaphone.fm/SHHWD4599743349"
+  },
+  {
+    "title": "The Deck",
+    "rss": "https://feeds.simplecast.com/ZH32N6UM"
+  },
+  {
+    "title": "The Deck Investigates",
+    "rss": "https://feeds.simplecast.com/sxk7RTyt"
+  },
+  {
+    "title": "The Dispatch Podcast",
+    "rss": "https://feeds.megaphone.fm/DISPME9513417677"
+  },
+  {
+    "title": "The Dollop with Dave Anthony and Gareth Reynolds",
+    "rss": "https://rss.art19.com/dollop"
+  },
+  {
+    "title": "The Don Lemon Show",
+    "rss": "https://feeds.megaphone.fm/thedonlemonshow"
+  },
+  {
+    "title": "The Don't Call Me White Girl Show",
+    "rss": "https://feeds.megaphone.fm/TPC1450395849"
+  },
+  {
+    "title": "The Dr. Laura Podcast",
+    "rss": "https://feeds.simplecast.com/ZTNLWlKG"
+  },
+  {
+    "title": "The Ebro, Laura, Rosenberg Show",
+    "rss": "https://feeds.megaphone.fm/OSSA1308694799"
+  },
+  {
+    "title": "The Eddie Trunk Podcast",
+    "rss": "https://feeds.simplecast.com/ianWG_Vy"
+  },
+  {
+    "title": "The Editors",
+    "rss": "https://feeds.simplecast.com/bAMj0tiC"
+  },
+  {
+    "title": "The Energy Curfew Music Hour",
+    "rss": "https://rss.art19.com/the-energy-curfew-music-hour"
+  },
+  {
+    "title": "The Excerpt",
+    "rss": "https://rss.art19.com/5-things"
+  },
+  {
+    "title": "The Ezra Klein Show",
+    "rss": "https://feeds.simplecast.com/kEKXbjuJ"
+  },
+  {
+    "title": "The Five",
+    "rss": "https://feeds.megaphone.fm/FOXM1155607994"
+  },
+  {
+    "title": "The Flyover Podcast",
+    "rss": "https://feeds.megaphone.fm/theflyoverpodcast"
+  },
+  {
+    "title": "The Fox News Rundown",
+    "rss": "https://feeds.megaphone.fm/FOXM1880458659"
+  },
+  {
+    "title": "The Future of Everything",
+    "rss": "https://feeds.simplecast.com/Y8_HoeNW"
+  },
+  {
+    "title": "The Greatest Generation",
+    "rss": "https://feeds.acast.com/public/shows/69f118d4f8c66377375f9a45"
+  },
+  {
+    "title": "The Hand in the Window",
+    "rss": "https://feeds.megaphone.fm/ESP3376759743"
+  },
+  {
+    "title": "The Handmaid's Tale Podcast: The Testaments",
+    "rss": "https://feeds.megaphone.fm/TPG3038830027"
+  },
+  {
+    "title": "The Headlines",
+    "rss": "https://feeds.simplecast.com/ydACIPHO"
+  },
+  {
+    "title": "The History Chicks : A Women's History Podcast",
+    "rss": "https://feeds.megaphone.fm/QCD2921626995"
+  },
+  {
+    "title": "The Howie Carr Radio Network",
+    "rss": "https://feeds.simplecast.com/M4QPq2Af"
+  },
+  {
+    "title": "The Idiot",
+    "rss": "https://feeds.simplecast.com/KrIt3mGT"
+  },
+  {
+    "title": "The Investor's Podcast (We Study Billionaires)  - The Investor\u2019s Podcast Network",
+    "rss": "https://feeds.megaphone.fm/PPLLC8974708240"
+  },
+  {
+    "title": "The Jeff Cameron Show ~ Warchant.com",
+    "rss": "https://feeds.simplecast.com/P9FwyWHH"
+  },
+  {
+    "title": "The Jim Rome Show",
+    "rss": "https://feeds.megaphone.fm/WWO1500570782"
+  },
+  {
+    "title": "The Joe Pags Show",
+    "rss": "https://feeds.megaphone.fm/SHDI3057450256"
+  },
+  {
+    "title": "The Joe Rogan Experience",
+    "rss": "https://feeds.megaphone.fm/GLT1412515089"
+  },
+  {
+    "title": "The Joel Klatt Show: A College Football Podcast",
+    "rss": "https://feeds.megaphone.fm/breaking-the-huddle"
+  },
+  {
+    "title": "The Kevin O'Connor Show",
+    "rss": "https://feeds.simplecast.com/IFzdBR43"
+  },
+  {
+    "title": "The Last Word with Lawrence O\u2019Donnell",
+    "rss": "https://feeds.simplecast.com/lQR7LFLn"
+  },
+  {
+    "title": "The Late Braking F1 Podcast",
+    "rss": "https://feeds.simplecast.com/geLKOBMZ"
+  },
+  {
+    "title": "The Lazy Genius Podcast",
+    "rss": "https://feeds.megaphone.fm/lazy-genius"
+  },
+  {
+    "title": "The Lead with Jake Tapper",
+    "rss": "https://feeds.megaphone.fm/WMHY4053344139"
+  },
+  {
+    "title": "The Leviathan Chronicles",
+    "rss": "https://feeds.megaphone.fm/SBP5252339511"
+  },
+  {
+    "title": "The Lindbergh Conspiracies",
+    "rss": "https://feeds.megaphone.fm/CBS3095449060"
+  },
+  {
+    "title": "The LOL Podcast",
+    "rss": "https://feeds.megaphone.fm/ADV4439824390"
+  },
+  {
+    "title": "The Lonely Island and Seth Meyers Podcast",
+    "rss": "https://feeds.megaphone.fm/RGP4565962324"
+  },
+  {
+    "title": "The Long Game with Jake Sullivan and Jon Finer",
+    "rss": "https://feeds.megaphone.fm/VMP3740058044"
+  },
+  {
+    "title": "The Lost Sci-Fi Podcast - Vintage Sci-Fi Short Stories",
+    "rss": "https://feeds.acast.com/public/shows/652cab3808a248001210aa70"
+  },
+  {
+    "title": "The Lowe Post",
+    "rss": "https://feeds.megaphone.fm/ESP3625084333"
+  },
+  {
+    "title": "The Megyn Kelly Show",
+    "rss": "https://feeds.simplecast.com/RV1USAfC"
+  },
+  {
+    "title": "The MeidasTouch Podcast",
+    "rss": "https://feeds.megaphone.fm/PDR2572281095"
+  },
+  {
+    "title": "The Mel Robbins Podcast",
+    "rss": "https://feeds.simplecast.com/UCwaTX1J"
+  },
+  {
+    "title": "The Michael Kay Show",
+    "rss": "https://feeds.megaphone.fm/ESP6037677737"
+  },
+  {
+    "title": "The Mike Francesa Podcast",
+    "rss": "https://feeds.megaphone.fm/RERRE6992852184"
+  },
+  {
+    "title": "The Mismatch",
+    "rss": "https://feeds.megaphone.fm/the-jj-redick-podcast"
+  },
+  {
+    "title": "The Morning Meeting",
+    "rss": "https://feeds.megaphone.fm/GEMINIMEDIA7465621435"
+  },
+  {
+    "title": "The Moth",
+    "rss": "http://feeds.feedburner.com/themothpodcast"
+  },
+  {
+    "title": "The Murders at White House Farm: The Podcast",
+    "rss": "https://feeds.megaphone.fm/WMHY1511452467"
+  },
+  {
+    "title": "The New York Times Narrated",
+    "rss": "https://feeds.simplecast.com/WHvRQ7B1"
+  },
+  {
+    "title": "The New Yorker Radio Hour",
+    "rss": "https://feeds.simplecast.com/TRuO_SRo"
+  },
+  {
+    "title": "The NPR Politics Podcast",
+    "rss": "https://feeds.npr.org/510310/podcast.xml"
+  },
+  {
+    "title": "The Official Game of Thrones Podcast: A Knight of the Seven Kingdoms",
+    "rss": "https://feeds.megaphone.fm/WMHY9427820236"
+  },
+  {
+    "title": "The Old Man and the Three",
+    "rss": "https://rss.art19.com/the-old-man-and-the-three"
+  },
+  {
+    "title": "The Opinions",
+    "rss": "https://feeds.simplecast.com/kphrlDnb"
+  },
+  {
+    "title": "The Outer Reach: Stories from Beyond",
+    "rss": "https://feeds.simplecast.com/Iy2WKI7A"
+  },
+  {
+    "title": "The Parnas Perspective",
+    "rss": "https://feeds.megaphone.fm/MTH4368798504"
+  },
+  {
+    "title": "The Pat McAfee Show",
+    "rss": "https://feeds.megaphone.fm/ESP7297553965"
+  },
+  {
+    "title": "The People\u2019s Court Podcast",
+    "rss": "https://feeds.megaphone.fm/WMHY8210971850"
+  },
+  {
+    "title": "The Political Scene | The New Yorker",
+    "rss": "http://feeds.feedburner.com/tnypoliticalscene"
+  },
+  {
+    "title": "The President's Daily Brief",
+    "rss": "https://feeds.megaphone.fm/THFD6217271651"
+  },
+  {
+    "title": "The Prestige TV Podcast",
+    "rss": "https://feeds.megaphone.fm/tvconcierge"
+  },
+  {
+    "title": "The Preventionist",
+    "rss": "https://feeds.simplecast.com/LLSr9Aur"
+  },
+  {
+    "title": "The Psychology Podcast",
+    "rss": "https://rss.art19.com/the-psychology-podcast"
+  },
+  {
+    "title": "The Race F1 Podcast",
+    "rss": "https://feeds.acast.com/public/shows/6819ae2bf30c20bff775e8a1"
+  },
+  {
+    "title": "The Rachel Cruze Show",
+    "rss": "https://feeds.megaphone.fm/RM5627096399"
+  },
+  {
+    "title": "The Rachel Maddow Show",
+    "rss": "https://feeds.simplecast.com/LU_7w7GU"
+  },
+  {
+    "title": "The Ramsey Show",
+    "rss": "https://feeds.megaphone.fm/RM4031649020"
+  },
+  {
+    "title": "The Ramsey Show Highlights",
+    "rss": "https://feeds.megaphone.fm/RM6151564048"
+  },
+  {
+    "title": "The Read",
+    "rss": "https://feeds.simplecast.com/hEYNk1fd"
+  },
+  {
+    "title": "The Rest Is Classified",
+    "rss": "https://feeds.megaphone.fm/therestisclassified"
+  },
+  {
+    "title": "The Rest Is History",
+    "rss": "https://feeds.megaphone.fm/GLT4787413333"
+  },
+  {
+    "title": "The Rest Is Politics: US",
+    "rss": "https://feeds.megaphone.fm/GLT5336643697"
+  },
+  {
+    "title": "The Rest Is Science",
+    "rss": "https://feeds.megaphone.fm/GLT6907573392"
+  },
+  {
+    "title": "The Retrievals",
+    "rss": "https://feeds.simplecast.com/SD1pPTeV"
+  },
+  {
+    "title": "The Rewatchables",
+    "rss": "https://feeds.megaphone.fm/the-rewatchables"
+  },
+  {
+    "title": "The Rich Eisen Show",
+    "rss": "https://feeds.megaphone.fm/WWO9698947413"
+  },
+  {
+    "title": "The Ringer Fantasy Football Show",
+    "rss": "https://feeds.megaphone.fm/ringer-fantasy-football-show"
+  },
+  {
+    "title": "The Ringer NBA Show",
+    "rss": "https://feeds.megaphone.fm/the-ringer-nba-show"
+  },
+  {
+    "title": "The Ringer NFL Show",
+    "rss": "https://feeds.megaphone.fm/the-ringer-nfl-show"
+  },
+  {
+    "title": "The Ringer Wrestling Show",
+    "rss": "https://feeds.megaphone.fm/the-masked-man-show"
+  },
+  {
+    "title": "The Rise and Fall of Ruby Franke",
+    "rss": "https://rss.art19.com/the-rise-and-fall-of-ruby-franke"
+  },
+  {
+    "title": "The Rizzuto Show | Daily Comedy Podcast",
+    "rss": "https://rss.art19.com/the-rizzuto-show"
+  },
+  {
+    "title": "The Ryen Russillo Podcast",
+    "rss": "https://feeds.megaphone.fm/the-ryen-russillo-podcast"
+  },
+  {
+    "title": "The Sabrina Zohar Show",
+    "rss": "https://feeds.megaphone.fm/NSR3235885942"
+  },
+  {
+    "title": "The Sarah Silverman Podcast",
+    "rss": "https://feeds.megaphone.fm/LEME7873557709"
+  },
+  {
+    "title": "The Science of Happiness",
+    "rss": "http://feeds.feedburner.com/TheScienceOfHappiness"
+  },
+  {
+    "title": "The SCP Experience",
+    "rss": "https://feeds.megaphone.fm/DNS4539897765"
+  },
+  {
+    "title": "The Smerconish Podcast",
+    "rss": "https://feeds.simplecast.com/Dv1m2CJC"
+  },
+  {
+    "title": "The Sports Gossip Show",
+    "rss": "https://feeds.acast.com/public/shows/6849bc85bb82390574745f67"
+  },
+  {
+    "title": "The Steve Austin Show",
+    "rss": "https://rss.art19.com/the-steve-austin-show"
+  },
+  {
+    "title": "The Supermassive Podcast",
+    "rss": "https://feeds.acast.com/public/shows/67af33c006ec54e1d2363808"
+  },
+  {
+    "title": "The Teardown",
+    "rss": "https://feeds.simplecast.com/FA7YE02c"
+  },
+  {
+    "title": "The Tennis Podcast",
+    "rss": "https://feeds.acast.com/public/shows/4d90c19e-d564-4949-a998-27e24cca2aee"
+  },
+  {
+    "title": "The Tim Ferriss Show",
+    "rss": "https://rss.art19.com/tim-ferriss-show"
+  },
+  {
+    "title": "The Toast",
+    "rss": "https://feeds.megaphone.fm/DEARMEDIALLC7892434789"
+  },
+  {
+    "title": "The Tonight Show Starring Jimmy Fallon",
+    "rss": "https://rss.art19.com/the-tonight-show-jimmy-fallon"
+  },
+  {
+    "title": "The Tony Kornheiser Show",
+    "rss": "https://feeds.megaphone.fm/the-tony-kornheiser-show"
+  },
+  {
+    "title": "The Totally Football Show with James Richardson",
+    "rss": "https://feeds.acast.com/public/shows/6818cd43eb146d8e35d312c7"
+  },
+  {
+    "title": "The Town with Matthew Belloni",
+    "rss": "https://feeds.megaphone.fm/the-town-with-matthew-belloni"
+  },
+  {
+    "title": "The Tucker Carlson Show",
+    "rss": "https://feeds.megaphone.fm/RSV1597324942"
+  },
+  {
+    "title": "The Unexplainable Disappearance of Mars Patel",
+    "rss": "https://rss.art19.com/mars-patel"
+  },
+  {
+    "title": "The Vanished Podcast",
+    "rss": "https://rss.art19.com/the-vanished-podcast-wondery"
+  },
+  {
+    "title": "The Vergecast",
+    "rss": "https://feeds.megaphone.fm/vergecast"
+  },
+  {
+    "title": "The View: Behind the Table",
+    "rss": "https://feeds.megaphone.fm/ESP9353667360"
+  },
+  {
+    "title": "The Warning Woods | Horror Stories",
+    "rss": "https://feeds.megaphone.fm/THEWARNINGWOODS6178627385"
+  },
+  {
+    "title": "The Watch",
+    "rss": "https://feeds.megaphone.fm/the-watch"
+  },
+  {
+    "title": "The Weekend",
+    "rss": "https://feeds.simplecast.com/7Znw4t09"
+  },
+  {
+    "title": "The Weekly Show with Jon Stewart",
+    "rss": "https://feeds.megaphone.fm/BVLLC2163264914"
+  },
+  {
+    "title": "The Weeknight",
+    "rss": "https://feeds.simplecast.com/KCk0kJtW"
+  },
+  {
+    "title": "The Weirdest Thing I Learned This Week",
+    "rss": "https://feeds.megaphone.fm/RECU9765916949"
+  },
+  {
+    "title": "The Why Files: Operation Podcast",
+    "rss": "https://feeds.megaphone.fm/QCD2348265349"
+  },
+  {
+    "title": "The Wonder of Stevie",
+    "rss": "https://rss.art19.com/the-wonder-of-stevie"
+  },
+  {
+    "title": "The Zach Lowe Show",
+    "rss": "https://feeds.megaphone.fm/zach-lowe"
+  },
+  {
+    "title": "Therapuss with Jake Shane",
+    "rss": "https://feeds.megaphone.fm/therapuss"
+  },
+  {
+    "title": "This American Life",
+    "rss": "https://www.thisamericanlife.org/podcast/rss.xml"
+  },
+  {
+    "title": "This Cowboy Life",
+    "rss": "https://feeds.simplecast.com/DZ78V3A2"
+  },
+  {
+    "title": "This Past Weekend w/ Theo Von",
+    "rss": "https://feeds.megaphone.fm/thispastweekend"
+  },
+  {
+    "title": "This Was SportsCenter",
+    "rss": "https://feeds.megaphone.fm/ESP1426703566"
+  },
+  {
+    "title": "This Week in Virology",
+    "rss": "http://feeds.feedburner.com/twivmp3"
+  },
+  {
+    "title": "THREE",
+    "rss": "https://feeds.simplecast.com/q8EXDCJg"
+  },
+  {
+    "title": "Throughline",
+    "rss": "https://feeds.npr.org/510333/podcast.xml"
+  },
+  {
+    "title": "Tides of History",
+    "rss": "https://rss.art19.com/tides-of-history"
+  },
+  {
+    "title": "Timesuck with Dan Cummins",
+    "rss": "https://feeds.simplecast.com/Llc7KL2K"
+  },
+  {
+    "title": "Tiny Desk Concerts - Audio",
+    "rss": "https://feeds.npr.org/510306/podcast.xml"
+  },
+  {
+    "title": "Today, Explained",
+    "rss": "https://feeds.megaphone.fm/VMP5705694065"
+  },
+  {
+    "title": "Tom Curran\u2019s Patriots Talk Podcast",
+    "rss": "https://feeds.simplecast.com/WpIK82Oy"
+  },
+  {
+    "title": "Total Soccer Show: USMNT, Champions League, EPL, and more ...",
+    "rss": "https://feeds.acast.com/public/shows/6818cfc81d28d62313b34379"
+  },
+  {
+    "title": "Trace of Suspicion",
+    "rss": "https://feeds.simplecast.com/zrOQEiWl"
+  },
+  {
+    "title": "True Crime All The Time",
+    "rss": "https://rss.art19.com/true-crime-all-the-time"
+  },
+  {
+    "title": "True Crime All The Time Unsolved",
+    "rss": "https://rss.art19.com/true-crime-all-the-time-unsolved-po"
+  },
+  {
+    "title": "True Crime Garage",
+    "rss": "https://feeds.simplecast.com/zatU8XEL"
+  },
+  {
+    "title": "True Crime with Kimbyr",
+    "rss": "https://feeds.megaphone.fm/DLERL3125581682"
+  },
+  {
+    "title": "True Sunlight",
+    "rss": "https://feeds.megaphone.fm/BER9965516640"
+  },
+  {
+    "title": "Truer Crime",
+    "rss": "https://feeds.megaphone.fm/TFT6352151279"
+  },
+  {
+    "title": "Truth For Life Daily Program",
+    "rss": "http://feeds.feedburner.com/TruthForLife"
+  },
+  {
+    "title": "Two Hot Takes",
+    "rss": "https://feeds.megaphone.fm/GLT3561373177"
+  },
+  {
+    "title": "Ukraine: The Latest",
+    "rss": "https://feeds.acast.com/public/shows/6583012e715d5300169dcdcb"
+  },
+  {
+    "title": "Unashamed with the Robertson Family",
+    "rss": "https://feeds.megaphone.fm/BMDC9083048104"
+  },
+  {
+    "title": "Unexplainable",
+    "rss": "https://feeds.megaphone.fm/VMP9331026707"
+  },
+  {
+    "title": "Unsubscribe Podcast",
+    "rss": "https://feeds.megaphone.fm/UG3792007027"
+  },
+  {
+    "title": "Up First from NPR",
+    "rss": "https://feeds.npr.org/510318/podcast.xml"
+  },
+  {
+    "title": "Victor Davis Hanson: In His Own Words",
+    "rss": "https://feeds.megaphone.fm/THEDAILYSIGNAL2043100319"
+  },
+  {
+    "title": "VINCE",
+    "rss": "https://feeds.megaphone.fm/WWO4092921469"
+  },
+  {
+    "title": "Wait Wait... Don't Tell Me!",
+    "rss": "https://feeds.npr.org/344098539/podcast.xml"
+  },
+  {
+    "title": "Watch What Happens Live with Andy Cohen",
+    "rss": "https://rss.art19.com/watch-what-happens-live-with-andy-cohen"
+  },
+  {
+    "title": "Waveform: The MKBHD Podcast",
+    "rss": "https://feeds.megaphone.fm/STU4418364045"
+  },
+  {
+    "title": "We Might Be Drunk",
+    "rss": "https://feeds.megaphone.fm/YMH1251936023"
+  },
+  {
+    "title": "We're Here to Help",
+    "rss": "https://rss.art19.com/were-here-to-help"
+  },
+  {
+    "title": "Welcome to Night Vale",
+    "rss": "https://feeds.megaphone.fm/SBP4591212513"
+  },
+  {
+    "title": "Westwood One Sports Night",
+    "rss": "https://feeds.megaphone.fm/WWO3186199374"
+  },
+  {
+    "title": "What's Your Story? with Steph McMahon",
+    "rss": "https://rss.art19.com/whats-your-story"
+  },
+  {
+    "title": "Whiskey Ginger with Andrew Santino",
+    "rss": "https://feeds.megaphone.fm/TPC6596839207"
+  },
+  {
+    "title": "Why Is This Happening? The Chris Hayes Podcast",
+    "rss": "https://feeds.simplecast.com/Ftpd36Dg"
+  },
+  {
+    "title": "Widow's Bay",
+    "rss": "https://feeds.acast.com/public/shows/69fff19b668fe6d31fbb7ab2"
+  },
+  {
+    "title": "Will Cain Country",
+    "rss": "https://feeds.megaphone.fm/FOXM3493988099"
+  },
+  {
+    "title": "Wiser Than Me with Julia Louis-Dreyfus",
+    "rss": "https://feeds.megaphone.fm/LEME2226086440"
+  },
+  {
+    "title": "With The Perrys",
+    "rss": "https://feeds.megaphone.fm/withtheperrys"
+  },
+  {
+    "title": "WMMR's Preston & Steve Daily Podcast",
+    "rss": "https://rss.art19.com/wmmrs-preston-and-steve-daily-podcast"
+  },
+  {
+    "title": "Wolf 359",
+    "rss": "https://feeds.megaphone.fm/wolf359radio"
+  },
+  {
+    "title": "World Cafe Words and Music Podcast",
+    "rss": "https://feeds.npr.org/510008/podcast.xml"
+  },
+  {
+    "title": "World News Tonight with David Muir",
+    "rss": "https://feeds.megaphone.fm/ESP4140596756"
+  },
+  {
+    "title": "WTF with Marc Maron Podcast",
+    "rss": "https://feeds.acast.com/public/shows/62a222737c02140013aa4c03"
+  },
+  {
+    "title": "Yahoo Fantasy Forecast",
+    "rss": "https://feeds.simplecast.com/s3ulbOAs"
+  },
+  {
+    "title": "Yahoo Sports NBA",
+    "rss": "https://feeds.simplecast.com/A9Qn_Eje"
+  },
+  {
+    "title": "You Be Trippin'",
+    "rss": "https://feeds.megaphone.fm/YMH9003607771"
+  },
+  {
+    "title": "You Made It Weird with Pete Holmes",
+    "rss": "https://feeds.megaphone.fm/LEME1276237086"
+  },
+  {
+    "title": "Your Mom's House with Christina P. and Tom Segura",
+    "rss": "https://feeds.megaphone.fm/YMH5847489315"
+  },
+  {
+    "title": "ZOE Science & Nutrition",
+    "rss": "https://feeds.megaphone.fm/ZOELIMITED9301524082"
   }
 ]
