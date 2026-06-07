@@ -1,0 +1,58 @@
+[
+  {
+    "title": "The Daily",
+    "rss": "https://feeds.simplecast.com/54nAGcIl"
+  },
+  {
+    "title": "Stuff You Should Know",
+    "rss": "https://omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/A91018A4-EA4F-4130-BF55-AE270180C327/44710ECC-10BB-48D1-93C7-AE270180C33E/podcast.rss"
+  },
+  {
+    "title": "The Joe Rogan Experience",
+    "rss": "https://feeds.megaphone.fm/GLT1412515089"
+  },
+  {
+    "title": "TED Talks Daily",
+    "rss": "https://feeds.acast.com/public/shows/67587e77c705e441797aff96"
+  },
+  {
+    "title": "My Favorite Murder",
+    "rss": "https://omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/bdde8bb3-169d-43b1-91d3-b24c0047969c/f450d41f-16bc-4ecd-8f6c-b24c004796e2/podcast.rss"
+  },
+  {
+    "title": "Wait Wait... Don't Tell Me!",
+    "rss": "https://feeds.npr.org/344098539/podcast.xml"
+  },
+  {
+    "title": "Crime Junkie",
+    "rss": "https://feeds.simplecast.com/qm_9xx0g"
+  },
+  {
+    "title": "Planet Money",
+    "rss": "https://feeds.npr.org/510289/podcast.xml"
+  },
+  {
+    "title": "Radiolab",
+    "rss": "https://feeds.simplecast.com/EmVW7VGp"
+  },
+  {
+    "title": "Dan Carlin's Hardcore History",
+    "rss": "http://feeds.feedburner.com/dancarlin/history?format=xml"
+  },
+  {
+    "title": "The Tim Ferriss Show",
+    "rss": "https://rss.art19.com/tim-ferriss-show" 
+  },
+  {
+    "title": "Darknet Diaries",
+    "rss": "https://feeds.megaphone.fm/darknetdiaries"
+  },
+  {
+    "title": "This American Life",
+    "rss": "https://www.thisamericanlife.org/podcast/rss.xml" 
+  },
+  {
+    "title": "Reply All",
+    "rss": "https://feeds.megaphone.fm/replyall"
+  }
+]
