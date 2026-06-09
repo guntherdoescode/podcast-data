@@ -15,7 +15,7 @@
     "title": "2 Bears, 1 Cave with Tom Segura & Bert Kreischer",
     "rss": "https://feeds.megaphone.fm/YMH8516456556",
     "artwork": "https://megaphone.imgix.net/podcasts/e9f18e7c-99ee-11ee-808c-53c3935fe2f7/image/12232943fedc41254a681e834b28ede1.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Comedy, Society & Culture"
+    "category": "Comedy"
   },
   {
     "title": "20/20",
@@ -27,7 +27,7 @@
     "title": "3 Body Podcast",
     "rss": "https://feeds.megaphone.fm/NETFLIX8295742740",
     "artwork": "https://megaphone.imgix.net/podcasts/d7a7e558-d108-11ee-9ae4-bb8cedbfd6b0/image/1be85b8b6531c7a666c2d4d5982baad0.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "TV & Film, After Shows, Science"
+    "category": "TV & Film"
   },
   {
     "title": "30 for 30 Podcasts",
@@ -39,7 +39,7 @@
     "title": "32 Thoughts: The Podcast",
     "rss": "https://feeds.simplecast.com/fYqFr5h_",
     "artwork": "https://image.simplecastcdn.com/images/b72bc3d0-7e44-4b66-8de6-c187dbaa3a4f/292f8f31-a8f9-4a11-8aaf-ae5c3ff84f95/3000x3000/32thoughts500x500iconv2.jpg?aid=rss_feed",
-    "category": "Sports, Hockey"
+    "category": "Sports"
   },
   {
     "title": "60 Songs That Explain the '90s",
@@ -63,55 +63,55 @@
     "title": "Absolutely Not",
     "rss": "https://rss.art19.com/absolutely-not",
     "artwork": "https://content.production.cdn.art19.com/images/63/07/a9/cf/6307a9cf-0c0f-43c7-b79e-ee8de04546b6/02ca6c4e8380444d9386b56bb0f0b77da0a630c3375ccaf9e100099ed1f87b1def998af859d7d79300bc899c04ae065de5b95eeec78b313d7bf08dbf2a1934ba.jpeg",
-    "category": "Comedy, Arts"
+    "category": "Comedy"
   },
   {
     "title": "Actions Detrimental with Denny Hamlin",
     "rss": "https://feeds.simplecast.com/WhTGFBFO",
     "artwork": "https://image.simplecastcdn.com/images/8436e3c1-2479-4466-ac48-fa58259960bb/9d5a5b00-15b9-4ecf-8884-a2b1a60c3f63/3000x3000/siriusxm-20branded-201x1-20template-20-20actions-20detrimental-20-20new.jpg?aid=rss_feed",
-    "category": "Sports, News, Sports News, Leisure, Automotive"
+    "category": "Sports"
   },
   {
     "title": "Advisory Opinions",
     "rss": "https://feeds.megaphone.fm/DISPME4573820108",
     "artwork": "https://megaphone.imgix.net/podcasts/5febc1a4-a195-11ed-9af8-2397ed565c80/image/7c8c890984cd3a787c719c3763d8aa91.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "News, Politics, Government"
+    "category": "News"
   },
   {
     "title": "After School Snack with Sam Salem",
     "rss": "https://feeds.megaphone.fm/IMP4703770741",
     "artwork": "https://megaphone.imgix.net/podcasts/0c984a26-59f3-11f1-8e14-5ba30ec77224/image/7bb3aaf4d7f4d63e2a19775e4955fc9b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Comedy, Comedy Interviews"
+    "category": "Comedy"
   },
   {
     "title": "After the Edit with Daryn Carp",
     "rss": "https://feeds.acast.com/public/shows/69cf705ef44b357ce97106aa",
     "artwork": "https://assets.pippa.io/shows/69cf705ef44b357ce97106aa/1776794964484-ef8e7a2d-f13c-4950-925c-e44213225d84.jpeg",
-    "category": "TV & Film, After Shows, TV & Film, TV Reviews, Society & Culture"
+    "category": "TV & Film"
   },
   {
     "title": "AI Business Daily",
     "rss": "https://feeds.simplecast.com/KH15z61n",
     "artwork": "https://image.simplecastcdn.com/images/5c0dfb93-80c6-4da7-9150-2db181bea15b/13921c1c-587e-45ea-bbf4-a68ca081b377/3000x3000/ai_business_daily.jpg?aid=rss_feed",
-    "category": "Technology, Business, Education"
+    "category": "Technology"
   },
   {
     "title": "Alexi Lalas\u2019 State of the Union Podcast",
     "rss": "https://feeds.megaphone.fm/alexi-lalas-sou",
     "artwork": "https://megaphone.imgix.net/podcasts/68e2a32e-3eaf-11e9-8be0-57045cdfb25c/image/3e2a04e724fc921aaa23bbd50901fd12.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Sports, Soccer, News, Sports News"
+    "category": "Sports"
   },
   {
     "title": "Alien Encounters",
     "rss": "https://feeds.acast.com/public/shows/64e689c55dfc5d0011072273",
     "artwork": "https://assets.pippa.io/shows/64e689c55dfc5d0011072273/show-cover.jpg",
-    "category": "Science, Natural Sciences"
+    "category": "Science"
   },
   {
     "title": "All Songs Considered",
     "rss": "https://feeds.npr.org/g-s1-111189/podcast.xml",
     "artwork": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/1400/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F39%2F44%2Fe1242e924d5791296d54b535b029%2Fall-songs-tile-npr-network-01.jpg",
-    "category": "Music, Music Commentary"
+    "category": "Music"
   },
   {
     "title": "All There Is with Anderson Cooper",
@@ -123,13 +123,13 @@
     "title": "American History Tellers",
     "rss": "https://rss.art19.com/american-history-tellers",
     "artwork": "https://content.production.cdn.art19.com/images/29/03/75/0e/2903750e-0ed3-488b-9096-158e2d0e825c/5de55cbe200588843216d1c35f4119bf642157cc8b7585181b1367c29317d42fba9ca97b9745adac411a6bfa833bcc5331437b963b59d7e7ecc479f2a3f67ddc.jpeg",
-    "category": "History, Kids & Family, Education for Kids, Society & Culture"
+    "category": "History"
   },
   {
     "title": "American Scandal",
     "rss": "https://rss.art19.com/american-scandal",
     "artwork": "https://content.production.cdn.art19.com/images/0f/36/84/f4/0f3684f4-c745-4e9d-8cd3-aebfaf45bd50/144ac88caee66a21f306ecdbfb2837323de4291443f6aba3ff68b48bb9810c737eca6074ef1baa652bcb9298dd2d9389f5e526dd7d24e163dcc395d21ab3058b.jpeg",
-    "category": "History, Society & Culture, Documentary"
+    "category": "History"
   },
   {
     "title": "Anatomy of Murder",
@@ -141,7 +141,7 @@
     "title": "Ancient Aliens",
     "rss": "https://rss.art19.com/ancient-aliens",
     "artwork": "https://content.production.cdn.art19.com/images/03/bb/30/2a/03bb302a-3277-49ae-abcc-b7b93e194182/df160babee649e1a9def7e9fbf3eee7df34e27fab86f9b00de569a4d4ece3db79ca9f3f93ffaf37fb688466bde44f8e820654d46a42d7a1bf98e6239f97e512a.jpeg",
-    "category": "Science, History"
+    "category": "Science"
   },
   {
     "title": "Ancient Civilisations",
@@ -165,7 +165,7 @@
     "title": "Andy Cohen\u2019s Daddy Diaries Podcast",
     "rss": "https://feeds.simplecast.com/A1EGvXFD",
     "artwork": "https://image.simplecastcdn.com/images/8436e3c1-2479-4466-ac48-fa58259960bb/0db64f23-e102-4e71-9ce6-5b4700e5290e/3000x3000/sxm-cover-andy-cohens-daddy-diaries-podcast-3000x3000-final003.jpg?aid=rss_feed",
-    "category": "Kids & Family, Parenting, Society & Culture, TV & Film"
+    "category": "Kids & Family"
   },
   {
     "title": "Are You Garbage? Comedy Podcast",
@@ -177,25 +177,25 @@
     "title": "Ark News Daily",
     "rss": "https://feeds.simplecast.com/lmVOA_2Z",
     "artwork": "https://image.simplecastcdn.com/images/4a1f2cce-76cb-4088-9638-ac72580fb52c/a247089f-21f8-41db-8a31-970fbbd4a276/3000x3000/ark-20news-20daily.jpg?aid=rss_feed",
-    "category": "News, Daily News, News, News Commentary, Government"
+    "category": "News"
   },
   {
     "title": "Armchair Expert with Dax Shepard",
     "rss": "https://rss.art19.com/armchair-expert",
     "artwork": "https://content.production.cdn.art19.com/images/d6/39/3e/7c/d6393e7c-2c94-4bf8-ace5-22c075450625/5462340d2d523ce16f25efbd2b425f6ecdbdaa718e8222c7da564ce73eaaeca491e30d8a10cf99e9d351bdb65daad1681b4e54f264672188be0469655bad9155.jpeg",
-    "category": "Comedy, TV & Film, Music"
+    "category": "Comedy"
   },
   {
     "title": "Artist Friendly with Joel Madden",
     "rss": "https://feeds.megaphone.fm/artistfriendly",
     "artwork": "https://megaphone.imgix.net/podcasts/ed3efeec-92c5-11ed-a1cf-b393ec63d4e1/image/12cd1438742dc543ef0333259e386642.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Music, Music Interviews, Arts, Performing Arts"
+    "category": "Music"
   },
   {
     "title": "Baby, this is Keke Palmer",
     "rss": "https://rss.art19.com/baby-this-is-keke-palmer",
     "artwork": "https://content.production.cdn.art19.com/images/9f/0d/4e/c8/9f0d4ec8-11ed-45b6-b1b6-209d287745e6/67cdef1a25c101f81a9a27894602f79c4e5640cec3b3fcfa2153cb7edf9c0bfd49dffdabdc6d7ec3c4298d70735882bd30044434246afb814467318b38048041.jpeg",
-    "category": "Comedy, Society & Culture"
+    "category": "Comedy"
   },
   {
     "title": "Bad Dates",
@@ -225,61 +225,61 @@
     "title": "Bertcast",
     "rss": "https://feeds.megaphone.fm/YMH9011606005",
     "artwork": "https://megaphone.imgix.net/podcasts/5efac7ba-9ba7-11ee-a1be-3f20b7eacfe1/image/8a1d39f21b89d4c094e57d5545e0d220.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Comedy, Arts, Performing Arts"
+    "category": "Comedy"
   },
   {
     "title": "Big Brains",
     "rss": "https://feeds.simplecast.com/4FF7CAnQ",
     "artwork": "https://image.simplecastcdn.com/images/2e7c76ad-7ecc-479b-8749-f0cb2f4f2dc5/a6bb7391-0c19-412c-9235-27ca5edc6296/3000x3000/bigbrains-ucpn-logo-largebrain-multicolor-rgb-black-3000.jpg?aid=rss_feed",
-    "category": "Science, Education, Society & Culture"
+    "category": "Science"
   },
   {
     "title": "Big Bro with Kid Cudi",
     "rss": "https://feeds.megaphone.fm/BSN5208876044",
     "artwork": "https://megaphone.imgix.net/podcasts/9bb4bbba-10f9-11f1-82ec-9762f8eec5e5/image/7c93df101ffeeed1efa1e01f2768d0b8.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Music, Society & Culture"
+    "category": "Music"
   },
   {
     "title": "Bill O\u2019Reilly\u2019s No Spin News and Analysis",
     "rss": "https://feeds.megaphone.fm/RSV2429196838",
     "artwork": "https://megaphone.imgix.net/podcasts/751d7338-684b-11e9-8941-ab5f035ba225/image/19c27339892c86cda663a5d37f467279.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "News, News Commentary, Politics"
+    "category": "News"
   },
   {
     "title": "Bitch Bible",
     "rss": "https://rss.art19.com/bitch-bible-pod",
     "artwork": "https://content.production.cdn.art19.com/images/c7/60/e9/ec/c760e9ec-3482-4c4a-acb3-52e2373224f5/ebe2c2ac911401efe2b82aff1ff801503107106f411a69fb4b7491ac8fd19fd61b54766a2ab61e647aeaf468cb941aefb3540054b6345c898fbfb176b4f2e35a.jpeg",
-    "category": "Comedy, Society & Culture"
+    "category": "Comedy"
   },
   {
     "title": "Blocks w/ Neal Brennan",
     "rss": "https://feeds.megaphone.fm/TPC1688414199",
     "artwork": "https://megaphone.imgix.net/podcasts/102667aa-7db9-11ed-9e1d-476e2de273bf/image/df216c9d5884e6a958fc568777151784.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Comedy, Health & Fitness, Mental Health, Society & Culture"
+    "category": "Comedy"
   },
   {
     "title": "Brains On! Science podcast for kids",
     "rss": "https://feeds.megaphone.fm/LEME2532531912",
     "artwork": "https://megaphone.imgix.net/podcasts/b89ea504-34f0-11f1-b10d-d70de597c917/image/27093a56c1f801fc77ebfde31c2f19f4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Kids & Family, Education for Kids"
+    "category": "Kids & Family"
   },
   {
     "title": "Bravo Breaking News",
     "rss": "https://feeds.simplecast.com/FNMmbebJ",
     "artwork": "https://image.simplecastcdn.com/images/6215cda8-011d-4ccd-9fe8-c389912a62af/1f15dfce-6098-4f61-9d1d-397234f13a3e/3000x3000/bravo.jpg?aid=rss_feed",
-    "category": "TV & Film, After Shows"
+    "category": "TV & Film"
   },
   {
     "title": "Bravo's Most Wanted with Jami Rice and Katie Ginella",
     "rss": "https://feeds.megaphone.fm/CTL7698157859",
     "artwork": "https://megaphone.imgix.net/podcasts/f4068478-5565-11f1-9614-630735979b19/image/7944aede308e1169506d5298be5276ed.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "TV & Film, After Shows, TV Reviews"
+    "category": "TV & Film"
   },
   {
     "title": "Breaking News from Pod Save America",
     "rss": "https://feeds.megaphone.fm/CROOKEDMEDIAINC9307272170",
     "artwork": "https://megaphone.imgix.net/podcasts/a95f00b2-35bd-11f0-bc0b-b349fa0fe69b/image/5621faea7f7d7ee607852a93e1b18f4f.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "News, Politics"
+    "category": "News"
   },
   {
     "title": "Brian Entin Investigates",
@@ -291,19 +291,19 @@
     "title": "Brian Windhorst & The Hoop Collective",
     "rss": "https://feeds.megaphone.fm/ESP4033296397",
     "artwork": "https://megaphone.imgix.net/podcasts/1da8a55c-5f1f-11ea-8b49-d7d7ec84a066/image/40debe6e17ddbee1b36dd6e922800476.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Sports, Basketball"
+    "category": "Sports"
   },
   {
     "title": "Bridgerton: The Official Podcast",
     "rss": "https://feeds.megaphone.fm/NETFLIX6060926861",
     "artwork": "https://megaphone.imgix.net/podcasts/f23ae1d0-fad3-11f0-a342-6721e80e280c/image/2bc642aca073a3a4816adaca35fcd2ba.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "TV & Film, After Shows"
+    "category": "TV & Film"
   },
   {
     "title": "Bunker 8",
     "rss": "https://feeds.acast.com/public/shows/67c5960c2d83ccdeece1b1f5",
     "artwork": "https://assets.pippa.io/shows/67c5960c2d83ccdeece1b1f5/show-cover.jpg",
-    "category": "Fiction, Science Fiction, Fiction, Drama"
+    "category": "Fiction"
   },
   {
     "title": "Call Her Daddy",
@@ -315,19 +315,19 @@
     "title": "Casefile True Crime",
     "rss": "https://feeds.acast.com/public/shows/679acff465f74095106abfaa",
     "artwork": "https://assets.pippa.io/shows/679acff465f74095106abfaa/1772369019366-4ffe5b30-1826-4e08-b062-4946d302bb05.jpeg",
-    "category": "True Crime, Society & Culture, Documentary, History"
+    "category": "True Crime"
   },
   {
     "title": "Casuals with Katie Nolan",
     "rss": "https://feeds.simplecast.com/jC9NVTN3",
     "artwork": "https://image.simplecastcdn.com/images/d02ab162-92b1-40d0-9d90-caab30ce394f/64c45c80-b2cf-430f-82fa-eabc9a8c16a4/3000x3000/25-2278-updated-podcast-bugs-katie-nolan.jpg?aid=rss_feed",
-    "category": "Sports, Comedy, Society & Culture"
+    "category": "Sports"
   },
   {
     "title": "Change Your Mind with New Scientist",
     "rss": "https://feeds.megaphone.fm/ARML7523345494",
     "artwork": "https://megaphone.imgix.net/podcasts/8b33ae98-4a58-11f1-948a-fb3d0bf5c0ea/image/aec6ee05301bbfee693dd8a3cebc92f9.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Science, Health & Fitness"
+    "category": "Science"
   },
   {
     "title": "Charlene: Somebody Knows Something",
@@ -339,37 +339,37 @@
     "title": "Chasing Life",
     "rss": "https://feeds.megaphone.fm/WMHY6124370245",
     "artwork": "https://megaphone.imgix.net/podcasts/7edcdc9c-474e-11ee-b2a6-cfc6b6e3c367/image/64f78f5afa5f2eb0c295784f0745d8fb.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Health & Fitness, Mental Health, Nutrition"
+    "category": "Health & Fitness"
   },
   {
     "title": "CHGO Chicago Bears Podcast",
     "rss": "https://feeds.simplecast.com/oSbdDATR",
     "artwork": "https://image.simplecastcdn.com/images/e3e1bce3-8348-4a37-ab3f-56c70896dc41/79485560-66af-4d0b-a505-85f4f1be67e8/3000x3000/chgobears.png?aid=rss_feed",
-    "category": "Sports, Football"
+    "category": "Sports"
   },
   {
     "title": "Classical Music Happy Hour",
     "rss": "https://feeds.simplecast.com/ErCmj16D",
     "artwork": "https://image.simplecastcdn.com/images/b99b6401-4efd-485f-b744-84da8d6c14f6/16908a17-c7f0-4c21-9766-2e6b7d7cfd11/3000x3000/classicalmusichappyhourbrandedshowsquare3000x3000.jpg?aid=rss_feed",
-    "category": "Music, Music Interviews, Society & Culture, Documentary, Society & Culture, Places & Travel"
+    "category": "Music"
   },
   {
     "title": "Claude AI",
     "rss": "https://rss.art19.com/infamous-ai",
     "artwork": "https://content.production.cdn.art19.com/images/c3/dc/fa/35/c3dcfa35-7892-46e4-8258-8c86ed523f96/77c26bea2f316f3dc08882f770d44501f0b3c431282dfeb93e64df9cc6f83cc5fca9547858ad65bfef5fe0e4bd92fbf6a9f057e2eeb096a627a549bbf41439f4.jpeg",
-    "category": "News, Tech News"
+    "category": "News"
   },
   {
     "title": "Clear+Vivid with Alan Alda",
     "rss": "https://feeds.simplecast.com/z1QZGf6d",
     "artwork": "https://image.simplecastcdn.com/images/5b7d8c77-15ba-4eff-a999-2e725db21db5/26dc8fd7-9261-40f5-9f55-d4a58ec62543/3000x3000/clear-vivid-cover.jpg?aid=rss_feed",
-    "category": "Society & Culture, Science, Comedy"
+    "category": "Society & Culture"
   },
   {
     "title": "CNN 5 Things",
     "rss": "https://feeds.megaphone.fm/WMHY2007701094",
     "artwork": "https://megaphone.imgix.net/podcasts/0db83e9e-4758-11ee-9491-57121f88514e/image/515ff13d6a14f619f72448105031c79e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "News, Daily News"
+    "category": "News"
   },
   {
     "title": "CNN Inside Politics",
@@ -381,13 +381,13 @@
     "title": "CNN NewsNight with Abby Phillip",
     "rss": "https://feeds.megaphone.fm/WMHY6221692713",
     "artwork": "https://megaphone.imgix.net/podcasts/c5a585a4-fc19-11ee-815e-1ff0d394b093/image/67f30f6bfeecac2d658a8ea6428a1ce6.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "News, Daily News, Politics"
+    "category": "News"
   },
   {
     "title": "CNN This Morning",
     "rss": "https://feeds.megaphone.fm/WMHY6944338691",
     "artwork": "https://megaphone.imgix.net/podcasts/6cd3e8d8-4758-11ee-9719-531fc1044d8c/image/883a616a281884d5efde8071e74ce9c0.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "News, Daily News, Politics"
+    "category": "News"
   },
   {
     "title": "Comedy Bang Bang: The Podcast",
@@ -405,19 +405,19 @@
     "title": "Confessions of an Elite Athlete with Midge Purce",
     "rss": "https://feeds.megaphone.fm/VMP3428885028",
     "artwork": "https://megaphone.imgix.net/podcasts/d3a582c4-22de-11f1-ba38-673271b65927/image/0cf50a97b90a20088491579981b82806.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Sports, Health & Fitness, Mental Health, Society & Culture, Documentary"
+    "category": "Sports"
   },
   {
     "title": "Consider This from NPR",
     "rss": "https://feeds.npr.org/510355/podcast.xml",
     "artwork": "https://media.npr.org/assets/img/2022/09/22/consider-this_tile_npr-network-01_sq-99737f9f5560c4c6c67ef3d9638b5a584be8a5e9.jpg?s=1400&c=66&f=jpg",
-    "category": "News, Daily News, News Commentary, Society & Culture"
+    "category": "News"
   },
   {
     "title": "Crash Course Pods: The Universe",
     "rss": "https://rss.art19.com/crash-course-the-universe",
     "artwork": "https://content.production.cdn.art19.com/images/44/f3/bf/7a/44f3bf7a-67de-40ba-9887-390e4f02dd8c/8bb58f93a5fb14b59030d7fa7e9dc5ebfb13ebefe6c54340116612d52a845f63e36d6177c2e40d3f6299b67a73ec12f772795004bebb3b2179845c36d6fe851d.jpeg",
-    "category": "Science, Astronomy"
+    "category": "Science"
   },
   {
     "title": "Crash Dummies Podcast with Pat and Mike",
@@ -441,13 +441,13 @@
     "title": "Criminal",
     "rss": "https://feeds.megaphone.fm/VMP7924981569",
     "artwork": "https://megaphone.imgix.net/podcasts/f547b046-5de4-11ec-acc5-733706bb297f/image/9ed2d59bc3ab179245d05a3c10636f99.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "True Crime, Society & Culture"
+    "category": "True Crime"
   },
   {
     "title": "Daily Dose of Dana",
     "rss": "https://feeds.simplecast.com/zD93SYt1",
     "artwork": "https://image.simplecastcdn.com/images/a686d2d7-b83e-4f22-8ff2-42a05c51d0de/d7ea7b09-5c19-433f-bda2-a3d5774d9caa/3000x3000/podcast-20cover-20art-205.jpg?aid=rss_feed",
-    "category": "TV & Film, After Shows, News, Entertainment News, True Crime"
+    "category": "TV & Film"
   },
   {
     "title": "Dan Carlin's Hardcore History",
@@ -459,7 +459,7 @@
     "title": "Dark Downeast",
     "rss": "https://feeds.simplecast.com/LqfhW4oK",
     "artwork": "https://image.simplecastcdn.com/images/7d68c467-d3d7-41c3-b7c0-92218b530432/fff54d98-91fb-42da-8847-75e4ee6c7579/3000x3000/dark-downeast-show-art-3000px-1.jpg?aid=rss_feed",
-    "category": "True Crime, Society & Culture, Documentary"
+    "category": "True Crime"
   },
   {
     "title": "Darknet Diaries",
@@ -483,37 +483,37 @@
     "title": "Decoder Ring",
     "rss": "https://feeds.acast.com/public/shows/696572d375c092ac4e159c27",
     "artwork": "https://assets.pippa.io/shows/696572d375c092ac4e159c27/show-cover.jpg",
-    "category": "Society & Culture, Documentary, History"
+    "category": "Society & Culture"
   },
   {
     "title": "Desert Skies",
     "rss": "https://feeds.megaphone.fm/desertskies",
     "artwork": "https://megaphone.imgix.net/podcasts/5b01d6c6-b943-11ee-991d-e701d2e1ea17/image/0d8937ab03789f782376a1a8551d3dc2.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Fiction, Science Fiction, Comedy Fiction, Drama"
+    "category": "Fiction"
   },
   {
     "title": "Diggin' Deep Shows",
     "rss": "https://feeds.simplecast.com/PxJCIwE3",
     "artwork": "https://image.simplecastcdn.com/images/3122a936-7776-428e-9899-f1127693cc85/45df83fe-da38-4640-81cb-7a63b983e875/3000x3000/ddp-20-20podcast-20album-20art-20-20v5.jpg?aid=rss_feed",
-    "category": "Sports, Baseball, News, Sports News"
+    "category": "Sports"
   },
   {
     "title": "Dissect",
     "rss": "https://feeds.megaphone.fm/dissectwide",
     "artwork": "https://megaphone.imgix.net/podcasts/8515bb4e-78e7-11ea-ad4d-738f44e139ea/image/d984d665e9612d7b522401f03e16d166.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Music, Arts, Society & Culture"
+    "category": "Music"
   },
   {
     "title": "DK Pittsburgh Sports: Daily podcasts on Steelers, Penguins, Pirates!",
     "rss": "https://feeds.simplecast.com/OkvCKc09",
     "artwork": "https://image.simplecastcdn.com/images/8df81a0a-ed42-46a9-a6a3-8afd4aa8c9fb/1b1129b8-c79d-426a-ba86-b2a635a0dff1/3000x3000/3572f326d1c1baa145fee0f3a8579f15.jpg?aid=rss_feed",
-    "category": "Sports, Baseball, Sports, Football, Sports, Hockey"
+    "category": "Sports"
   },
   {
     "title": "Dolly Parton's America",
     "rss": "https://feeds.simplecast.com/kZ0W9vjc",
     "artwork": "https://image.simplecastcdn.com/images/39fd7dfc-2399-4759-8e94-8f260efa7248/f0cdf0ef-58b5-4389-abd7-90b4b6f82bda/3000x3000/dollypartonsamerica-finalsquare.jpg?aid=rss_feed",
-    "category": "Music, Music History, Society & Culture, Documentary"
+    "category": "Music"
   },
   {
     "title": "Door Bumper Clear",
@@ -525,7 +525,7 @@
     "title": "Dumb Blonde",
     "rss": "https://rss.art19.com/dumb-blonde",
     "artwork": "https://content.production.cdn.art19.com/images/d7/92/60/77/d7926077-ba6d-40a3-b6e5-6fbba0e4e63b/c0524bcfa3179ab52d91831543dc9370306526499b7e9413cee7758295374c72f447969929c0416bf903ee4a3cc8deb16f655211508a494c6fe015e7c43b0c36.jpeg",
-    "category": "Comedy, TV & Film, Society & Culture"
+    "category": "Comedy"
   },
   {
     "title": "Dunc'd On Basketball NBA Podcast",
@@ -537,19 +537,19 @@
     "title": "DUST",
     "rss": "https://feeds.acast.com/public/shows/32a7db3f-bb92-510a-ad6a-94d579b7d794",
     "artwork": "https://assets.pippa.io/shows/61b757671695629a3de9502b/1642102663523-f8c8a124fcbe9954fea761434ae88f0a.jpeg",
-    "category": "Fiction, Fiction, Science Fiction, Fiction, Drama"
+    "category": "Fiction"
   },
   {
     "title": "Dynasty Nerds Podcast | Dynasty Fantasy Football",
     "rss": "https://feeds.megaphone.fm/dynastynerdspodcast",
     "artwork": "https://megaphone.imgix.net/podcasts/79837174-6dfb-11ee-ab04-27c9a27edd33/image/Dinasty_Nerds_Podcast_.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Sports, Fantasy Sports, Football"
+    "category": "Sports"
   },
   {
     "title": "Eagle Eye: A Philadelphia Eagles Podcast",
     "rss": "https://feeds.simplecast.com/_ENNUG3a",
     "artwork": "https://image.simplecastcdn.com/images/89f03cf9-e96f-4ed0-925e-ce5596152ec3/f1c3963d-481f-4bfb-a805-5a1d15d3df2c/3000x3000/5e18d82c5fade7437127a1287fb7d43570ccdf9f128d5b588ef40e3d3a6a46df936642cd7b10b463bb1e8c9b575c9a9abbdee21c4d2cc07f5edd54ffc8abd85c.jpeg?aid=rss_feed",
-    "category": "Sports, Football, News, Sports News"
+    "category": "Sports"
   },
   {
     "title": "El Maestro Doggy El Podcast",
@@ -567,7 +567,7 @@
     "title": "Engagement Party",
     "rss": "https://feeds.megaphone.fm/WMHY7631189553",
     "artwork": "https://megaphone.imgix.net/podcasts/f691e200-4758-11ee-9719-eb5efc015fac/image/1e64d1c97ceee8c273b8a36df7f646fb.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Society & Culture, Arts, News, Entertainment News"
+    "category": "Society & Culture"
   },
   {
     "title": "Erazno y La Chokolata El Podcast",
@@ -585,7 +585,7 @@
     "title": "Every Single Album",
     "rss": "https://feeds.megaphone.fm/every-single-album",
     "artwork": "https://megaphone.imgix.net/podcasts/29395640-38d1-11ec-b613-2b0d07b593e3/image/569fec2520102eac0a1d23fcbdf938c8.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Music, Music Commentary"
+    "category": "Music"
   },
   {
     "title": "Fantasy Focus Football",
@@ -597,19 +597,19 @@
     "title": "Fantasy Football with Josh & Hayden",
     "rss": "https://feeds.megaphone.fm/BVLLC5943241697",
     "artwork": "https://megaphone.imgix.net/podcasts/25274830-aa55-11ee-b016-5f45938d5f06/image/fd604755eee1a4141f9ea247cb0e6ad1.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Sports, Fantasy Sports, Football"
+    "category": "Sports"
   },
   {
     "title": "Fantasy Footballers - Fantasy Football Podcast",
     "rss": "https://feeds.simplecast.com/sw7PGWfw",
     "artwork": "https://image.simplecastcdn.com/images/7a686b61-de53-45dc-85c8-4b598a0af518/72d8e1f3-4a82-4082-ad95-47be0fafb1bf/3000x3000/tffb-main-podcast-logo-3000px.png?aid=rss_feed",
-    "category": "Sports, Fantasy Sports, Sports, Football, Sports"
+    "category": "Sports"
   },
   {
     "title": "Fantasy Footballers Dynasty - Fantasy Football Podcast",
     "rss": "https://feeds.simplecast.com/jBmUnkXF",
     "artwork": "https://image.simplecastcdn.com/images/d6cca865-c2a9-4184-9c64-6c7be5fa929a/4fa24dd9-9cfc-4004-b4c7-49b14dc88e87/3000x3000/image.jpg?aid=rss_feed",
-    "category": "Sports, Fantasy Sports, Sports, Football, Sports"
+    "category": "Sports"
   },
   {
     "title": "Fareed Zakaria GPS",
@@ -627,13 +627,13 @@
     "title": "Fear&",
     "rss": "https://feeds.megaphone.fm/QCD3550222091",
     "artwork": "https://megaphone.imgix.net/podcasts/30ed2f4e-54dd-11ef-ba13-9fdd3ef43b1c/image/58ee851ae035103237cd3bb54b2e9464.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Comedy, Leisure, Video Games, Education"
+    "category": "Comedy"
   },
   {
     "title": "Fearless with Jason Whitlock",
     "rss": "https://feeds.megaphone.fm/fearlesswithjasonwhitlock",
     "artwork": "https://megaphone.imgix.net/podcasts/25337a5e-b987-11eb-ac2e-0fa8bfcbd7b4/image/44dcb55b75081c9c13212a4e5c264c8f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "News, Sports News, Politics, Sports"
+    "category": "News"
   },
   {
     "title": "Felger & Massarotti",
@@ -657,7 +657,7 @@
     "title": "First Things First",
     "rss": "https://feeds.megaphone.fm/first-things-first",
     "artwork": "https://megaphone.imgix.net/podcasts/9758c652-3eaf-11e9-815f-f36a7e4bf707/image/555b283ec318a1212be212291ba9b286.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Sports, Basketball, Football"
+    "category": "Sports"
   },
   {
     "title": "Five Miles From Home",
@@ -675,31 +675,31 @@
     "title": "Fly on the Wall with Dana Carvey and David Spade",
     "rss": "https://feeds.megaphone.fm/fly-on-the-wall",
     "artwork": "https://megaphone.imgix.net/podcasts/06dc82ee-5932-11ec-8ef6-1f967e0deef9/image/4323b7223c3b12060efab033f2cbdf15.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Comedy, Comedy Interviews"
+    "category": "Comedy"
   },
   {
     "title": "For The Love With Jen Hatmaker Podcast",
     "rss": "https://feeds.megaphone.fm/for-the-love",
     "artwork": "https://megaphone.imgix.net/podcasts/b14f81be-9458-11ee-8137-3b707bfe63c2/image/b7e4b9c2e99dc89c47b05e9991286274.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Society & Culture, Relationships"
+    "category": "Society & Culture"
   },
   {
     "title": "Fox News Hourly Update",
     "rss": "https://feeds.megaphone.fm/FOXM2252206613",
     "artwork": "https://megaphone.imgix.net/podcasts/34e4744e-0b35-11ec-9752-eb760e0dd74c/image/hourlynews.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "News, Daily News, Sports News"
+    "category": "News"
   },
   {
     "title": "Freakonomics, M.D.",
     "rss": "https://feeds.simplecast.com/Bx9_hnJH",
     "artwork": "https://image.simplecastcdn.com/images/42d2a406-817e-4291-8e96-123ac167308f/b90f93e1-51e7-4aef-ac4e-3e5b2c9d8030/3000x3000/3000x3000-freakonomics-md.jpg?aid=rss_feed",
-    "category": "Science, Society & Culture"
+    "category": "Science"
   },
   {
     "title": "FT News Briefing",
     "rss": "https://feeds.acast.com/public/shows/73fe3ede-5c5c-4850-96a8-30db8dbae8bf",
     "artwork": "https://assets.pippa.io/shows/621e1a5bf5df83377cc948b8/1771582499067-6d97f00e-76d7-4cba-88d5-a1a9d37b4494.jpeg",
-    "category": "News, Daily News, News & Politics"
+    "category": "News"
   },
   {
     "title": "Funny You Ask with Ike Barinholtz",
@@ -729,25 +729,25 @@
     "title": "Girls Gotta Eat",
     "rss": "https://feeds.megaphone.fm/DEARMEDIALLC6497520465",
     "artwork": "https://megaphone.imgix.net/podcasts/536696a0-1e53-11f1-b737-f3a2c08d12e6/image/07d4f2787a3e46ad2a0e34c503916043.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Comedy, Society & Culture"
+    "category": "Comedy"
   },
   {
     "title": "God's Country",
     "rss": "https://feeds.megaphone.fm/tbhnetwork",
     "artwork": "https://megaphone.imgix.net/podcasts/cb36713a-5e7f-11f0-ac3f-5b38b6be5037/image/5cb917875a4de3cbd8f2332f84a68a37.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Music, Music Interviews, Sports, Wilderness"
+    "category": "Music"
   },
   {
     "title": "Going West: True Crime",
     "rss": "https://feeds.simplecast.com/Z2Ui5wFW",
     "artwork": "https://image.simplecastcdn.com/images/ffb1e600-40db-4c22-b7e6-e6e0d86486d9/d56d481a-355b-4e2f-8af2-3db74239eeaa/3000x3000/goingwest_coverart.jpg?aid=rss_feed",
-    "category": "True Crime, Society & Culture, News"
+    "category": "True Crime"
   },
   {
     "title": "Good For You with Whitney Cummings",
     "rss": "https://feeds.megaphone.fm/TPC4385245503",
     "artwork": "https://megaphone.imgix.net/podcasts/4bb26232-1121-11ee-9560-c33df951dc23/image/e74b957ed1bf920218264fccef15934d.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Comedy, Comedy Interviews, Society & Culture"
+    "category": "Comedy"
   },
   {
     "title": "Good Hang with Amy Poehler",
@@ -759,31 +759,31 @@
     "title": "GOOD OL' GRATEFUL DEADCAST",
     "rss": "https://rss.art19.com/good-ol-grateful-dead-cast",
     "artwork": "https://content.production.cdn.art19.com/images/56/ef/3a/43/56ef3a43-7454-44c6-a319-71f6eb15f74e/a3b2c2b619c291d95d44ccc8720498b121c8a756fe8ff7659ed2c0ddf19407d436ee342409cd7e65eb4e43a0ce7a491cfac6fad0d2194e0614dd16382afc1474.jpeg",
-    "category": "Music, Music History, Music Commentary"
+    "category": "Music"
   },
   {
     "title": "Greg Bedard Patriots Podcast with Nick Cattles",
     "rss": "https://feeds.megaphone.fm/NSM9491972175",
     "artwork": "https://megaphone.imgix.net/podcasts/ff4a9d4c-5bcc-11ed-8099-df774c30f9b6/image/Greg_Bedard_Patriots_Podcast.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Sports, Football, News, Sports News"
+    "category": "Sports"
   },
   {
     "title": "Growth Mindset Psychology: The Science of Self-Improvement",
     "rss": "https://feeds.megaphone.fm/NSR1382158191",
     "artwork": "https://megaphone.imgix.net/podcasts/b31b318a-dfc3-11ee-96e2-e307ea398f4c/image/b1e2aa5d2a29d2325cc1f7f07f4f13dc.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Education, Self-Improvement, Science, Social Sciences, Society & Culture, Philosophy"
+    "category": "Education"
   },
   {
     "title": "Guy Benson Show",
     "rss": "https://feeds.megaphone.fm/FOXM5038087669",
     "artwork": "https://megaphone.imgix.net/podcasts/1a30c35a-74e9-11ec-a037-830d0c43ec06/image/COVER_GUY_BENSON_SHOW.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "News, Society & Culture"
+    "category": "News"
   },
   {
     "title": "Hacks Podcast",
     "rss": "https://feeds.megaphone.fm/WMHY4343566529",
     "artwork": "https://megaphone.imgix.net/podcasts/c8bb2fb2-3b82-11ee-b815-ef53bf743ef2/image/ff237bb5837a408d6dbf4d93c7ae5ae2.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "TV & Film, After Shows"
+    "category": "TV & Film"
   },
   {
     "title": "Handsome",
@@ -795,37 +795,37 @@
     "title": "Here's the Scoop",
     "rss": "https://feeds.simplecast.com/u8MC4WkR",
     "artwork": "https://image.simplecastcdn.com/images/d37e715b-53a3-4c13-b242-9e517056e766/1da2e53c-08e0-4738-a282-dc60ce90623a/3000x3000/primary-20key-20art-20tile.jpg?aid=rss_feed",
-    "category": "News, Daily News, News, Politics"
+    "category": "News"
   },
   {
     "title": "Hidden Brain",
     "rss": "https://feeds.simplecast.com/kwWc0lhf",
     "artwork": "https://image.simplecastcdn.com/images/5b7d8c77-15ba-4eff-a999-2e725db21db5/5da6be39-fd7a-4d15-80cb-9b518d140957/3000x3000/hidden-brain-cover.jpg?aid=rss_feed",
-    "category": "Science, Social Sciences, Arts, Performing Arts"
+    "category": "Science"
   },
   {
     "title": "History Channel Podcast",
     "rss": "https://feeds.megaphone.fm/historypodcastit",
     "artwork": "https://megaphone.imgix.net/podcasts/0608a082-f8a9-11ee-a70e-6bd5d41e32d1/image/8d12b50c726aac344b8a92be99671fd7.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "History, Society & Culture, Documentary"
+    "category": "History"
   },
   {
     "title": "History For Weirdos",
     "rss": "https://feeds.megaphone.fm/historyforweirdos",
     "artwork": "https://megaphone.imgix.net/podcasts/1edc2346-08ca-11ef-8d2e-d72ad1b0cf00/image/a67787127d018c5342ba36f45f8c1117.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "History, Society & Culture, Comedy"
+    "category": "History"
   },
   {
     "title": "History Uncovered",
     "rss": "https://feeds.megaphone.fm/PBH9965924039",
     "artwork": "https://megaphone.imgix.net/podcasts/3fb270c0-fd5f-11ec-b4ca-fb559dfcd2d7/image/58819c128d9aea63ac4411ea8f8f4565.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "History, True Crime, Society & Culture"
+    "category": "History"
   },
   {
     "title": "Hoge & Jahns: a show about the Chicago Bears",
     "rss": "https://feeds.simplecast.com/DxWJevnw",
     "artwork": "https://image.simplecastcdn.com/images/32fade3b-18a3-4a82-910e-9bcefa4b54be/5b1b49ee-2fe6-435d-a0eb-275d2c8c6bed/3000x3000/hoge-jahns.jpg?aid=rss_feed",
-    "category": "Sports, Football, News, Sports News"
+    "category": "Sports"
   },
   {
     "title": "Houston We Have a Podcast",
@@ -837,7 +837,7 @@
     "title": "How Did This Get Made?",
     "rss": "https://feeds.simplecast.com/Ao0C24M8",
     "artwork": "https://image.simplecastcdn.com/images/8436e3c1-2479-4466-ac48-fa58259960bb/494edddd-3dc9-4a58-aacb-d187bc2002c6/3000x3000/sxm-cover-hdtgm-3000x3000-r2025-final.jpg?aid=rss_feed",
-    "category": "Comedy, TV & Film, Film Reviews"
+    "category": "Comedy"
   },
   {
     "title": "How To Do Everything",
@@ -849,7 +849,7 @@
     "title": "Huberman Lab",
     "rss": "https://feeds.megaphone.fm/hubermanlab",
     "artwork": "https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Health & Fitness, Science, Life Sciences"
+    "category": "Health & Fitness"
   },
   {
     "title": "IHIP News",
@@ -861,7 +861,7 @@
     "title": "Imagination Amplified",
     "rss": "https://rss.art19.com/imagination-amplified",
     "artwork": "https://content.production.cdn.art19.com/images/b0/ee/c7/aa/b0eec7aa-81f3-4679-81d1-8d433d51ed56/9b8a18783859372e058961ea51141b89c5eae90dd45972dc8d7cdfd7db0185b74632f66a57a0439dfb8ff5d630a781089ff3acc50c332c81f069c0eac36167bf.jpeg",
-    "category": "Fiction, Drama, Arts, Performing Arts"
+    "category": "Fiction"
   },
   {
     "title": "Inhuman: A True Crime Podcast",
@@ -873,13 +873,13 @@
     "title": "Inside Trump's Head",
     "rss": "https://feeds.megaphone.fm/QCD8589611489",
     "artwork": "https://megaphone.imgix.net/podcasts/011b1ce6-fc5b-11f0-9ac2-0376505a4cea/image/45d680a0d822fb478f725632aae43cee.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "News, Society & Culture"
+    "category": "News"
   },
   {
     "title": "Interesting Times with Ross Douthat",
     "rss": "https://feeds.simplecast.com/bS1LZG8m",
     "artwork": "https://image.simplecastcdn.com/images/4105a47a-42e5-4ccc-887a-832af7989986/1755eb11-344c-4732-bac7-d1a5daafb473/3000x3000/nyt-rossdouthat-albumart-3000px.jpg?aid=rss_feed",
-    "category": "News, Society & Culture"
+    "category": "News"
   },
   {
     "title": "Into The Dark",
@@ -891,13 +891,13 @@
     "title": "IT IS WHAT IT IS",
     "rss": "https://feeds.megaphone.fm/BLU7984721871",
     "artwork": "https://megaphone.imgix.net/podcasts/481aaff4-909b-11ee-8a3b-8fcd79c1bd53/image/75805ac4d97a49be2a94f6243cf17af8.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Sports, News, Sports News, Entertainment News"
+    "category": "Sports"
   },
   {
     "title": "jackass the podcast with johnny knoxville and jeff tremaine",
     "rss": "https://rss.art19.com/jackass-the-podcast-with-johnny-knoxville-and-jeff-tremaine",
     "artwork": "https://content.production.cdn.art19.com/images/70/8a/2e/42/708a2e42-3ac9-4aff-8c73-1f2af1cbab42/852ebc5fa5aaa6280e3a8602febf0283e9c53ca2b19e9eee0acaf6f663bed2e4bdf0b3cbc43d02ce557a570eda9dd9304631b654b3ea759569994423c939b3d0.jpeg",
-    "category": "TV & Film, After Shows, Film Interviews, Comedy"
+    "category": "TV & Film"
   },
   {
     "title": "Joel Osteen Podcast",
@@ -921,13 +921,13 @@
     "title": "Killer Stories with Harvey Guill\u00e9n",
     "rss": "https://feeds.megaphone.fm/END1032105222",
     "artwork": "https://megaphone.imgix.net/podcasts/c8337bd0-9f10-11e8-91c5-abf6d0c6d345/image/2a1405331502da3b7ad83348735dc61d.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "True Crime, History, Education"
+    "category": "True Crime"
   },
   {
     "title": "Kinda Funny Games Daily: Video Games News Podcast",
     "rss": "https://feeds.megaphone.fm/ROOSTER8838278962",
     "artwork": "https://megaphone.imgix.net/podcasts/28c2b81a-9182-11eb-9898-2fecbec465cf/image/a079a2083474219dd7c6c4c3d06e3ac9.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Leisure, Video Games, News, Tech News"
+    "category": "Leisure"
   },
   {
     "title": "kPod - The Kidd Kraddick Morning Show",
@@ -939,31 +939,31 @@
     "title": "Last Podcast On The Left",
     "rss": "https://feeds.simplecast.com/dCXMIpJz",
     "artwork": "https://image.simplecastcdn.com/images/ed690658-5134-4e0f-a182-d5f7077190df/15517248-c1d6-4bc1-bbb2-724466575185/3000x3000/lpotl-logo.jpg?aid=rss_feed",
-    "category": "True Crime, Comedy, Society & Culture"
+    "category": "True Crime"
   },
   {
     "title": "Last Resort",
     "rss": "https://feeds.megaphone.fm/lastresort",
     "artwork": "https://megaphone.imgix.net/podcasts/eef97f26-2f7c-11f1-8231-bf100d50fa4a/image/f5936d02dba9b8ae39d790d19c1542e0.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Fiction, Science Fiction"
+    "category": "Fiction"
   },
   {
     "title": "Late Night with Seth Meyers Podcast",
     "rss": "https://rss.art19.com/late-night-with-seth-meyers-podcast",
     "artwork": "https://content.production.cdn.art19.com/images/e5/bf/1c/e3/e5bf1ce3-12ab-48c7-ae65-8e321bbb1c3a/8a3a484edee655b8e6676d2913f5c6055cd5d7961a2c9bd073e3901927346edf39cb7881d50a79fb7e8df94829dee790d2a7343035064e7767f772f7b10ee0b0.jpeg",
-    "category": "Comedy, TV & Film, After Shows, News, News Commentary"
+    "category": "Comedy"
   },
   {
     "title": "Law&Crime Sidebar",
     "rss": "https://rss.art19.com/law-crime-sidebar",
     "artwork": "https://content.production.cdn.art19.com/images/3c/e6/df/62/3ce6df62-c4e5-468d-9a4c-582aba9c18e9/084d04a884f2b291cde77be410a02ef494e9a8373457a6664215e14fa94af3b9d439c36ebcde9c15a2e7089269ac52f3e8974576410c0cc38790f4e12ec481c1.jpeg",
-    "category": "News, Daily News"
+    "category": "News"
   },
   {
     "title": "Learn French with daily podcasts",
     "rss": "https://feeds.acast.com/public/shows/66068dc22d276f001657edb1",
     "artwork": "https://assets.pippa.io/shows/66068dc22d276f001657edb1/show-cover.jpg",
-    "category": "Education, Language Learning"
+    "category": "Education"
   },
   {
     "title": "Let's Learn Everything!",
@@ -975,19 +975,19 @@
     "title": "Little Miss Recap: Reality TV Through a Gen X Lens",
     "rss": "https://feeds.acast.com/public/shows/69b30e05bffd975a45d0ebd2",
     "artwork": "https://assets.pippa.io/shows/69b30e05bffd975a45d0ebd2/show-cover.jpeg",
-    "category": "TV & Film, TV & Film, After Shows, TV & Film, TV Reviews"
+    "category": "TV & Film"
   },
   {
     "title": "Locked On Braves - Daily Podcast On The Atlanta Braves",
     "rss": "https://feeds.simplecast.com/A8cRG01Y",
     "artwork": "https://image.simplecastcdn.com/images/81f61e14-13a6-4a69-aeac-c24e31303b02/0b3aa18b-3c59-4aa7-a7ba-912221df75c6/3000x3000/uploads-2f1551728439466-dq1wk62fr24-174781f265bb26df81f4bf7a219c76aa-2flocked-on-braves-podcast-bg.jpg?aid=rss_feed",
-    "category": "Sports, Baseball"
+    "category": "Sports"
   },
   {
     "title": "Love & Justice",
     "rss": "https://feeds.acast.com/public/shows/64d56903dd4d910011cdfa1e",
     "artwork": "https://assets.pippa.io/shows/64d56903dd4d910011cdfa1e/1776303821099-f7ffaf8d-2f52-41cb-bc4f-8597eb480f9b.jpeg",
-    "category": "True Crime, Society & Culture, Documentary, News"
+    "category": "True Crime"
   },
   {
     "title": "MANslaughter",
@@ -999,19 +999,19 @@
     "title": "Mark Levin Podcast",
     "rss": "https://feeds.megaphone.fm/mark-levin-podcast",
     "artwork": "https://megaphone.imgix.net/podcasts/f011bccc-cf19-11e9-a0e6-53338fd720e5/image/Mark_Levin_Cover.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "News, News Commentary, Politics"
+    "category": "News"
   },
   {
     "title": "Mention It All",
     "rss": "https://feeds.megaphone.fm/BMLLC8471039145",
     "artwork": "https://megaphone.imgix.net/podcasts/a7fc3262-72e5-11ea-bd04-579082a70de5/image/MIA-COVER-FINAL3000.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "TV & Film, After Shows, TV Reviews"
+    "category": "TV & Film"
   },
   {
     "title": "Mike Birbiglia's Working It Out",
     "rss": "https://feeds.simplecast.com/MTW0B2El",
     "artwork": "https://image.simplecastcdn.com/images/0c959313-82dc-43ee-bc1e-f66340c4c821/ccbdb314-4628-4c89-a10f-079ac50f6aa5/3000x3000/mikebirbiglia-workingitout-3000x3000.jpg?aid=rss_feed",
-    "category": "Comedy, Comedy Interviews"
+    "category": "Comedy"
   },
   {
     "title": "Mind the Game",
@@ -1023,7 +1023,7 @@
     "title": "Mo News",
     "rss": "https://feeds.megaphone.fm/ADV8678235965",
     "artwork": "https://megaphone.imgix.net/podcasts/708f0bcc-e8d3-11ec-8899-f72220381653/image/01e90ccea731a8a40ddb1a408c98715b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "News, Daily News, News Commentary"
+    "category": "News"
   },
   {
     "title": "Moms and Mysteries: A True Crime Podcast",
@@ -1047,19 +1047,19 @@
     "title": "Morbid",
     "rss": "https://feeds.simplecast.com/ohmVlJZQ",
     "artwork": "https://image.simplecastcdn.com/images/3c9c3c2a-a53f-40bd-9d24-bdb387b03fb1/63cc4f36-fd5e-4f32-82e3-a2185ea81abf/3000x3000/sxm-cover-morbid-3000x3000-final.jpg?aid=rss_feed",
-    "category": "True Crime, Comedy"
+    "category": "True Crime"
   },
   {
     "title": "Morning Announcements",
     "rss": "https://feeds.megaphone.fm/BMLLC2929394709",
     "artwork": "https://megaphone.imgix.net/podcasts/67cb16b0-4547-11eb-9ed3-6b741810f44a/image/55a1491a758283a582368bc107960e04.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "News, Daily News, Politics, News Commentary"
+    "category": "News"
   },
   {
     "title": "Morning Brew Daily",
     "rss": "https://feeds.megaphone.fm/MOBI8777994188",
     "artwork": "https://megaphone.imgix.net/podcasts/c0a7bc5e-5cf5-11ec-9d07-cbfe22d3f89b/image/9e7619bc57725599009c40e26bbadbc5.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Business, News, Business News"
+    "category": "Business"
   },
   {
     "title": "Morning Joe",
@@ -1101,7 +1101,7 @@
     "title": "Murder, She Told",
     "rss": "https://feeds.megaphone.fm/CTL3944216911",
     "artwork": "https://megaphone.imgix.net/podcasts/1780a2ac-6137-11ed-8d5b-17552d45ec09/image/8c2d13f8bcaa4040802bb2f15bda3136.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "True Crime, Society & Culture, Documentary"
+    "category": "True Crime"
   },
   {
     "title": "Murdered By Mistake",
@@ -1113,7 +1113,7 @@
     "title": "Music Person",
     "rss": "https://feeds.megaphone.fm/music-person",
     "artwork": "https://megaphone.imgix.net/podcasts/a3ca8068-4611-11f0-b0b0-fb263fbaaaef/image/12f9bc7028501c831eb2ee60d5dd6096.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Music, Music Interviews, Music Commentary"
+    "category": "Music"
   },
   {
     "title": "My Favorite Murder",
@@ -1137,19 +1137,19 @@
     "title": "Nature Podcast",
     "rss": "https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f",
     "artwork": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
-    "category": "Science, Technology, News"
+    "category": "Science"
   },
   {
     "title": "Netflix Is A Daily Joke",
     "rss": "https://feeds.megaphone.fm/NETFLIX2608127680",
     "artwork": "https://megaphone.imgix.net/podcasts/6fe427ec-b863-11ed-9e3b-f79bd21a2f4d/image/f75d642572ec0815e36be6a49a0284e6.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Comedy, Stand-Up, TV & Film"
+    "category": "Comedy"
   },
   {
     "title": "New Heights with Jason & Travis Kelce",
     "rss": "https://rss.art19.com/new-heights",
     "artwork": "https://content.production.cdn.art19.com/images/a5/7d/d2/25/a57dd225-7797-492e-b3f5-e789a34082bb/6cd06af0b8db3eb05b90ace4949e0e8ec601b820104c79fd04eecd2c5313ed72d83efeb580fb46500a2e8768af5869420613169b4341be1beb0f812ce7903f36.jpeg",
-    "category": "Sports, Comedy"
+    "category": "Sports"
   },
   {
     "title": "NFL Live",
@@ -1161,19 +1161,19 @@
     "title": "No Jumper",
     "rss": "https://feeds.megaphone.fm/NJP4856622419",
     "artwork": "https://megaphone.imgix.net/podcasts/a129f48a-feab-11eb-91a9-a3d13034e892/image/NJ_-_Logo_-_Color.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Music, Music Interviews, News, Entertainment News"
+    "category": "Music"
   },
   {
     "title": "Not Gonna Lie with Kylie Kelce",
     "rss": "https://feeds.megaphone.fm/BSN1511786771",
     "artwork": "https://megaphone.imgix.net/podcasts/0836385c-a78f-11ef-9369-b7b67f25cfba/image/d18ae98d0492c1f5e9062a4d31583fad.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Comedy, Society & Culture, Personal Journals"
+    "category": "Comedy"
   },
   {
     "title": "Not What You Thought You Knew",
     "rss": "https://feeds.acast.com/public/shows/7db8dbf2-4b79-4d64-892a-d0d87f255834",
     "artwork": "https://assets.pippa.io/shows/611e679406c05edcf9f4089c/show-cover.png",
-    "category": "History, Education, Society & Culture, Documentary"
+    "category": "History"
   },
   {
     "title": "Nothing Is Real - A Beatles Podcast",
@@ -1191,7 +1191,7 @@
     "title": "NPR News Now",
     "rss": "https://feeds.npr.org/500005/podcast.xml",
     "artwork": "https://media.npr.org/assets/img/2023/01/24/npr-news-now_tile_sq-2334a5fd44563fa94cdcdb27384b0f05987c2d15.jpg?s=1400&c=66&f=jpg",
-    "category": "News, Daily News"
+    "category": "News"
   },
   {
     "title": "NPR's Newsmakers",
@@ -1203,67 +1203,67 @@
     "title": "Office Ladies",
     "rss": "https://feeds.megaphone.fm/office-ladies",
     "artwork": "https://megaphone.imgix.net/podcasts/68d29e08-2805-11ef-a151-afd45121a6bf/image/910b757c022135e9ed5747f9b77fa22e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Comedy, TV & Film, After Shows"
+    "category": "Comedy"
   },
   {
     "title": "Old Gods of Appalachia",
     "rss": "https://feeds.acast.com/public/shows/61ba0a431a8cbeb6ea3cf11a",
     "artwork": "https://assets.pippa.io/shows/61ba0a431a8cbeb6ea3cf11a/1767995400967-2fb144ac-c218-4e13-a084-f8cafb2c1bca.jpeg",
-    "category": "Fiction, Science Fiction"
+    "category": "Fiction"
   },
   {
     "title": "Ologies with Alie Ward",
     "rss": "https://feeds.simplecast.com/FO6kxYGj",
     "artwork": "https://image.simplecastcdn.com/images/89060b63-e603-4297-b6e8-5a654e50244e/f9713c33-7eca-4512-8d96-7a668e274cb2/3000x3000/image.jpg?aid=rss_feed",
-    "category": "Science, Comedy, Society & Culture"
+    "category": "Science"
   },
   {
     "title": "On the Media",
     "rss": "https://feeds.simplecast.com/o4jAFXaw",
     "artwork": "https://image.simplecastcdn.com/images/2c9187d6-9dff-4257-bc55-469cf13afd48/8f823e1a-b8cc-4a76-8224-e2a4df4ae1f8/3000x3000/otm-showsquare-2025-3000x3000.jpg?aid=rss_feed",
-    "category": "News, Politics, Society & Culture, History"
+    "category": "News"
   },
   {
     "title": "One Song",
     "rss": "https://feeds.megaphone.fm/IMP6296096176",
     "artwork": "https://megaphone.imgix.net/podcasts/ec7d904a-b9b0-11ef-8325-7fd879492af1/image/e3ea238f70c39eb11fdd480d1eae6be4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Music, Music Commentary, Music Interviews, Comedy"
+    "category": "Music"
   },
   {
     "title": "Our Fake History",
     "rss": "https://rss.art19.com/our-fake-history",
     "artwork": "https://content.production.cdn.art19.com/images/3d/ca/f7/05/3dcaf705-c088-4b8a-84d0-7ac07d563f52/66678616e69aca758d840ca18f15dfe24ee28bbeebadd4d4ed93b1d9a21a465147dc9d47740e8e237fe4c853b0738580838108caa9fa6e46524e98436e2a49ab.jpeg",
-    "category": "History, Education, Society & Culture"
+    "category": "History"
   },
   {
     "title": "Our Wars Have Ended",
     "rss": "https://feeds.acast.com/public/shows/69de45367beb0a1735923f8e",
     "artwork": "https://assets.pippa.io/shows/69de45367beb0a1735923f8e/1776411872906-320ed81c-4009-43bc-9857-66064272bbf3.jpeg",
-    "category": "Fiction, Fiction, Science Fiction, Fiction, Drama"
+    "category": "Fiction"
   },
   {
     "title": "Over My Dead Body",
     "rss": "https://rss.art19.com/over-my-dead-body",
     "artwork": "https://content.production.cdn.art19.com/images/65/f5/70/e4/65f570e4-fafb-44ff-a43a-ca4732856794/b80fc2ee788fa14d634b278ee4518d9d7b947996e98ef422b7c8c08dd85cf3c0537fc5568fe6c0b596095c1c7a89aa8b772a46a4a0c85648d39b0e4dc22ac6fb.jpeg",
-    "category": "True Crime, News, Society & Culture, Documentary"
+    "category": "True Crime"
   },
   {
     "title": "Overheard at National Geographic",
     "rss": "https://feeds.megaphone.fm/ESP6921732651",
     "artwork": "https://megaphone.imgix.net/podcasts/469e8798-63b0-11ea-97a2-af7e54f3ff3f/image/9f8cdc2f70b9cb13ccb1d9b68478e4cb.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Science, Society & Culture"
+    "category": "Science"
   },
   {
     "title": "Oysters Clams & Cockles: Euphoria",
     "rss": "https://feeds.megaphone.fm/BVLLC3341252081",
     "artwork": "https://megaphone.imgix.net/podcasts/93569a3c-68d0-11f0-ad5a-0f7ff3584c3a/image/950fd9840c9dd5ea9a9cb9db27bc4fc0.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "TV & Film, After Shows, TV Reviews"
+    "category": "TV & Film"
   },
   {
     "title": "Pablo Torre Finds Out",
     "rss": "https://feeds.acast.com/public/shows/68b1d0ea993d10acb9c3fe4f",
     "artwork": "https://assets.pippa.io/shows/68b1d0ea993d10acb9c3fe4f/1775008407441-209a6288-80af-4538-9c37-9728cb9397d3.jpeg",
-    "category": "Sports, News, Sports News, Government"
+    "category": "Sports"
   },
   {
     "title": "Park Predators",
@@ -1275,55 +1275,55 @@
     "title": "Part Of The Problem",
     "rss": "https://rss.art19.com/part-of-the-problem",
     "artwork": "https://content.production.cdn.art19.com/images/9f/26/0b/a9/9f260ba9-c330-477b-bbf9-decc7d4c841b/d4857d11832ff0a6098f80691dbe93cdfbcf16ec00281bd38e03d6b2f2d54b6412effc6b98c2cf3672f90b1b2031f4c337038391bfa997658876523993fa7bfe.jpeg",
-    "category": "News, Comedy, Government"
+    "category": "News"
   },
   {
     "title": "Phenomena Podcast: The Science & Stories of Energy Healing",
     "rss": "https://feeds.simplecast.com/DPcObb3q",
     "artwork": "https://image.simplecastcdn.com/images/76addb9e-cade-48bb-a317-da503af7a4f0/8b83acf9-9760-46fa-9679-d00e5d7d4212/3000x3000/phenomena_podcast.jpg?aid=rss_feed",
-    "category": "Science, Life Sciences, Religion & Spirituality, Spirituality"
+    "category": "Science"
   },
   {
     "title": "Piers Morgan Uncensored",
     "rss": "https://feeds.megaphone.fm/RSV2152356740",
     "artwork": "https://megaphone.imgix.net/podcasts/ec25a7c6-cd20-11ef-ad80-cb6ba240e663/image/8d9487e42fb820e5e50312b158ef8a63.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "News, Society & Culture, Sports"
+    "category": "News"
   },
   {
     "title": "Pivot",
     "rss": "https://feeds.megaphone.fm/pivot",
     "artwork": "https://megaphone.imgix.net/podcasts/d6280242-e5c9-11e8-a7e3-d766bb7d2d3e/image/9a8516afea07618edc36686c8ce41083.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "News, News Commentary, Tech News, Technology"
+    "category": "News"
   },
   {
     "title": "Plain English with Derek Thompson",
     "rss": "https://feeds.megaphone.fm/plain-english",
     "artwork": "https://megaphone.imgix.net/podcasts/8cd95598-4190-11ec-8fed-076eee281250/image/6302614b4c440389823093d8ae6cb487.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "News, News Commentary"
+    "category": "News"
   },
   {
     "title": "Planet Money",
     "rss": "https://feeds.npr.org/510289/podcast.xml",
     "artwork": "https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg",
-    "category": "Business, News"
+    "category": "Business"
   },
   {
     "title": "Play Me or Fade Me Sports Betting Picks Podcast",
     "rss": "https://feeds.megaphone.fm/playmeorfademe",
     "artwork": "https://megaphone.imgix.net/podcasts/7acbdeda-678a-11ee-a52e-57d29d2fddb6/image/5853f95cb827a4d21f49f8f7d08ed31e.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Sports, Basketball, Football, Baseball"
+    "category": "Sports"
   },
   {
     "title": "Podcast: The Ride",
     "rss": "https://rss.art19.com/podcasttheride",
     "artwork": "https://content.production.cdn.art19.com/images/36/c4/87/39/36c48739-b6fb-4be5-a697-d8c648e6f8b0/0f5e161fb73bfedd4a95722fbb1b1c675545fde13a11541070c3de306ba2680c600e31cba21094b20818bd323dd19bb8daeb521b074817f14ac6a75796f05b70.jpeg",
-    "category": "Leisure, Comedy"
+    "category": "Leisure"
   },
   {
     "title": "Popcast",
     "rss": "https://feeds.simplecast.com/TzbxCT1l",
     "artwork": "https://image.simplecastcdn.com/images/9257fd86-22fe-4866-89a9-12c73a57a552/7d8f085e-cd8b-44c3-ada7-3da4f2256f9e/3000x3000/caeea2148c5651638ebd01c5abd91b0bca8aa3e21c6d30a32130e1fabc9aae8a4d706cc68dac63427b2af8090e5ea15cef4d57467c6bac60dc9e7870ffeeea5a.jpeg?aid=rss_feed",
-    "category": "Music, Music Commentary, Music, Music Interviews"
+    "category": "Music"
   },
   {
     "title": "PRISMATIC",
@@ -1335,19 +1335,19 @@
     "title": "Professor Brian Cox Live Q and A Podcast",
     "rss": "https://feeds.feedburner.com/ProfessorBrianCoxLiveQAndAPodcast",
     "artwork": "http://www.cosmicshambles.com/Podcast/BrianCoxQnAPodcastLogo.jpg",
-    "category": "Science & Medicine, Comedy"
+    "category": "Science & Medicine"
   },
   {
     "title": "ProPublica Narrated",
     "rss": "https://feeds.megaphone.fm/propublica-narrated",
     "artwork": "https://megaphone.imgix.net/podcasts/894fb19a-ba8d-11f0-9146-33106f080eed/image/8a046c10fb48f2ce806372d623511c52.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "News, Society & Culture, Government"
+    "category": "News"
   },
   {
     "title": "Psychopedia: True Crime & Criminal Psychology",
     "rss": "https://feeds.megaphone.fm/psychopedia",
     "artwork": "https://megaphone.imgix.net/podcasts/7dce7dda-9f4e-11ee-8480-337ccdf9f78a/image/e2365076f7b1c1761ca4e665f18ab450.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "True Crime, Comedy"
+    "category": "True Crime"
   },
   {
     "title": "PTI",
@@ -1359,13 +1359,13 @@
     "title": "Radiolab",
     "rss": "https://feeds.simplecast.com/EmVW7VGp",
     "artwork": "https://image.simplecastcdn.com/images/2c9187d6-9dff-4257-bc55-469cf13afd48/60a2cfed-b8ca-460b-abb8-8ab0afb3fa8c/3000x3000/radiolab-showsquare-3000x3000.jpg?aid=rss_feed",
-    "category": "Science, Natural Sciences, Society & Culture, Documentary, History"
+    "category": "Science"
   },
   {
     "title": "Real Moms of Bravo",
     "rss": "https://feeds.megaphone.fm/CTL2355338082",
     "artwork": "https://megaphone.imgix.net/podcasts/7034fcae-dbe4-11ed-a4cb-e7709fec13fd/image/Logo_Copies_for_Cloud10-6.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "TV & Film, After Shows, TV Reviews"
+    "category": "TV & Film"
   },
   {
     "title": "Real Time with Bill Maher",
@@ -1377,49 +1377,49 @@
     "title": "Reality Gays with Mattie and Poodle",
     "rss": "https://feeds.megaphone.fm/reality-gays",
     "artwork": "https://megaphone.imgix.net/podcasts/6f8ec6e8-84a5-11ef-ba56-7fadd5192b92/image/332ccbe1e482695d079a9d55dc6c5ec5.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "TV & Film, After Shows, Comedy"
+    "category": "TV & Film"
   },
   {
     "title": "Reply All",
     "rss": "https://feeds.megaphone.fm/replyall",
     "artwork": "https://megaphone.imgix.net/podcasts/05f71746-a825-11e5-aeb5-a7a572df575e/image/uploads_2F1610700524297-f3e2p6fbm79-8b4536488226b56e93a99ce9f7b555b5_2FReplyAll_ShowArt.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Technology, Society & Culture, Documentary"
+    "category": "Technology"
   },
   {
     "title": "Reuters World News",
     "rss": "https://feeds.megaphone.fm/reutersworldnews",
     "artwork": "https://megaphone.imgix.net/podcasts/e3c7d1b2-8c45-11ed-80a2-172771c99810/image/83ac533ea52b6279d96d26ecc1b9cea4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "News, Daily News, Business News"
+    "category": "News"
   },
   {
     "title": "Rolling Stone All Access",
     "rss": "https://feeds.megaphone.fm/rollingstonemusicnow",
     "artwork": "https://megaphone.imgix.net/podcasts/4124460a-f2cf-11e5-9b5f-93196d5bac31/image/32795ec687f8a86f5091ebed555fdf1e.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Music, Music Commentary, Music Interviews"
+    "category": "Music"
   },
   {
     "title": "Rotten Mango",
     "rss": "https://feeds.simplecast.com/6Qp23t6h",
     "artwork": "https://image.simplecastcdn.com/images/5b7d8c77-15ba-4eff-a999-2e725db21db5/00d27c48-7cbc-44ae-a034-361382a30544/3000x3000/rm-20cover-203000x3000.jpg?aid=rss_feed",
-    "category": "True Crime, Comedy, Society & Culture"
+    "category": "True Crime"
   },
   {
     "title": "Scamanda",
     "rss": "https://feeds.acast.com/public/shows/66d9aa05d740de0852b686a8",
     "artwork": "https://assets.pippa.io/shows/66d9aa05d740de0852b686a8/show-cover.jpg",
-    "category": "True Crime, Society & Culture, Documentary"
+    "category": "True Crime"
   },
   {
     "title": "Science Friday",
     "rss": "https://feeds.simplecast.com/h18ZIZD_",
     "artwork": "https://image.simplecastcdn.com/images/b99b6401-4efd-485f-b744-84da8d6c14f6/88d16dd9-fbeb-4b94-acd3-e9871b5060cc/3000x3000/sciencefriday-showsquare-2025-3000x3000.jpg?aid=rss_feed",
-    "category": "Science, Science, Life Sciences, Science, Natural Sciences"
+    "category": "Science"
   },
   {
     "title": "Science Magazine Podcast",
     "rss": "https://feeds.megaphone.fm/AAAS8717073854",
     "artwork": "https://megaphone.imgix.net/podcasts/ced64e52-63a7-11ee-a0a8-87aeb796287a/image/image.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Science, News, News Commentary"
+    "category": "Science"
   },
   {
     "title": "Science Rules! with Bill Nye",
@@ -1431,25 +1431,25 @@
     "title": "Science Vs",
     "rss": "https://feeds.megaphone.fm/sciencevs",
     "artwork": "https://megaphone.imgix.net/podcasts/f521b120-2c30-11e6-b5f3-63ee984ee1a4/image/ef3c9794d719932e0de154184674b35e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Science, Education, Health & Fitness"
+    "category": "Science"
   },
   {
     "title": "SciShow Tangents",
     "rss": "https://rss.art19.com/scishow-tangents-",
     "artwork": "https://content.production.cdn.art19.com/images/90/9d/51/36/909d5136-b1bd-4cb6-ae4b-5c51c2268305/109fb375de043e13759717dabee9f8ab4bff7c87c0ac5f38ebf0c89afa2c4d277aa4588b98ddec9dc52f30fc44cdc12af437b568b385466b7aed611bea701bb5.jpeg",
-    "category": "Science, Comedy, Education"
+    "category": "Science"
   },
   {
     "title": "Shane Gillis - Biography Flash",
     "rss": "https://feeds.megaphone.fm/NPTNI6962883530",
     "artwork": "https://megaphone.imgix.net/podcasts/e362c5b0-4da3-11f1-a8c4-933bbf136a3d/image/8d677a3d6e4e83424dfb3c66c7139a21.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Comedy, News, Entertainment News, TV & Film"
+    "category": "Comedy"
   },
   {
     "title": "She's All Bach",
     "rss": "https://feeds.simplecast.com/GrBPP7XN",
     "artwork": "https://image.simplecastcdn.com/images/1ba84cfe-3268-4087-9fcd-0e6632a5ad8f/f8447b5b-343f-47de-bda6-e72473cc3134/3000x3000/shes_all_bach_podcast_cover.jpg?aid=rss_feed",
-    "category": "TV & Film, After Shows, TV & Film, TV Reviews, News, Entertainment News"
+    "category": "TV & Film"
   },
   {
     "title": "Short History Of...",
@@ -1461,7 +1461,7 @@
     "title": "Short Wave",
     "rss": "https://feeds.npr.org/510351/podcast.xml",
     "artwork": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
-    "category": "Science, Life Sciences, Astronomy, Nature, News, Daily News"
+    "category": "Science"
   },
   {
     "title": "Show Me The Money",
@@ -1479,49 +1479,49 @@
     "title": "Six Feet Under with The Undertaker",
     "rss": "https://rss.art19.com/six-feet-under",
     "artwork": "https://content.production.cdn.art19.com/images/e7/de/0f/ec/e7de0fec-df7c-4687-b561-528f05b673c4/cc8c0b44bd794ba2c74e12b7f3848f35ee07ae7f7a1bb2519cee832e606ebc49de66f53b4cd6ba4976f378c2d9f00c5ea9666a472ebf8b7b04e1baf4b62ea257.jpeg",
-    "category": "Sports, Wrestling"
+    "category": "Sports"
   },
   {
     "title": "Six Minutes",
     "rss": "https://rss.art19.com/sixminutes",
     "artwork": "https://content.production.cdn.art19.com/images/1d/54/38/70/1d543870-4c29-479e-86db-3d6c77e895d9/06115a1d45055b0a78bbf4ef1d50afa59fe5926673278366defe5405be31ed7b5627a5e5cbf20e029c3ebd42a678e13ebbab2eab654c91127a3341b0485c74b8.jpeg",
-    "category": "Fiction, Drama, Arts, Performing Arts"
+    "category": "Fiction"
   },
   {
     "title": "Six Questions with Steven Beschloss",
     "rss": "https://feeds.megaphone.fm/PNEAU7570731973",
     "artwork": "https://megaphone.imgix.net/podcasts/04db3946-5f71-11f1-8950-9757c9a42691/image/8b7f84df541613154fde9ae5a814ce6f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "News, News Commentary, Government"
+    "category": "News"
   },
   {
     "title": "Sleep Magic: Sleep Hypnosis & Meditation for Sleep Podcast",
     "rss": "https://feeds.megaphone.fm/sleepmagic",
     "artwork": "https://megaphone.imgix.net/podcasts/1877023a-4ece-11ed-8e7c-3794059a7dfc/image/59bc475518b0c6f92bcbf5cdd3038891.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Health & Fitness, Alternative Health, Education, Self-Improvement"
+    "category": "Health & Fitness"
   },
   {
     "title": "Sleepy History",
     "rss": "https://feeds.megaphone.fm/sleepyhistory",
     "artwork": "https://megaphone.imgix.net/podcasts/ba70b2fe-3b23-11f0-a921-532cff884751/image/47d67081059bb8c6ae279b362a73597b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "History, Society & Culture, Documentary"
+    "category": "History"
   },
   {
     "title": "Slow Burn",
     "rss": "https://feeds.acast.com/public/shows/6965759d79fe7d554545528a",
     "artwork": "https://assets.pippa.io/shows/6965759d79fe7d554545528a/1778157374914-ae3ee4b6-49a1-4ca8-b5ab-9ddd01fce140.jpeg",
-    "category": "History, Society & Culture, Documentary, News, Politics"
+    "category": "History"
   },
   {
     "title": "SmartLess",
     "rss": "https://feeds.simplecast.com/hNaFxXpO",
     "artwork": "https://image.simplecastcdn.com/images/8436e3c1-2479-4466-ac48-fa58259960bb/0156216b-cc03-4f2c-9fcc-03fd38a2f4e0/3000x3000/sxm-cover-smartless-r2025-3000x3000-final.jpg?aid=rss_feed",
-    "category": "Comedy, Education, Society & Culture"
+    "category": "Comedy"
   },
   {
     "title": "Snapped: Women Who Murder",
     "rss": "https://rss.art19.com/snapped-women-who-murder",
     "artwork": "https://content.production.cdn.art19.com/images/d6/00/9e/b0/d6009eb0-9b07-4ba6-a789-100939717b57/7c02d2966ac19a84e2023c4131df7f9aee56c0880c3a07c9f63bfcd3e8cec2310c1f095ed52f9aefdaa9a0b5eef22aa1691d1da0dd3eedcef834977157fa4efa.jpeg",
-    "category": "True Crime, TV & Film, News"
+    "category": "True Crime"
   },
   {
     "title": "So True with Caleb Hearon",
@@ -1539,25 +1539,25 @@
     "title": "Something About the Beatles",
     "rss": "https://feeds.megaphone.fm/somethingabout-thebeatles",
     "artwork": "https://megaphone.imgix.net/podcasts/3207ff9c-e6d0-11ee-a7b6-971538cdd24a/image/40caeee6709f30bf6b5334296b952b54.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Music, Music History, Music Interviews"
+    "category": "Music"
   },
   {
     "title": "Sound Opinions",
     "rss": "https://rss.art19.com/sound-opinions",
     "artwork": "https://content.production.cdn.art19.com/images/21/42/11/29/21421129-d340-4032-9ada-49a9b7242fae/a68a13e373ec132f337c6262692a9e70592305965f2778c37bdd164c3e1906b4c4e9d0e23dd8b799a022c5079924ea399a2dd748b2eebeddf2f8d783ffaca98a.jpeg",
-    "category": "Music, Arts, Society & Culture"
+    "category": "Music"
   },
   {
     "title": "Speaking of Psychology",
     "rss": "https://feeds.megaphone.fm/AMERICANPSYCHOLOGICALASSOCIATION9933181801",
     "artwork": "https://megaphone.imgix.net/podcasts/ca105d1a-485b-11ef-a0f1-ab2f409ab058/image/8577510a83cc8ea277800434a518b476.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Science, Life Sciences, Health & Fitness, Mental Health"
+    "category": "Science"
   },
   {
     "title": "Spitballers Comedy Podcast",
     "rss": "https://feeds.simplecast.com/_WcvqO41",
     "artwork": "https://image.simplecastcdn.com/images/72478a6e-113c-4694-bc29-91d897d5757a/cbdb8d24-0b97-440c-9979-36c65d9b46cb/3000x3000/38126167.png?aid=rss_feed",
-    "category": "Comedy, Improv, Kids & Family"
+    "category": "Comedy"
   },
   {
     "title": "Sports Cards Live",
@@ -1569,49 +1569,49 @@
     "title": "Sports Cards Nonsense",
     "rss": "https://feeds.megaphone.fm/sports-cards-nonsense",
     "artwork": "https://megaphone.imgix.net/podcasts/410196e4-56cc-11eb-a4d6-d3ce949c14a5/image/d99b266e5ad3e52c933cadd50808f1e5.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Leisure, Hobbies"
+    "category": "Leisure"
   },
   {
     "title": "Sports Gambling Podcast",
     "rss": "https://feeds.simplecast.com/MqvHchJZ",
     "artwork": "https://image.simplecastcdn.com/images/410a767c-0797-4e43-91c3-0d778c52c7b5/9d7c49be-08ae-4c15-849e-c76f2f67980a/3000x3000/sgpn-sports-gambling-podcast-coverart.jpg?aid=rss_feed",
-    "category": "Sports, Football, Sports, Basketball, Sports, Fantasy Sports"
+    "category": "Sports"
   },
   {
     "title": "Squawk on the Street",
     "rss": "https://feeds.simplecast.com/GcylmXl7",
     "artwork": "https://image.simplecastcdn.com/images/92728f12-3d53-46b8-9a33-60e9b83ad72d/d37bc7cb-a0be-4376-bfba-896be0169c72/3000x3000/sots-podcast-cover-art-3000x3000-v04.jpg?aid=rss_feed",
-    "category": "News, Business, Investing"
+    "category": "News"
   },
   {
     "title": "Stand-Up w/ Tom Thakkar",
     "rss": "https://feeds.megaphone.fm/standup",
     "artwork": "https://megaphone.imgix.net/podcasts/13e85632-42e8-11ea-a8fa-032f233513b1/image/uploads_2F1586267254889-pzp02hg8bc-143d612a90ac533c522f0d716def1850_2FSTANDUP_TOMTHAKKAR_COVER_ART_2020.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Comedy, TV & Film"
+    "category": "Comedy"
   },
   {
     "title": "Start Here",
     "rss": "https://feeds.megaphone.fm/ESP8447327256",
     "artwork": "https://megaphone.imgix.net/podcasts/333d3c8c-a409-11ea-aef9-c3c641e3f9f0/image/8955693946701f15d9b5c7115251dfca.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "News, Daily News, Politics"
+    "category": "News"
   },
   {
     "title": "StarTalk Radio",
     "rss": "https://feeds.simplecast.com/4T39_jAj",
     "artwork": "https://image.simplecastcdn.com/images/5b7d8c77-15ba-4eff-a999-2e725db21db5/2b201827-3634-43a1-aa2d-394a4304280f/3000x3000/ii-lpimppkh1.jpg?aid=rss_feed",
-    "category": "Science, Education"
+    "category": "Science"
   },
   {
     "title": "Stateside with Kai and Carter",
     "rss": "https://feeds.acast.com/public/shows/69f1f631d7e73f5a692d1d3c",
     "artwork": "https://assets.pippa.io/shows/69f1f631d7e73f5a692d1d3c/1777551850775-938db07e-46a9-4185-9bdb-724602b6bdd7.jpeg",
-    "category": "News, Society & Culture, Technology"
+    "category": "News"
   },
   {
     "title": "Story Warz",
     "rss": "https://rss.art19.com/story-warz",
     "artwork": "https://content.production.cdn.art19.com/images/8f/5d/60/d2/8f5d60d2-a4a9-4545-b1e9-73ff836d6fdc/da981557900345cc755c6cbb2a932c772a5d71329c0fbf6d62d68c650fee6804d82c962c46e22e9070ef748510abb7fcca705415cdca1cf4de93d8563e99de05.jpeg",
-    "category": "Comedy, Comedy Interviews, Leisure, Games"
+    "category": "Comedy"
   },
   {
     "title": "Stuff You Should Know",
@@ -1623,25 +1623,25 @@
     "title": "Style of Play with Julie Ertz & Kealia Watt",
     "rss": "https://feeds.megaphone.fm/SINCL8917098150",
     "artwork": "https://megaphone.imgix.net/podcasts/f4f4db7e-58d9-11f1-bc54-773e945a0e49/image/f3a4bf9b6ca51f4fd23292b8b954b0c9.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Sports, Society & Culture"
+    "category": "Sports"
   },
   {
     "title": "Switched on Pop",
     "rss": "https://feeds.megaphone.fm/switchedonpop",
     "artwork": "https://megaphone.imgix.net/podcasts/346a34ce-22b8-11e6-abd8-d3ed82576c92/image/ebf9ab0e511da49509fdfa2af73c8a35.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Music, Music Commentary, Music Interviews, Music History"
+    "category": "Music"
   },
   {
     "title": "Taking Time",
     "rss": "https://feeds.megaphone.fm/takingtime",
     "artwork": "https://megaphone.imgix.net/podcasts/6c7bb7ba-4d74-11f1-93a4-13f02b70a456/image/4172a3984643aa0185bef541a8bf400d.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Fiction, Science Fiction"
+    "category": "Fiction"
   },
   {
     "title": "Talk Ville",
     "rss": "https://feeds.megaphone.fm/WWO4962799290",
     "artwork": "https://megaphone.imgix.net/podcasts/ef5e950a-dc6a-11ec-a1d8-73cf613931c5/image/2e9d450d284869797ace43df72bf2d4f.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "TV & Film, After Shows, Arts, Performing Arts"
+    "category": "TV & Film"
   },
   {
     "title": "TED Talks Daily",
@@ -1659,7 +1659,7 @@
     "title": "The Adam Friedland Show",
     "rss": "https://rss.art19.com/the-adam-friedland-show",
     "artwork": "https://content.production.cdn.art19.com/images/4c/9a/04/44/4c9a0444-00c1-454a-920a-8b75c9623310/09ed92ee3f53cbf7e33adcf108311292b792eb09f2b3caedbfb21d3719cec1810c43b306b92098b5319dd25e36825dcc886c4fe9fac172a6dae30f3260ca2817.jpeg",
-    "category": "Comedy, Stand-Up, Comedy Interviews"
+    "category": "Comedy"
   },
   {
     "title": "The Adam Schefter Podcast",
@@ -1671,7 +1671,7 @@
     "title": "The Adventure Zone",
     "rss": "https://feeds.simplecast.com/cYQVc__c",
     "artwork": "https://image.simplecastcdn.com/images/0838eec6-85d9-4e04-824b-d59d3798a659/b8e75c11-8438-4af7-9c79-c5b4752af8f9/3000x3000/adventure-20zone-20the-20-20season-209-20-20royale.jpg?aid=rss_feed",
-    "category": "Fiction, Comedy Fiction, Leisure, Games"
+    "category": "Fiction"
   },
   {
     "title": "The Album Years",
@@ -1689,55 +1689,55 @@
     "title": "The Athletic FC Podcast",
     "rss": "https://feeds.acast.com/public/shows/6818be7d1d28d62313ac8ef3",
     "artwork": "https://assets.pippa.io/shows/6818be7d1d28d62313ac8ef3/1780908531790-dc4761a0-ffde-45cc-a794-1639ef472007.jpeg",
-    "category": "Sports, Soccer,"
+    "category": "Sports"
   },
   {
     "title": "The Athletic FC: Daily Cup",
     "rss": "https://feeds.acast.com/public/shows/6a213d9be25fe33c7c33e378",
     "artwork": "https://assets.pippa.io/shows/cover/1780562173001-976057a3-f6c4-4d55-be14-6e2b3ba45030.jpeg",
-    "category": "Sports, Soccer, Sports, Football, Sports"
+    "category": "Sports"
   },
   {
     "title": "The Athletic Football Show: A show about the NFL",
     "rss": "https://feeds.acast.com/public/shows/681cc905bdc60241406b737f",
     "artwork": "https://assets.pippa.io/shows/681cc905bdc60241406b737f/1756988716204-498765dc-3c65-4b44-ab2d-e9e31fa98081.jpeg",
-    "category": "Sports, Football,, Sports, Football"
+    "category": "Sports"
   },
   {
     "title": "The Athletic NBA Daily",
     "rss": "https://feeds.acast.com/public/shows/6818c192eb737caf8cadd833",
     "artwork": "https://assets.pippa.io/shows/6818c192eb737caf8cadd833/1774730840738-f98f6396-6203-4925-97bf-d79a38383850.jpeg",
-    "category": "Sports, Basketball, Comedy, News, Sports News"
+    "category": "Sports"
   },
   {
     "title": "The Atlas Obscura Podcast",
     "rss": "https://feeds.simplecast.com/xKJ93w_w",
     "artwork": "https://image.simplecastcdn.com/images/8436e3c1-2479-4466-ac48-fa58259960bb/b332c590-e5ab-45ce-bdc9-01ec7de87e12/3000x3000/sxm-cover-atlas-obscura-r2025-3000x3000-final.jpg?aid=rss_feed",
-    "category": "Society & Culture, Places & Travel"
+    "category": "Society & Culture"
   },
   {
     "title": "The Bakersfield Three",
     "rss": "https://feeds.acast.com/public/shows/65381572bc6f900012280fbf",
     "artwork": "https://assets.pippa.io/shows/65381572bc6f900012280fbf/1698232517196-52e33c86dd1f18d96f54a1ad2111118f.jpeg",
-    "category": "True Crime, Society & Culture, News"
+    "category": "True Crime"
   },
   {
     "title": "The Bald and the Beautiful with Trixie and Katya",
     "rss": "https://feeds.megaphone.fm/STU6959689584",
     "artwork": "https://megaphone.imgix.net/podcasts/18173e44-fc29-11ea-b295-57fcde3d442f/image/1f1b15bd2129c24e4178f24af25383fb.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Comedy, Comedy Interviews, Arts, Fashion & Beauty"
+    "category": "Comedy"
   },
   {
     "title": "The Best of Car Talk",
     "rss": "https://feeds.npr.org/510208/podcast.xml",
     "artwork": "https://media.npr.org/assets/img/2022/09/23/car-talk_tile_npr-network-01_sq-efe4a8c500f754b242821075ef75ff3054e816cb.jpg?s=1400&c=66&f=jpg",
-    "category": "Comedy, Leisure, Automotive"
+    "category": "Comedy"
   },
   {
     "title": "The Big Fib",
     "rss": "https://rss.art19.com/big-fib",
     "artwork": "https://content.production.cdn.art19.com/images/e3/ee/b0/de/e3eeb0de-af19-49ad-8bf3-9255d14c8b08/f39c4eb7fb42b6f826faacd74d947f41e1a6d9e4a5d9f96ff4a6d995dca9cf3ec18dfd302c3aeefc274017d9a56510db8be1d5f83212b840c1e656fb1c3296f4.jpeg",
-    "category": "Kids & Family, Leisure, Games, Arts, Performing Arts"
+    "category": "Kids & Family"
   },
   {
     "title": "The Big Picture",
@@ -1755,43 +1755,43 @@
     "title": "The Book Review",
     "rss": "https://feeds.simplecast.com/zyaxg_KL",
     "artwork": "https://image.simplecastcdn.com/images/621229bd-2556-4ce6-8ae0-9fa3046f9da9/1e9abcf9-af9c-4105-8b1b-8e05c60c1fcf/3000x3000/8ce0200f165a6c5cafeecc11ac3294f228d9e46d8af6079a5a9db0fe3b62c8fe48ee2dbb6b2460bf705631e82a06b6b79e940141aad774c868833e2a204ce41b.jpeg?aid=rss_feed",
-    "category": "Arts, Books"
+    "category": "Arts"
   },
   {
     "title": "The Bret Baier Podcast",
     "rss": "https://feeds.megaphone.fm/FOXM4144806612",
     "artwork": "https://megaphone.imgix.net/podcasts/83b1ddf4-7472-11ec-964e-a3a2f0e9ede4/image/COVER_THE_BRET_BAIER_PODCAST.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "News, News Commentary, Politics"
+    "category": "News"
   },
   {
     "title": "The Briefing with Jen Psaki",
     "rss": "https://feeds.simplecast.com/vA1gc2kQ",
     "artwork": "https://image.simplecastcdn.com/images/bac1b529-5924-47d7-a26e-2bb1c59c1103/e0559769-5bf2-42a9-ac25-940bfc1eaef6/3000x3000/ms-20now-20rebrand-jenpsaki-3000x3000.jpg?aid=rss_feed",
-    "category": "News, Politics"
+    "category": "News"
   },
   {
     "title": "The Chronically Online Podcast",
     "rss": "https://feeds.acast.com/public/shows/6a18e5fc69630795d8d870f6",
     "artwork": "https://assets.pippa.io/shows/cover/1780016626095-f6dd1162-7f94-4a6a-9844-a7733060a9a2.jpeg",
-    "category": "TV & Film, TV & Film, After Shows, Society & Culture"
+    "category": "TV & Film"
   },
   {
     "title": "The Comedy Cellar: Live from the Table",
     "rss": "https://feeds.megaphone.fm/CELLARP4703085957",
     "artwork": "https://megaphone.imgix.net/podcasts/c3768c32-cda9-11ed-91de-835c9f335239/image/LiveFromTheTable_3000px.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Comedy, News"
+    "category": "Comedy"
   },
   {
     "title": "The Commentary Magazine Podcast",
     "rss": "https://feeds.megaphone.fm/GEMINIMEDIA2783214431",
     "artwork": "https://megaphone.imgix.net/podcasts/1fccde54-6a35-11ef-93fe-d795ffc11fb1/image/1236713835397c216adb04c743d12583.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "News, News Commentary, Politics"
+    "category": "News"
   },
   {
     "title": "The Compound and Friends",
     "rss": "https://feeds.megaphone.fm/TCP4771071679",
     "artwork": "https://megaphone.imgix.net/podcasts/c0f06420-11e1-11ee-a510-23f565a6b03e/image/b3d6e0a8116d0a9d7b3ca47e27d801b1.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Business, Investing, News, Business News"
+    "category": "Business"
   },
   {
     "title": "The Curiosity Shop with Bren\u00e9 Brown and Adam Grant",
@@ -1803,13 +1803,13 @@
     "title": "The Daily",
     "rss": "https://feeds.simplecast.com/54nAGcIl",
     "artwork": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
-    "category": "News, Daily News"
+    "category": "News"
   },
   {
     "title": "The Daily Beans",
     "rss": "https://feeds.simplecast.com/bOogzwqU",
     "artwork": "https://image.simplecastcdn.com/images/5134725f-99f4-4fdb-989e-83722429d70d/4558f068-b50e-4722-9d67-9c342d54b82a/3000x3000/db_cover_spring_2026.jpg?aid=rss_feed",
-    "category": "News, Daily News, News, Politics, Comedy"
+    "category": "News"
   },
   {
     "title": "The Daily Beast Podcast",
@@ -1821,25 +1821,25 @@
     "title": "THE DAILY BLAST with Greg Sargent",
     "rss": "https://feeds.megaphone.fm/dailyblast2024",
     "artwork": "https://megaphone.imgix.net/podcasts/b94c6786-bc82-11ee-9ef8-27c6fd1e8dd7/image/d8e43b6e3c1b3537ce23c2a9c505e158.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "News, Politics"
+    "category": "News"
   },
   {
     "title": "The Daily Show: Ears Edition",
     "rss": "https://feeds.megaphone.fm/QCD2422844292",
     "artwork": "https://megaphone.imgix.net/podcasts/03aa1de8-52b7-11f0-86eb-d3cd1dd4eb3d/image/c1204095e98d1eb222234924fd55e675.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Comedy, News, Daily News"
+    "category": "Comedy"
   },
   {
     "title": "The Daily Signal",
     "rss": "https://feeds.megaphone.fm/thedailysignal",
     "artwork": "https://megaphone.imgix.net/podcasts/29e1efb2-4f99-11ef-a69b-4b862171fa59/image/5766884de000e99424cc6e6500c35079.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "News, Daily News, Politics, Government"
+    "category": "News"
   },
   {
     "title": "The Daily Stoic",
     "rss": "https://rss.art19.com/the-daily-stoic",
     "artwork": "https://content.production.cdn.art19.com/images/c3/db/e6/97/c3dbe697-b1e8-47d9-956b-ea6bdb23e7ae/02827e0de653343986157aadae312d4212e24305e4f22a741c21891128267579d65417ded9193aff0bfb00567efde9d2fa39c42eaeec29e8ebf8f6b17a1bfb04.jpeg",
-    "category": "Education, Business, Society & Culture"
+    "category": "Education"
   },
   {
     "title": "The Dale Jr. Download",
@@ -1851,7 +1851,7 @@
     "title": "The Dan Bongino Show",
     "rss": "https://feeds.megaphone.fm/WWO3519750118",
     "artwork": "https://megaphone.imgix.net/podcasts/d005ae5a-cf43-11e9-afab-4387f1d2a24b/image/8d204e4ba9115cfa3d117a9be4a141e3.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "News, News Commentary, Daily News"
+    "category": "News"
   },
   {
     "title": "The Dan Le Batard Show with Stugotz",
@@ -1863,13 +1863,13 @@
     "title": "The David Frum Show",
     "rss": "https://feeds.megaphone.fm/thedavidfrumshow",
     "artwork": "https://megaphone.imgix.net/podcasts/a09b4092-0c02-11f0-b4e2-cb67b9ae39c1/image/7cd3d5638675248990bfc026d774452c.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "News, News Commentary, Politics"
+    "category": "News"
   },
   {
     "title": "The David Pakman Show",
     "rss": "https://feeds.megaphone.fm/SHHWD4599743349",
     "artwork": "https://megaphone.imgix.net/podcasts/14fd9ad8-f8a3-11f0-a303-971dba936e36/image/0471d31f28c639f0720f3a73357623b1.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "News, Politics"
+    "category": "News"
   },
   {
     "title": "The Deck",
@@ -1887,37 +1887,37 @@
     "title": "The Dispatch Podcast",
     "rss": "https://feeds.megaphone.fm/DISPME9513417677",
     "artwork": "https://megaphone.imgix.net/podcasts/653336e6-a196-11ed-80a5-437f2386a2ba/image/1a703813e5bf82ea8022b9f46fec8520.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "News, Politics"
+    "category": "News"
   },
   {
     "title": "The Dollop with Dave Anthony and Gareth Reynolds",
     "rss": "https://rss.art19.com/dollop",
     "artwork": "https://content.production.cdn.art19.com/images/b5/22/0d/18/b5220d18-b5e1-4e0c-aab4-5d7f339d4bb2/4302dca820892f21b2401efd963a24c593f42d81badd00845ea349b209cc74a563ba760b0d1d9cc67bd8bef7f8d68a1e14207ac9a282ca5b0836590ab9e5e71e.jpeg",
-    "category": "Comedy, History, Society & Culture"
+    "category": "Comedy"
   },
   {
     "title": "The Don Lemon Show",
     "rss": "https://feeds.megaphone.fm/thedonlemonshow",
     "artwork": "https://megaphone.imgix.net/podcasts/a55fc724-e309-11ee-be54-0bfc0afca2d9/image/27a8c6c7137a0250040068d9f62878d0.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "News, Society & Culture"
+    "category": "News"
   },
   {
     "title": "The Don't Call Me White Girl Show",
     "rss": "https://feeds.megaphone.fm/TPC1450395849",
     "artwork": "https://megaphone.imgix.net/podcasts/446f1048-471e-11f1-9ec1-d7c5bc84a9e9/image/b9fd80a501de0ef7dd511855b0aa770a.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Comedy, Society & Culture"
+    "category": "Comedy"
   },
   {
     "title": "The Dr. Laura Podcast",
     "rss": "https://feeds.simplecast.com/ZTNLWlKG",
     "artwork": "https://image.simplecastcdn.com/images/1e4fe9ff-e101-46c8-b11a-a929d5357642/7fec0def-bb71-4009-8bf6-0c8a3705ef56/3000x3000/the-20dr-20laura-20podcast-203kx3k.jpg?aid=rss_feed",
-    "category": "Kids & Family, Parenting, Health & Fitness, Mental Health, Society & Culture, Relationships"
+    "category": "Kids & Family"
   },
   {
     "title": "The Ebro, Laura, Rosenberg Show",
     "rss": "https://feeds.megaphone.fm/OSSA1308694799",
     "artwork": "https://megaphone.imgix.net/podcasts/c755b01c-f579-11f0-bc7c-17098fcb76f3/image/80ebd1176ef30e56f98c223f47873053.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Music, Music Commentary, Music Interviews, Society & Culture"
+    "category": "Music"
   },
   {
     "title": "The Eddie Trunk Podcast",
@@ -1929,7 +1929,7 @@
     "title": "The Editors",
     "rss": "https://feeds.simplecast.com/bAMj0tiC",
     "artwork": "https://image.simplecastcdn.com/images/63d91b99-e300-4aad-b73d-0b6c231aad70/8fe2c52c-9483-4dec-ab22-72307b054e0e/3000x3000/nro-editorspodcast-logo-020225-b.jpg?aid=rss_feed",
-    "category": "News, Government, Society & Culture"
+    "category": "News"
   },
   {
     "title": "The Energy Curfew Music Hour",
@@ -1941,103 +1941,103 @@
     "title": "The Excerpt",
     "rss": "https://rss.art19.com/5-things",
     "artwork": "https://content.production.cdn.art19.com/images/29/c4/eb/f0/29c4ebf0-b5c3-4838-9e30-d92e8d15e76d/88497752e60324195a25c5bb3f28f051091ea2a3a998fa22473d99c272b7bc8e7e9910c488c26d289891c53191b78ca85d242efd540b5897a9977660eddd300e.jpeg",
-    "category": "News, Daily News"
+    "category": "News"
   },
   {
     "title": "The Ezra Klein Show",
     "rss": "https://feeds.simplecast.com/kEKXbjuJ",
     "artwork": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed",
-    "category": "Society & Culture, News, Government"
+    "category": "Society & Culture"
   },
   {
     "title": "The Five",
     "rss": "https://feeds.megaphone.fm/FOXM1155607994",
     "artwork": "https://megaphone.imgix.net/podcasts/b2b3cbdc-1c9b-11ec-8626-27f9300bffb7/image/image.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "News, Politics"
+    "category": "News"
   },
   {
     "title": "The Flyover Podcast",
     "rss": "https://feeds.megaphone.fm/theflyoverpodcast",
     "artwork": "https://megaphone.imgix.net/podcasts/19ccaf92-2048-11f0-8973-d76969279de2/image/f236f5db0c9534c7d2e53b800a738c7a.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "News, Daily News, Business News, Society & Culture"
+    "category": "News"
   },
   {
     "title": "The Fox News Rundown",
     "rss": "https://feeds.megaphone.fm/FOXM1880458659",
     "artwork": "https://megaphone.imgix.net/podcasts/64a96b1e-7938-11ec-b16c-2bd90dc64bad/image/image.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "News, Politics, Daily News"
+    "category": "News"
   },
   {
     "title": "The Future of Everything",
     "rss": "https://feeds.simplecast.com/Y8_HoeNW",
     "artwork": "https://image.simplecastcdn.com/images/8a55b2a3-28ac-463f-8967-50f663d7d93a/72d23192-3797-4318-8771-5b7db3819aa3/3000x3000/2319-stanford-engineering-podcasts-assets-m1-artwork-1.jpg?aid=rss_feed",
-    "category": "Science, Technology, Health & Fitness, Medicine"
+    "category": "Science"
   },
   {
     "title": "The Greatest Generation",
     "rss": "https://feeds.acast.com/public/shows/69f118d4f8c66377375f9a45",
     "artwork": "https://assets.pippa.io/shows/69f118d4f8c66377375f9a45/show-cover.jpg",
-    "category": "TV & Film, After Shows, TV & Film, TV Reviews, Comedy"
+    "category": "TV & Film"
   },
   {
     "title": "The Hand in the Window",
     "rss": "https://feeds.megaphone.fm/ESP3376759743",
     "artwork": "https://megaphone.imgix.net/podcasts/f9708d22-9ecd-11f0-bb57-bf6e2f11c756/image/6f9ea63b27b9ca5f244d88e4095b7dfd.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "True Crime, News"
+    "category": "True Crime"
   },
   {
     "title": "The Handmaid's Tale Podcast: The Testaments",
     "rss": "https://feeds.megaphone.fm/TPG3038830027",
     "artwork": "https://megaphone.imgix.net/podcasts/71943bf4-4c5e-11f0-955c-1f48ae4726de/image/06dc3b0fa6d221ad47bd492154fabd5c.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "TV & Film, After Shows, TV Reviews"
+    "category": "TV & Film"
   },
   {
     "title": "The Headlines",
     "rss": "https://feeds.simplecast.com/ydACIPHO",
     "artwork": "https://image.simplecastcdn.com/images/4105a47a-42e5-4ccc-887a-832af7989986/69a2e776-38ed-4e25-b331-df514d73d24f/3000x3000/nyt-headlines-albumart-3000px.jpg?aid=rss_feed",
-    "category": "News, Daily News, News, News Commentary, Society & Culture"
+    "category": "News"
   },
   {
     "title": "The History Chicks : A Women's History Podcast",
     "rss": "https://feeds.megaphone.fm/QCD2921626995",
     "artwork": "https://megaphone.imgix.net/podcasts/2278d116-781a-11ee-836b-db01aeb16bfe/image/1631b724b4ce39f8ce97c1c8ac40ee0d.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "History, Society & Culture, Documentary"
+    "category": "History"
   },
   {
     "title": "The Howie Carr Radio Network",
     "rss": "https://feeds.simplecast.com/M4QPq2Af",
     "artwork": "https://image.simplecastcdn.com/images/38dd595d-067e-4280-846d-cae9b3c0de74/7d42951c-9084-4f98-830e-9c2041c2327f/3000x3000/hcrn-logo-podcast.jpg?aid=rss_feed",
-    "category": "News, News Commentary, News, Politics, News, Daily News"
+    "category": "News"
   },
   {
     "title": "The Idiot",
     "rss": "https://feeds.simplecast.com/KrIt3mGT",
     "artwork": "https://image.simplecastcdn.com/images/420025f0-46ea-493d-bf27-5999548228e9/5bb2807d-e7db-4a3f-8693-66dc4f3a9dc8/3000x3000/nyt_serial_theidiot_albumart_3000px.jpg?aid=rss_feed",
-    "category": "True Crime, Society & Culture"
+    "category": "True Crime"
   },
   {
     "title": "The Investor's Podcast (We Study Billionaires)  - The Investor\u2019s Podcast Network",
     "rss": "https://feeds.megaphone.fm/PPLLC8974708240",
     "artwork": "https://megaphone.imgix.net/podcasts/b2b12274-75fe-11ee-ae2d-1760f2a748b1/image/9e29d14a398eee5388bd2827faf66f93.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Business, Investing, Education"
+    "category": "Business"
   },
   {
     "title": "The Jeff Cameron Show ~ Warchant.com",
     "rss": "https://feeds.simplecast.com/P9FwyWHH",
     "artwork": "https://image.simplecastcdn.com/images/d01bbe54-f221-4bc3-abd9-b3806f097648/bedd6f0a-a171-47fe-93a0-df55cbbd11bd/3000x3000/pod-logo-mgphone.jpg?aid=rss_feed",
-    "category": "Sports, Football, Sports, News, Sports News"
+    "category": "Sports"
   },
   {
     "title": "The Jim Rome Show",
     "rss": "https://feeds.megaphone.fm/WWO1500570782",
     "artwork": "https://megaphone.imgix.net/podcasts/13ac04a8-be25-11ef-a255-07f8402e8d56/image/0dedc553fb6db47f02424df645a50a70.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Sports, Football, News, Sports News"
+    "category": "Sports"
   },
   {
     "title": "The Joe Pags Show",
     "rss": "https://feeds.megaphone.fm/SHDI3057450256",
     "artwork": "https://megaphone.imgix.net/podcasts/4544baf0-752b-11ec-9a4f-bbd058343b63/image/d2a6bcfbec633fae291f185c14ad910f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "News, News Commentary, Politics"
+    "category": "News"
   },
   {
     "title": "The Joe Rogan Experience",
@@ -2049,13 +2049,13 @@
     "title": "The Joel Klatt Show: A College Football Podcast",
     "rss": "https://feeds.megaphone.fm/breaking-the-huddle",
     "artwork": "https://megaphone.imgix.net/podcasts/748e8972-3eaf-11e9-9d60-3beeccffe81c/image/58471a566b31e0168688f69a085719bc.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Sports, Football"
+    "category": "Sports"
   },
   {
     "title": "The Kevin O'Connor Show",
     "rss": "https://feeds.simplecast.com/IFzdBR43",
     "artwork": "https://image.simplecastcdn.com/images/2ebe61b7-719d-4227-80f6-b1bc7012bea3/eacab178-848a-4f89-b51e-6797306087ae/3000x3000/2dc3a627385043f686c495855d4aedc05b4a94502ae0c1ed01146273b8b1408cfafb3e0d7967791f6dc3593a57ae9e8f89e3195d1f9b34ed58b4372503c2cdcb.jpeg?aid=rss_feed",
-    "category": "Sports, Basketball"
+    "category": "Sports"
   },
   {
     "title": "The Last Word with Lawrence O\u2019Donnell",
@@ -2067,13 +2067,13 @@
     "title": "The Late Braking F1 Podcast",
     "rss": "https://feeds.simplecast.com/geLKOBMZ",
     "artwork": "https://image.simplecastcdn.com/images/3fbd7796-103f-4bb6-88ba-c5934aab0d6b/a35cb039-fdee-45e9-8112-59d3b4260d0c/3000x3000/2bc2b46bd460c2d3a8efc96c9ae24819.jpg?aid=rss_feed",
-    "category": "Sports, Leisure, Automotive, News, Sports News"
+    "category": "Sports"
   },
   {
     "title": "The Lazy Genius Podcast",
     "rss": "https://feeds.megaphone.fm/lazy-genius",
     "artwork": "https://megaphone.imgix.net/podcasts/78216b00-2805-11ef-b44e-238705ba753d/image/c3d73a74ee350e40be7dd567c5101119.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Education, Arts"
+    "category": "Education"
   },
   {
     "title": "The Lead with Jake Tapper",
@@ -2085,13 +2085,13 @@
     "title": "The Leviathan Chronicles",
     "rss": "https://feeds.megaphone.fm/SBP5252339511",
     "artwork": "https://megaphone.imgix.net/podcasts/ae91a348-0c65-11ed-9d97-236cce2103eb/image/671a1d38563f5400e47c421787c3f532.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Fiction, Science Fiction, Comedy Fiction"
+    "category": "Fiction"
   },
   {
     "title": "The Lindbergh Conspiracies",
     "rss": "https://feeds.megaphone.fm/CBS3095449060",
     "artwork": "https://megaphone.imgix.net/podcasts/7b13ff76-44d2-11f1-9b4c-3f4cf9cad47d/image/540b12317170ca22f69afd4606a6c640.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "True Crime, History, News"
+    "category": "True Crime"
   },
   {
     "title": "The LOL Podcast",
@@ -2103,19 +2103,19 @@
     "title": "The Lonely Island and Seth Meyers Podcast",
     "rss": "https://feeds.megaphone.fm/RGP4565962324",
     "artwork": "https://megaphone.imgix.net/podcasts/5a4686d4-12aa-11f0-802d-93ad9dc3e128/image/5fc0e9c1dcc33af448a7a1178e78de7c.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Comedy, TV & Film, After Shows, Music, Music Commentary"
+    "category": "Comedy"
   },
   {
     "title": "The Long Game with Jake Sullivan and Jon Finer",
     "rss": "https://feeds.megaphone.fm/VMP3740058044",
     "artwork": "https://megaphone.imgix.net/podcasts/fb06dd1e-b442-11f0-b58c-bb86392870b8/image/04c81ad068f79bb2b9469a501c3c63bb.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "News, News Commentary, Government"
+    "category": "News"
   },
   {
     "title": "The Lost Sci-Fi Podcast - Vintage Sci-Fi Short Stories",
     "rss": "https://feeds.acast.com/public/shows/652cab3808a248001210aa70",
     "artwork": "https://assets.pippa.io/shows/652cab3808a248001210aa70/show-cover.png",
-    "category": "Fiction, Fiction, Science Fiction"
+    "category": "Fiction"
   },
   {
     "title": "The Lowe Post",
@@ -2127,19 +2127,19 @@
     "title": "The Megyn Kelly Show",
     "rss": "https://feeds.simplecast.com/RV1USAfC",
     "artwork": "https://image.simplecastcdn.com/images/8436e3c1-2479-4466-ac48-fa58259960bb/4d49b5a1-3878-4266-ba82-205429a62699/3000x3000/sxm-cover-megyn-kelly-show-r2025-3000x3000-final.jpg?aid=rss_feed",
-    "category": "News, News Commentary, Society & Culture"
+    "category": "News"
   },
   {
     "title": "The MeidasTouch Podcast",
     "rss": "https://feeds.megaphone.fm/PDR2572281095",
     "artwork": "https://megaphone.imgix.net/podcasts/dd29504c-fac9-11eb-916e-c35704fa9b0d/image/eaaf989c901f843bff1d1d4f4cc78cde.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "News, Politics"
+    "category": "News"
   },
   {
     "title": "The Mel Robbins Podcast",
     "rss": "https://feeds.simplecast.com/UCwaTX1J",
     "artwork": "https://image.simplecastcdn.com/images/8436e3c1-2479-4466-ac48-fa58259960bb/7723b0c5-0da6-4cbc-b482-26e1e19ffddd/3000x3000/sxm-cover-melrobbins-r2025-3000x3000-final-white.jpg?aid=rss_feed",
-    "category": "Education, Self-Improvement, Health & Fitness, Mental Health, Society & Culture, Relationships"
+    "category": "Education"
   },
   {
     "title": "The Michael Kay Show",
@@ -2151,7 +2151,7 @@
     "title": "The Mike Francesa Podcast",
     "rss": "https://feeds.megaphone.fm/RERRE6992852184",
     "artwork": "https://megaphone.imgix.net/podcasts/5d54eee2-19af-11ee-aa5f-8f4f03b719aa/image/369d4e010d9fd4b33ca7efc2b02c45e6.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Sports, Football, Baseball"
+    "category": "Sports"
   },
   {
     "title": "The Mismatch",
@@ -2163,43 +2163,43 @@
     "title": "The Morning Meeting",
     "rss": "https://feeds.megaphone.fm/GEMINIMEDIA7465621435",
     "artwork": "https://megaphone.imgix.net/podcasts/8d41dae6-663f-11f0-bfdf-5335715b6250/image/cf3e851b6ad702f7aa992300070de18c.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "News, Daily News, Business News, Politics"
+    "category": "News"
   },
   {
     "title": "The Moth",
     "rss": "http://feeds.feedburner.com/themothpodcast",
     "artwork": "https://megaphone.imgix.net/podcasts/8342843a-743e-11ef-a80e-9fc2ba3fba25/image/fe7e5cbc0ff0522c76d369e80317a3ab.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Arts, Performing Arts"
+    "category": "Arts"
   },
   {
     "title": "The Murders at White House Farm: The Podcast",
     "rss": "https://feeds.megaphone.fm/WMHY1511452467",
     "artwork": "https://megaphone.imgix.net/podcasts/a2bd28ec-3b82-11ee-8f97-071fc338e888/image/image.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "True Crime, TV & Film"
+    "category": "True Crime"
   },
   {
     "title": "The New York Times Narrated",
     "rss": "https://feeds.simplecast.com/WHvRQ7B1",
     "artwork": "https://image.simplecastcdn.com/images/4105a47a-42e5-4ccc-887a-832af7989986/d66b31fd-923a-40a2-9aa3-e59f20b5f565/3000x3000/nyt-20narrated-album-20art-300x300px.jpg?aid=rss_feed",
-    "category": "News, Society & Culture"
+    "category": "News"
   },
   {
     "title": "The New Yorker Radio Hour",
     "rss": "https://feeds.simplecast.com/TRuO_SRo",
     "artwork": "https://image.simplecastcdn.com/images/b99b6401-4efd-485f-b744-84da8d6c14f6/69e0442c-6efc-4039-a258-c3e699882f12/3000x3000/nyrh-showsquare-2025-3000x3000.jpg?aid=rss_feed",
-    "category": "News, Politics, Society & Culture, Arts, Books"
+    "category": "News"
   },
   {
     "title": "The NPR Politics Podcast",
     "rss": "https://feeds.npr.org/510310/podcast.xml",
     "artwork": "https://media.npr.org/assets/img/2024/01/11/podcast-politics_2023_update1_sq-eaabdbd6adb312e163cb96909efd902cc2e9e004.jpg?s=1400&c=66&f=jpg",
-    "category": "News, Politics, Daily News"
+    "category": "News"
   },
   {
     "title": "The Official Game of Thrones Podcast: A Knight of the Seven Kingdoms",
     "rss": "https://feeds.megaphone.fm/WMHY9427820236",
     "artwork": "https://megaphone.imgix.net/podcasts/adff5c8e-3b82-11ee-abd8-57f0fec963c5/image/b55cb0d094ec4c360a21b8b5cc034da8.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "TV & Film, After Shows"
+    "category": "TV & Film"
   },
   {
     "title": "The Old Man and the Three",
@@ -2211,43 +2211,43 @@
     "title": "The Opinions",
     "rss": "https://feeds.simplecast.com/kphrlDnb",
     "artwork": "https://image.simplecastcdn.com/images/4105a47a-42e5-4ccc-887a-832af7989986/5e7d73c4-60be-4164-b304-2166a9ae70b1/3000x3000/nyt-the-opinions-3000px.jpg?aid=rss_feed",
-    "category": "News, Society & Culture"
+    "category": "News"
   },
   {
     "title": "The Outer Reach: Stories from Beyond",
     "rss": "https://feeds.simplecast.com/Iy2WKI7A",
     "artwork": "https://image.simplecastcdn.com/images/7546151f-dfd6-416d-acdc-ae347dc73bff/1ff9e29c-8626-4aee-b3f5-c50c8193438d/3000x3000/the-outer-reach-cover-art.jpg?aid=rss_feed",
-    "category": "Fiction, Science Fiction, Fiction, Drama"
+    "category": "Fiction"
   },
   {
     "title": "The Parnas Perspective",
     "rss": "https://feeds.megaphone.fm/MTH4368798504",
     "artwork": "https://megaphone.imgix.net/podcasts/6975d1f2-f1aa-11f0-af9e-b7168a2bc464/image/19354e93d279bc184a804d776c2e47cd.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "News, Daily News, News Commentary"
+    "category": "News"
   },
   {
     "title": "The Pat McAfee Show",
     "rss": "https://feeds.megaphone.fm/ESP7297553965",
     "artwork": "https://megaphone.imgix.net/podcasts/e824c298-4364-11ee-8960-135281030851/image/3861089e955c446c6c139cbf9a0fdd56.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Sports, Football"
+    "category": "Sports"
   },
   {
     "title": "The People\u2019s Court Podcast",
     "rss": "https://feeds.megaphone.fm/WMHY8210971850",
     "artwork": "https://megaphone.imgix.net/podcasts/627bf500-66cb-11ee-9a80-4f1ef93b2502/image/image.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "TV & Film, Society & Culture, Relationships"
+    "category": "TV & Film"
   },
   {
     "title": "The Political Scene | The New Yorker",
     "rss": "http://feeds.feedburner.com/tnypoliticalscene",
     "artwork": "https://f.prxu.org/6165/images/e8ad8a86-88a7-45e1-ac8b-8c3e5927f3e1/square-icon-the-political-scene.png",
-    "category": "News, Politics"
+    "category": "News"
   },
   {
     "title": "The President's Daily Brief",
     "rss": "https://feeds.megaphone.fm/THFD6217271651",
     "artwork": "https://megaphone.imgix.net/podcasts/b7679c8a-b1d3-11ec-b149-9787f3061796/image/TPDB_MIKE_BAKER_3K.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "News, Politics"
+    "category": "News"
   },
   {
     "title": "The Prestige TV Podcast",
@@ -2259,13 +2259,13 @@
     "title": "The Preventionist",
     "rss": "https://feeds.simplecast.com/LLSr9Aur",
     "artwork": "https://image.simplecastcdn.com/images/420025f0-46ea-493d-bf27-5999548228e9/f744517d-dde3-4175-8868-508eb51ebcbd/3000x3000/thepreventionist-albumart.jpg?aid=rss_feed",
-    "category": "True Crime, News"
+    "category": "True Crime"
   },
   {
     "title": "The Psychology Podcast",
     "rss": "https://rss.art19.com/the-psychology-podcast",
     "artwork": "https://content.production.cdn.art19.com/images/18/8e/ff/29/188eff29-c59f-4279-b4cb-a39c4576f6c6/d1ced3f9add51cfab1710a756cc1570f8ad3b054cc34401d2325b7a2f141581db95f1007decd6ddfb24eeecbeecce401acc822d8fb2ff4803d19cb2a0214fe77.jpeg",
-    "category": "Science, Social Sciences"
+    "category": "Science"
   },
   {
     "title": "The Race F1 Podcast",
@@ -2277,7 +2277,7 @@
     "title": "The Rachel Cruze Show",
     "rss": "https://feeds.megaphone.fm/RM5627096399",
     "artwork": "https://megaphone.imgix.net/podcasts/d1c21588-e806-11ec-93b8-17a3448b22ed/image/9c95c544cad9e10d9d5fbac4eff37229.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Education, Self-Improvement, Business, Investing"
+    "category": "Education"
   },
   {
     "title": "The Rachel Maddow Show",
@@ -2289,13 +2289,13 @@
     "title": "The Ramsey Show",
     "rss": "https://feeds.megaphone.fm/RM4031649020",
     "artwork": "https://megaphone.imgix.net/podcasts/bb5ccd52-ec15-11ec-ad38-eb38ae020851/image/f9a2546ce280a80e480bfef2439a32da.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Business, Investing, Education, Self-Improvement"
+    "category": "Business"
   },
   {
     "title": "The Ramsey Show Highlights",
     "rss": "https://feeds.megaphone.fm/RM6151564048",
     "artwork": "https://megaphone.imgix.net/podcasts/2b9723ec-bf57-11ec-ad78-e7190202c7ac/image/722453358ace1658f4795ebea66ae4ac.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Business, Investing, Education, Self-Improvement"
+    "category": "Business"
   },
   {
     "title": "The Read",
@@ -2319,19 +2319,19 @@
     "title": "The Rest Is Politics: US",
     "rss": "https://feeds.megaphone.fm/GLT5336643697",
     "artwork": "https://megaphone.imgix.net/podcasts/1b5f91fc-fe62-11ee-b88b-77db1c558f1e/image/05269b764c6200a5b7b0ad64d8cc88c4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "News, Politics, Government"
+    "category": "News"
   },
   {
     "title": "The Rest Is Science",
     "rss": "https://feeds.megaphone.fm/GLT6907573392",
     "artwork": "https://megaphone.imgix.net/podcasts/0d68e376-bbe6-11f0-9c0a-3f76ef8f3285/image/f0a6eaea773ff5c3e5c018463ac5627d.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Science, Physics, Mathematics"
+    "category": "Science"
   },
   {
     "title": "The Retrievals",
     "rss": "https://feeds.simplecast.com/SD1pPTeV",
     "artwork": "https://image.simplecastcdn.com/images/420025f0-46ea-493d-bf27-5999548228e9/d20de7fe-78b9-4cd5-9de6-779a96208792/3000x3000/retrievals-album-art-3000x3000.jpg?aid=rss_feed",
-    "category": "True Crime, Society & Culture, News"
+    "category": "True Crime"
   },
   {
     "title": "The Rewatchables",
@@ -2349,7 +2349,7 @@
     "title": "The Ringer Fantasy Football Show",
     "rss": "https://feeds.megaphone.fm/ringer-fantasy-football-show",
     "artwork": "https://megaphone.imgix.net/podcasts/1b692cf0-ad01-11ea-8b80-3bf1607d798b/image/757ed43c30390305f8bd60addabefa4b.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Sports, Fantasy Sports"
+    "category": "Sports"
   },
   {
     "title": "The Ringer NBA Show",
@@ -2367,19 +2367,19 @@
     "title": "The Ringer Wrestling Show",
     "rss": "https://feeds.megaphone.fm/the-masked-man-show",
     "artwork": "https://megaphone.imgix.net/podcasts/4f6fe00e-7825-11ea-8787-77d7bf26b92d/image/9b9fe2219e7fff24c332fdf2d15f5a38.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Sports, Wrestling"
+    "category": "Sports"
   },
   {
     "title": "The Rise and Fall of Ruby Franke",
     "rss": "https://rss.art19.com/the-rise-and-fall-of-ruby-franke",
     "artwork": "https://content.production.cdn.art19.com/images/97/09/a0/7f/9709a07f-8b74-483e-a3d2-586d4ff5e85a/266323bdc3a6aab54e36cfb74c9bcae9b3961de7f14ad364c3c0caff7499196c49ac5df29cc329cc32cb752d1ed14c492b3fac28b28e599dde4fb49562dabe2d.jpeg",
-    "category": "True Crime, Society & Culture"
+    "category": "True Crime"
   },
   {
     "title": "The Rizzuto Show | Daily Comedy Podcast",
     "rss": "https://rss.art19.com/the-rizzuto-show",
     "artwork": "https://content.production.cdn.art19.com/images/a1/0a/a0/8d/a10aa08d-df55-4731-9b0b-9f752683b414/fc0fe95edc14ff85562aaa7fc95d7969c52350574b9dc2b908af609da92e77cfdf3d455dc5a7c9ae6362c5a22b9c2f7d71cb28c666bb233d87da6b44133eabb5.jpeg",
-    "category": "Comedy, Society & Culture, News"
+    "category": "Comedy"
   },
   {
     "title": "The Ryen Russillo Podcast",
@@ -2391,7 +2391,7 @@
     "title": "The Sabrina Zohar Show",
     "rss": "https://feeds.megaphone.fm/NSR3235885942",
     "artwork": "https://megaphone.imgix.net/podcasts/14c5974c-d73c-11f0-ad06-7b62c83e4d93/image/32306b474b5a458e9d3a322e364c2a20.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Education, Self-Improvement, Society & Culture, Relationships, Health & Fitness, Mental Health"
+    "category": "Education"
   },
   {
     "title": "The Sarah Silverman Podcast",
@@ -2403,19 +2403,19 @@
     "title": "The Science of Happiness",
     "rss": "http://feeds.feedburner.com/TheScienceOfHappiness",
     "artwork": "https://f.prxu.org/192/images/dbfbdeab-0935-41a6-8949-49413de5657a/SOH_logo_PRX_3000.jpg",
-    "category": "Science, Social Sciences"
+    "category": "Science"
   },
   {
     "title": "The SCP Experience",
     "rss": "https://feeds.megaphone.fm/DNS4539897765",
     "artwork": "https://megaphone.imgix.net/podcasts/b1e50354-1135-11ec-90ca-1f7c0ba8b635/image/43f96a3e91c78e9663e31443a7d43e6e.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Fiction, Science Fiction"
+    "category": "Fiction"
   },
   {
     "title": "The Smerconish Podcast",
     "rss": "https://feeds.simplecast.com/Dv1m2CJC",
     "artwork": "https://image.simplecastcdn.com/images/8436e3c1-2479-4466-ac48-fa58259960bb/3307704c-973a-4ab2-a9c2-8e76f28a7ee9/3000x3000/podcast-20on-20dark-7.jpg?aid=rss_feed",
-    "category": "News, Politics, News, Daily News, News, News Commentary"
+    "category": "News"
   },
   {
     "title": "The Sports Gossip Show",
@@ -2427,55 +2427,55 @@
     "title": "The Steve Austin Show",
     "rss": "https://rss.art19.com/the-steve-austin-show",
     "artwork": "https://content.production.cdn.art19.com/images/69/9d/57/a7/699d57a7-8678-47a8-b0fd-f8255fb444c0/2d62dfa38ab2cdf4aee2d2398cae1569bc193c3bc2190b489d5d5547b11ac325e02f6236303878edb331be5517a181614ddb91480e1add1afb6ee307da10f07c.jpeg",
-    "category": "Sports, Society & Culture, Comedy"
+    "category": "Sports"
   },
   {
     "title": "The Supermassive Podcast",
     "rss": "https://feeds.acast.com/public/shows/67af33c006ec54e1d2363808",
     "artwork": "https://assets.pippa.io/shows/67af33c006ec54e1d2363808/show-cover.png",
-    "category": "Science, Astronomy, Science, Physics, History"
+    "category": "Science"
   },
   {
     "title": "The Teardown",
     "rss": "https://feeds.simplecast.com/FA7YE02c",
     "artwork": "https://image.simplecastcdn.com/images/8436e3c1-2479-4466-ac48-fa58259960bb/b4906ad1-9864-42a4-b8e4-c3df6eaef42e/3000x3000/siriusxm-20branded-201x1-20template-20-20the-20teardown-20-20new.jpg?aid=rss_feed",
-    "category": "Sports, News, Sports News"
+    "category": "Sports"
   },
   {
     "title": "The Tennis Podcast",
     "rss": "https://feeds.acast.com/public/shows/4d90c19e-d564-4949-a998-27e24cca2aee",
     "artwork": "https://assets.pippa.io/shows/614d976b772a06543e6158fb/1778835928766-485bce73-8566-41bb-814d-47ef7e536b20.jpeg",
-    "category": "Sports, Tennis, Sports & Recreation"
+    "category": "Sports"
   },
   {
     "title": "The Tim Ferriss Show",
     "rss": "https://rss.art19.com/tim-ferriss-show",
     "artwork": "https://content.production.cdn.art19.com/images/69/10/10/fb/691010fb-625e-4abe-993c-a57228b28dbe/91cb53ae0d5dbb379b9dffecf0a772593891d0d09bbe6d90ee746edbdb79e3ec75584f2ceb8260e9f675a90c05419b9b99842a76905b686f0f51c1a9d3e227ab.jpeg",
-    "category": "Business, Entrepreneurship"
+    "category": "Business"
   },
   {
     "title": "The Toast",
     "rss": "https://feeds.megaphone.fm/DEARMEDIALLC7892434789",
     "artwork": "https://megaphone.imgix.net/podcasts/98f67050-9f0a-11f0-b2a5-d3600b74e328/image/591f9b381e2aefc1f457f98f58cd1aa6.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Comedy, TV & Film"
+    "category": "Comedy"
   },
   {
     "title": "The Tonight Show Starring Jimmy Fallon",
     "rss": "https://rss.art19.com/the-tonight-show-jimmy-fallon",
     "artwork": "https://content.production.cdn.art19.com/images/fc/b3/68/dd/fcb368dd-2913-4c9b-a40f-6a53c6b04eaf/dfcd2b4a3aae148e39665314eb1ededdd8dd584d5cdbcf64335271b808b83564a0ef72cef87543c0024fccf1a4060a827a93030574ae144c260d6a4fa1b091b1.jpeg",
-    "category": "Comedy, Comedy Interviews, TV & Film"
+    "category": "Comedy"
   },
   {
     "title": "The Tony Kornheiser Show",
     "rss": "https://feeds.megaphone.fm/the-tony-kornheiser-show",
     "artwork": "https://megaphone.imgix.net/podcasts/1e3b06e8-0eff-11e9-aa8d-c36e28625ee8/image/31c8c6662f59ed90e0db4241db7c82d48d168d5251d9ac2aa0e1be1e688d63f382f2e934f58bfa7c9be850c8e34590d0010802367f666d0381f482474feadbc8.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Sports, News"
+    "category": "Sports"
   },
   {
     "title": "The Totally Football Show with James Richardson",
     "rss": "https://feeds.acast.com/public/shows/6818cd43eb146d8e35d312c7",
     "artwork": "https://assets.pippa.io/shows/6818cd43eb146d8e35d312c7/1780950933652-02e0ecae-817e-4c2d-b0ef-bd6027b5c90d.jpeg",
-    "category": "Sports, Soccer,"
+    "category": "Sports"
   },
   {
     "title": "The Town with Matthew Belloni",
@@ -2487,25 +2487,25 @@
     "title": "The Tucker Carlson Show",
     "rss": "https://feeds.megaphone.fm/RSV1597324942",
     "artwork": "https://megaphone.imgix.net/podcasts/d49d875e-88b1-11ee-bf49-4fc1a951b0d3/image/ffa3607b1efa2f98145bfc877e1313b9.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "News, News Commentary, Politics, Daily News"
+    "category": "News"
   },
   {
     "title": "The Unexplainable Disappearance of Mars Patel",
     "rss": "https://rss.art19.com/mars-patel",
     "artwork": "https://content.production.cdn.art19.com/images/6d/65/40/75/6d654075-ae4e-4b52-b006-d21e96a84444/549383375b61dd2c68e8822cb197486f8ac1a53f4ce86909f2a152b02673fb619990744d7759e96e1bc003d9495c10e04a3ea4857ef5aa445ea85e2bbd2bed90.jpeg",
-    "category": "Fiction, Drama, Arts, Performing Arts"
+    "category": "Fiction"
   },
   {
     "title": "The Vanished Podcast",
     "rss": "https://rss.art19.com/the-vanished-podcast-wondery",
     "artwork": "https://content.production.cdn.art19.com/images/e5/69/37/6d/e569376d-da8c-4681-84ed-6232238b515f/dfa6dc2122691133cb91197e9c1bdd591b6978bd5b18d2c932198ee29e65eb3eb59d3b83c29971dba41075eb178fc20a2ee0954fa61324c152795f64320adb43.jpeg",
-    "category": "True Crime, News, Society & Culture, Documentary"
+    "category": "True Crime"
   },
   {
     "title": "The Vergecast",
     "rss": "https://feeds.megaphone.fm/vergecast",
     "artwork": "https://megaphone.imgix.net/podcasts/e4c412e6-e1f0-11e8-9bde-83f9d376f059/image/dc65bd8c06aac32075dc6102fa4b7057.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Technology, News, Tech News"
+    "category": "Technology"
   },
   {
     "title": "The View: Behind the Table",
@@ -2517,7 +2517,7 @@
     "title": "The Warning Woods | Horror Stories",
     "rss": "https://feeds.megaphone.fm/THEWARNINGWOODS6178627385",
     "artwork": "https://megaphone.imgix.net/podcasts/4345cb3e-d7c8-11ee-80e8-d76e9bb46a1a/image/5c3fbaca934399bd133307a73965c78f.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Fiction, Science Fiction"
+    "category": "Fiction"
   },
   {
     "title": "The Watch",
@@ -2535,7 +2535,7 @@
     "title": "The Weekly Show with Jon Stewart",
     "rss": "https://feeds.megaphone.fm/BVLLC2163264914",
     "artwork": "https://megaphone.imgix.net/podcasts/7ead1b94-1938-11ef-8fb8-c377abd83739/image/4b6154d95812fc431e3ef1c59688ee0e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Comedy, News, News Commentary, Politics"
+    "category": "Comedy"
   },
   {
     "title": "The Weeknight",
@@ -2547,13 +2547,13 @@
     "title": "The Weirdest Thing I Learned This Week",
     "rss": "https://feeds.megaphone.fm/RECU9765916949",
     "artwork": "https://megaphone.imgix.net/podcasts/0652930a-ba66-11ec-a009-836290a60ad0/image/1313856-1615844905362-0e7d5d85efacf.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Science, Education, Society & Culture"
+    "category": "Science"
   },
   {
     "title": "The Why Files: Operation Podcast",
     "rss": "https://feeds.megaphone.fm/QCD2348265349",
     "artwork": "https://megaphone.imgix.net/podcasts/a942bed8-29ec-11f1-9dce-dffd9eaf67d0/image/0d52db4cef1bfa19140677129642854a.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Society & Culture, Documentary, Fiction, Science Fiction, Science, Life Sciences"
+    "category": "Society & Culture"
   },
   {
     "title": "The Wonder of Stevie",
@@ -2565,7 +2565,7 @@
     "title": "The Zach Lowe Show",
     "rss": "https://feeds.megaphone.fm/zach-lowe",
     "artwork": "https://megaphone.imgix.net/podcasts/745e06ba-08ef-11f0-ac3b-234508f92d6b/image/136359fef5c185b3fb961ede41978837.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Sports, Basketball"
+    "category": "Sports"
   },
   {
     "title": "Therapuss with Jake Shane",
@@ -2577,7 +2577,7 @@
     "title": "This American Life",
     "rss": "https://www.thisamericanlife.org/podcast/rss.xml",
     "artwork": "https://thisamericanlife.org/sites/all/themes/thislife/img/tal-logo-3000x3000.png",
-    "category": "Society & Culture, Arts, News"
+    "category": "Society & Culture"
   },
   {
     "title": "This Cowboy Life",
@@ -2601,31 +2601,31 @@
     "title": "This Week in Virology",
     "rss": "http://feeds.feedburner.com/twivmp3",
     "artwork": "https://static.libsyn.com/p/assets/7/2/4/9/7249be555a480cd2/TWiV_v3_white2400.jpg",
-    "category": "Science & Medicine, Medicine"
+    "category": "Science & Medicine"
   },
   {
     "title": "THREE",
     "rss": "https://feeds.simplecast.com/q8EXDCJg",
     "artwork": "https://image.simplecastcdn.com/images/7d68c467-d3d7-41c3-b7c0-92218b530432/fa51e8ac-ccf1-4e63-b566-0c014b757487/3000x3000/three-season-2-show-cover-3000px-300ppi.jpg?aid=rss_feed",
-    "category": "True Crime, Society & Culture, Documentary"
+    "category": "True Crime"
   },
   {
     "title": "Throughline",
     "rss": "https://feeds.npr.org/510333/podcast.xml",
     "artwork": "https://media.npr.org/assets/img/2024/05/15/throughline_tile-art_sq-a59d7da2ea2bf97562aeec6440ddf837e8f7de65.jpg?s=1400&c=66&f=jpg",
-    "category": "History, Society & Culture, Documentary"
+    "category": "History"
   },
   {
     "title": "Tides of History",
     "rss": "https://rss.art19.com/tides-of-history",
     "artwork": "https://content.production.cdn.art19.com/images/09/07/0d/91/09070d91-28ed-45ce-ace1-6e989334ec83/e84497c04fa5b894c7fd6fd559569a41dff4c6fc6368279754268b554d39bd477b89a398557259f158daf02b3f899b4caf9a06be8924ddeb831e6773043c43bf.jpeg",
-    "category": "History, Society & Culture, Documentary"
+    "category": "History"
   },
   {
     "title": "Timesuck with Dan Cummins",
     "rss": "https://feeds.simplecast.com/Llc7KL2K",
     "artwork": "https://image.simplecastcdn.com/images/5b7d8c77-15ba-4eff-a999-2e725db21db5/f1640d4a-efcb-4562-9028-f1653c34bd1d/3000x3000/timesuck-cover.jpg?aid=rss_feed",
-    "category": "Comedy, Society & Culture, Education"
+    "category": "Comedy"
   },
   {
     "title": "Tiny Desk Concerts - Audio",
@@ -2637,19 +2637,19 @@
     "title": "Today, Explained",
     "rss": "https://feeds.megaphone.fm/VMP5705694065",
     "artwork": "https://megaphone.imgix.net/podcasts/23d52a2a-1c5f-11ea-9a0e-b70170f2a827/image/uploads_2F1588357113366-jjsdfzx6x4m-c0339c10f9b113a5fcc93436e66e5ef4_2FTodayExplained+V2_Tile_3000x3000+_281_29.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "News, Daily News, Politics"
+    "category": "News"
   },
   {
     "title": "Tom Curran\u2019s Patriots Talk Podcast",
     "rss": "https://feeds.simplecast.com/WpIK82Oy",
     "artwork": "https://image.simplecastcdn.com/images/f512dc56-1d77-4b0b-b79e-d96860440239/fcd1f812-94d3-47a4-a161-73470a62e67b/3000x3000/3000x3000-pats-talk.jpg?aid=rss_feed",
-    "category": "Sports, Football, News, Sports News"
+    "category": "Sports"
   },
   {
     "title": "Total Soccer Show: USMNT, Champions League, EPL, and more ...",
     "rss": "https://feeds.acast.com/public/shows/6818cfc81d28d62313b34379",
     "artwork": "https://assets.pippa.io/shows/6818cfc81d28d62313b34379/show-cover.png",
-    "category": "Sports, Soccer, News, Sports News"
+    "category": "Sports"
   },
   {
     "title": "Trace of Suspicion",
@@ -2661,7 +2661,7 @@
     "title": "True Crime All The Time",
     "rss": "https://rss.art19.com/true-crime-all-the-time",
     "artwork": "https://content.production.cdn.art19.com/images/4b/6c/7d/74/4b6c7d74-5655-48a0-aca8-ddf0fd607ed1/f3f5a8da79f7297430b41ead8e6c5f79b13f4e98645ab073630de278f59359b2189513655cfb4412f0a21568dc04d8d1ad3695d2993961fc3267a435d1135877.jpeg",
-    "category": "True Crime, Society & Culture, Documentary"
+    "category": "True Crime"
   },
   {
     "title": "True Crime All The Time Unsolved",
@@ -2673,7 +2673,7 @@
     "title": "True Crime Garage",
     "rss": "https://feeds.simplecast.com/zatU8XEL",
     "artwork": "https://image.simplecastcdn.com/images/20b232f5-ee6a-4911-916b-a6b2a7854848/a963bf0a-0c9d-41fd-b41d-4a035c34ad0f/3000x3000/image.jpg?aid=rss_feed",
-    "category": "True Crime, Society & Culture, History"
+    "category": "True Crime"
   },
   {
     "title": "True Crime with Kimbyr",
@@ -2697,61 +2697,61 @@
     "title": "Truth For Life Daily Program",
     "rss": "http://feeds.feedburner.com/TruthForLife",
     "artwork": "https://www.truthforlife.org/static/uploads/itunesconnect/iTunes_Thumbnail_DailyProgram.jpg",
-    "category": "Religion & Spirituality, Christianity"
+    "category": "Religion & Spirituality"
   },
   {
     "title": "Two Hot Takes",
     "rss": "https://feeds.megaphone.fm/GLT3561373177",
     "artwork": "https://megaphone.imgix.net/podcasts/5a155bc4-e3f0-11ef-a7b4-ff9d06d2b400/image/ec1c492539ed92b2706ad8796511b531.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Comedy, Society & Culture, Education"
+    "category": "Comedy"
   },
   {
     "title": "Ukraine: The Latest",
     "rss": "https://feeds.acast.com/public/shows/6583012e715d5300169dcdcb",
     "artwork": "https://assets.pippa.io/shows/6583012e715d5300169dcdcb/1764584302616-4de08b46-4a22-4be2-a829-36e6222c7982.jpeg",
-    "category": "News, Daily News, Society & Culture, Documentary, History"
+    "category": "News"
   },
   {
     "title": "Unashamed with the Robertson Family",
     "rss": "https://feeds.megaphone.fm/BMDC9083048104",
     "artwork": "https://megaphone.imgix.net/podcasts/cb0e59bc-28dd-11ea-8393-dfe70fb4e139/image/e8e17a99beca1e1af4877bbca4658a3e.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Religion & Spirituality, Christianity, Religion"
+    "category": "Religion & Spirituality"
   },
   {
     "title": "Unexplainable",
     "rss": "https://feeds.megaphone.fm/VMP9331026707",
     "artwork": "https://megaphone.imgix.net/podcasts/bf04a680-6afe-11eb-a86a-3f07259749a3/image/d510ec950f9a501094c11003381fcedc.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Science, Life Sciences, Natural Sciences"
+    "category": "Science"
   },
   {
     "title": "Unsubscribe Podcast",
     "rss": "https://feeds.megaphone.fm/UG3792007027",
     "artwork": "https://megaphone.imgix.net/podcasts/8c71a7ae-ad7d-11ed-8374-0bf4bcdcb553/image/94bcf738def2daa87e50b9c6b0e9c27d.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Comedy, Comedy Interviews, Society & Culture, Personal Journals"
+    "category": "Comedy"
   },
   {
     "title": "Up First from NPR",
     "rss": "https://feeds.npr.org/510318/podcast.xml",
     "artwork": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/1400/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe0%2F7a%2Ffe9d16a44fbf9dd2d9932ffe799b%2F510318.png",
-    "category": "News, Daily News"
+    "category": "News"
   },
   {
     "title": "Victor Davis Hanson: In His Own Words",
     "rss": "https://feeds.megaphone.fm/THEDAILYSIGNAL2043100319",
     "artwork": "https://megaphone.imgix.net/podcasts/76d9b596-a634-11f0-ba14-1fb74ad41d10/image/978abf6bdc5008721d7a1ee874b0273c.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "News, News Commentary"
+    "category": "News"
   },
   {
     "title": "VINCE",
     "rss": "https://feeds.megaphone.fm/WWO4092921469",
     "artwork": "https://megaphone.imgix.net/podcasts/19b3cbe0-3e20-11ef-a339-b321b85ba344/image/74816da15e751b8583cb22cc6b3e66bc.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "News, Daily News, Politics, News Commentary"
+    "category": "News"
   },
   {
     "title": "Wait Wait... Don't Tell Me!",
     "rss": "https://feeds.npr.org/344098539/podcast.xml",
     "artwork": "https://media.npr.org/assets/img/2022/09/23/waitwait-don-t-tell-me_tile_npr-network-01_sq-c912ab84bb59df0c4eb2af72886c763ce97f3e3d.jpg?s=1400&c=66&f=jpg",
-    "category": "Comedy, Leisure, Other Games"
+    "category": "Comedy"
   },
   {
     "title": "Watch What Happens Live with Andy Cohen",
@@ -2763,13 +2763,13 @@
     "title": "Waveform: The MKBHD Podcast",
     "rss": "https://feeds.megaphone.fm/STU4418364045",
     "artwork": "https://megaphone.imgix.net/podcasts/ae6237e6-7e71-11e9-9c4d-3b02b0eab47c/image/c593abe2ba6d4d476bb3c2b6cfb3b9b9.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Technology, News, Tech News, Leisure, Hobbies"
+    "category": "Technology"
   },
   {
     "title": "We Might Be Drunk",
     "rss": "https://feeds.megaphone.fm/YMH1251936023",
     "artwork": "https://megaphone.imgix.net/podcasts/594c7c94-98d7-11f0-a551-63ec77ca5cfb/image/207c13a897c640dcd7722654d69bd50b.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Comedy, TV & Film"
+    "category": "Comedy"
   },
   {
     "title": "We're Here to Help",
@@ -2781,19 +2781,19 @@
     "title": "Welcome to Night Vale",
     "rss": "https://feeds.megaphone.fm/SBP4591212513",
     "artwork": "https://megaphone.imgix.net/podcasts/83c028bc-3b63-11f0-86bb-17a55ed91a19/image/d6f0573de211e3ccc3403f81c80687d3.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Fiction, Science Fiction"
+    "category": "Fiction"
   },
   {
     "title": "Westwood One Sports Night",
     "rss": "https://feeds.megaphone.fm/WWO3186199374",
     "artwork": "https://megaphone.imgix.net/podcasts/3b1b74d4-e042-11f0-8e82-9b5837917824/image/5ab0a27ec20a51f4ad34345b4f158df4.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "News, Sports News, Sports, Football"
+    "category": "News"
   },
   {
     "title": "What's Your Story? with Steph McMahon",
     "rss": "https://rss.art19.com/whats-your-story",
     "artwork": "https://content.production.cdn.art19.com/images/7f/25/3c/37/7f253c37-182e-4664-8dc6-231905291fc5/77175b569fdb41f4858b1f838be8eec7a1e73d5f41a001cb4182ffd232c7469095359af788e2d4854c7d703ae2b8b7e4f713308c949e4153cd0870fafa4787a1.jpeg",
-    "category": "Sports, Wrestling, Society & Culture"
+    "category": "Sports"
   },
   {
     "title": "Whiskey Ginger with Andrew Santino",
@@ -2805,19 +2805,19 @@
     "title": "Why Is This Happening? The Chris Hayes Podcast",
     "rss": "https://feeds.simplecast.com/Ftpd36Dg",
     "artwork": "https://image.simplecastcdn.com/images/bac1b529-5924-47d7-a26e-2bb1c59c1103/50804245-1abf-4570-8804-7f7d2865055c/3000x3000/ms-20now-20rebrand-with-20-3000x3000.jpg?aid=rss_feed",
-    "category": "News, Society & Culture"
+    "category": "News"
   },
   {
     "title": "Widow's Bay",
     "rss": "https://feeds.acast.com/public/shows/69fff19b668fe6d31fbb7ab2",
     "artwork": "https://assets.pippa.io/shows/69fff19b668fe6d31fbb7ab2/1779466305032-814acb5f-3b62-4ed5-8caa-c2ed5cc84203.jpeg",
-    "category": "TV & Film, TV & Film, After Shows, TV & Film, TV Reviews"
+    "category": "TV & Film"
   },
   {
     "title": "Will Cain Country",
     "rss": "https://feeds.megaphone.fm/FOXM3493988099",
     "artwork": "https://megaphone.imgix.net/podcasts/a6a71f82-74e9-11ec-9caf-bfe51504a473/image/6e3e95d39b86679b770124c2e7230292.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "News, News Commentary, Sports News, Society & Culture"
+    "category": "News"
   },
   {
     "title": "Wiser Than Me with Julia Louis-Dreyfus",
@@ -2829,19 +2829,19 @@
     "title": "With The Perrys",
     "rss": "https://feeds.megaphone.fm/withtheperrys",
     "artwork": "https://megaphone.imgix.net/podcasts/7ab6fbca-e2e7-11f0-89c9-0b67b07dd360/image/71c232cb16711df735e78ea1c62fa942.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Religion & Spirituality, Christianity, Society & Culture, Personal Journals"
+    "category": "Religion & Spirituality"
   },
   {
     "title": "WMMR's Preston & Steve Daily Podcast",
     "rss": "https://rss.art19.com/wmmrs-preston-and-steve-daily-podcast",
     "artwork": "https://content.production.cdn.art19.com/images/4c/50/a0/9a/4c50a09a-94e1-4fdc-882c-50418fe0e0ee/155766062e2ff2b11585021ab27eb8346e80a76fddebb6cb661d2b555e878dd4a69b73006e13b40e5acdd0cde7628ca795b820792a2ea6b6db9058ca29504850.jpeg",
-    "category": "Comedy, Society & Culture"
+    "category": "Comedy"
   },
   {
     "title": "Wolf 359",
     "rss": "https://feeds.megaphone.fm/wolf359radio",
     "artwork": "https://megaphone.imgix.net/podcasts/223f41da-9cce-11ed-a3d6-936c10b77985/image/show-cover.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Fiction, Science Fiction, Comedy Fiction"
+    "category": "Fiction"
   },
   {
     "title": "World Cafe Words and Music Podcast",
@@ -2853,7 +2853,7 @@
     "title": "World News Tonight with David Muir",
     "rss": "https://feeds.megaphone.fm/ESP4140596756",
     "artwork": "https://megaphone.imgix.net/podcasts/e2b57b50-99f2-11ea-8a6d-3f1de3e89c20/image/58f6c6ae85395579ec87b1de09f71bf9.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "News, Daily News"
+    "category": "News"
   },
   {
     "title": "WTF with Marc Maron Podcast",
@@ -2865,36 +2865,36 @@
     "title": "Yahoo Fantasy Forecast",
     "rss": "https://feeds.simplecast.com/s3ulbOAs",
     "artwork": "https://image.simplecastcdn.com/images/e66e4bbf-f1f2-407a-ad1b-93e70afbe9b1/9d0fe852-17b1-4833-bdca-23cd670c1819/3000x3000/pd071024fantasyforecastmainart.jpg?aid=rss_feed",
-    "category": "Sports, Fantasy Sports, Sports, Football"
+    "category": "Sports"
   },
   {
     "title": "Yahoo Sports NBA",
     "rss": "https://feeds.simplecast.com/A9Qn_Eje",
     "artwork": "https://image.simplecastcdn.com/images/2c435823-3aee-47ab-9a84-1c8ecf686bea/21ce184a-adb8-4a3b-b2d4-efbf4a596d1b/3000x3000/1d9ae6c2f518bbbf659f6956864ad994fe486ab528c9c4287344073cfa976ec89179a322c9b8eff0065755ee753f1ce7caf4ac65399f3b24a6366c22eca9ba8e.jpeg?aid=rss_feed",
-    "category": "Sports, Basketball, News, Sports News"
+    "category": "Sports"
   },
   {
     "title": "You Be Trippin'",
     "rss": "https://feeds.megaphone.fm/YMH9003607771",
     "artwork": "https://megaphone.imgix.net/podcasts/59d6240c-dca5-11ee-a948-a7f244235576/image/9a0d29b4b60c0dbf314854bc38cf23a9.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Comedy, Society & Culture, Places & Travel"
+    "category": "Comedy"
   },
   {
     "title": "You Made It Weird with Pete Holmes",
     "rss": "https://feeds.megaphone.fm/LEME1276237086",
     "artwork": "https://megaphone.imgix.net/podcasts/7926a820-34fc-11f1-8539-7b77a5fb5bbd/image/83ee44c93ec0e1cd9fb30c344269c404.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Comedy, Comedy Interviews"
+    "category": "Comedy"
   },
   {
     "title": "Your Mom's House with Christina P. and Tom Segura",
     "rss": "https://feeds.megaphone.fm/YMH5847489315",
     "artwork": "https://megaphone.imgix.net/podcasts/276ebc20-99ef-11ee-bf6f-2f17c5f6c247/image/2024_YMH_PODCASTART.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Comedy, Comedy Interviews, Society & Culture, Relationships, TV & Film"
+    "category": "Comedy"
   },
   {
     "title": "ZOE Science & Nutrition",
     "rss": "https://feeds.megaphone.fm/ZOELIMITED9301524082",
     "artwork": "https://megaphone.imgix.net/podcasts/2ca664fc-350f-11ef-8b9e-1714a108b2e4/image/5c7aa88210b81d84f97d06f0046b99bb.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "category": "Health & Fitness, Nutrition, Science, Education"
+    "category": "Health & Fitness"
   }
 ]
