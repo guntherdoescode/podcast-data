@@ -2682,6 +2682,12 @@
     "category": "True Crime"
   },
   {
+    "title": "True Crime South Africa",
+    "rss": "https://rss.iono.fm/rss/chan/4652",
+    "artwork": "https://cdn.iono.fm/files/p1387/logo_4652_20250910_202918_1400.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "category": "True Crime"
+  },
+  {
     "title": "True Sunlight",
     "rss": "https://feeds.megaphone.fm/BER9965516640",
     "artwork": "https://megaphone.imgix.net/podcasts/df32e1c8-10b8-11ec-8ba1-7f520862c3fe/image/44f58697142942c00f7844c85b705b41.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
